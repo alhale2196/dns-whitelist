@@ -1,0 +1,42 @@
+name: Update blocklist from Hagezi repo
+
+on:
+  schedule:
+    - cron: '30 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  copy-file-from-hagezi-repo:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Copy current file to archive
+        run:
+          cp "whitelist-referral.txt" "archive/$(date +'%Y-%m-%d')-whitelist-referral.txt"
+
+      - name: Clone Hagezi repository
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git clone https://github.com/hagezi/dns-blocklists.git
+
+      - name: Copy file from remote repository
+        run:
+          cp dns-blocklists/adblock/whitelist-referral.txt ./
+          
+      - name: Commit and push changes
+        if: env.exiting1 != 'true' && env.exiting2 != 'true'
+        run: |
+          git add whitelist-referral.txt archive/$(date +'%Y-%m-%d')-whitelist-referral.txt
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Hagezi DNS whitelist daily update [$(date +'%Y-%m-%d')]"
+            git push
+          fi
