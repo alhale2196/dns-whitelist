@@ -1,8 +1,8 @@
-name: Update blocklist from Hagezi repo
+name: Weekly update blocklists from Hagezi repo
 
 on:
   schedule:
-    - cron: '30 */12 * * *'
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 permissions:
@@ -17,8 +17,25 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Copy current file to archive
-        run:
+        run: |
           cp "whitelist-referral.txt" "archive/$(date +'%Y-%m-%d')-whitelist-referral.txt"
+          cp "light.txt" "archive/$(date +'%Y-%m-%d')-light.txt"
+          cp "multi.txt" "archive/$(date +'%Y-%m-%d')-multi.txt"
+          cp "pro.txt" "archive/$(date +'%Y-%m-%d')-pro.txt"
+          cp "pro.plus.txt" "archive/$(date +'%Y-%m-%d')-pro.plus.txt"
+          cp "ultimate.txt" "archive/$(date +'%Y-%m-%d')-ultimate.txt"
+          cp "tif.txt" "archive/$(date +'%Y-%m-%d')-tif.txt"
+          cp "fake.txt" "archive/$(date +'%Y-%m-%d')-fake.txt"
+          cp "popupads.txt" "archive/$(date +'%Y-%m-%d')-popupads.txt"
+          cp "doh-vpn-proxy-bypass.txt" "archive/$(date +'%Y-%m-%d')-doh-vpn-proxy-bypass.txt"
+          cp "dyndns.txt" "archive/$(date +'%Y-%m-%d')-dyndns.txt"
+          cp "hoster.txt" "archive/$(date +'%Y-%m-%d')-hoster.txt"
+          cp "urlshortener.txt" "archive/$(date +'%Y-%m-%d')-urlshortener.txt"
+          cp "spam-tlds.txt" "archive/$(date +'%Y-%m-%d')-spam-tlds.txt"
+          cp "anti.piracy.txt" "archive/$(date +'%Y-%m-%d')-anti.piracy.txt"
+          cp "gambling.txt" "archive/$(date +'%Y-%m-%d')-gambling.txt"
+          cp "gambling.mini.txt" "archive/$(date +'%Y-%m-%d')-gambling.mini.txt"
+          cp "nsfw.txt" "archive/$(date +'%Y-%m-%d')-nsfw.txt"
 
       - name: Clone Hagezi repository
         run: |
@@ -27,16 +44,34 @@ jobs:
           git clone https://github.com/hagezi/dns-blocklists.git
 
       - name: Copy file from remote repository
-        run:
+        run: |
           cp dns-blocklists/adblock/whitelist-referral.txt ./
+          cp dns-blocklists/adblock/light.txt ./
+          cp dns-blocklists/adblock/multi.txt ./
+          cp dns-blocklists/adblock/pro.txt ./
+          cp dns-blocklists/adblock/pro.plus.txt ./
+          cp dns-blocklists/adblock/ultimate.txt ./
+          cp dns-blocklists/adblock/tif.txt ./
+          cp dns-blocklists/adblock/fake.txt ./
+          cp dns-blocklists/adblock/popupads.txt ./
+          cp dns-blocklists/adblock/doh-vpn-proxy-bypass.txt ./
+          cp dns-blocklists/adblock/dyndns.txt ./
+          cp dns-blocklists/adblock/hoster.txt ./
+          cp dns-blocklists/adblock/urlshortener.txt ./
+          cp dns-blocklists/adblock/spam-tlds.txt ./
+          cp dns-blocklists/adblock/anti.piracy.txt ./
+          cp dns-blocklists/adblock/gambling.txt ./
+          cp dns-blocklists/adblock/gambling.mini.txt ./
+          cp dns-blocklists/adblock/nsfw.txt ./
           
       - name: Commit and push changes
         if: env.exiting1 != 'true' && env.exiting2 != 'true'
         run: |
-          git add whitelist-referral.txt archive/$(date +'%Y-%m-%d')-whitelist-referral.txt
+          git add whitelist-referral.txt light.txt multi.txt pro.txt pro.plus.txt ultimate.txt tif.txt fake.txt popupads.txt doh-vpn-proxy-bypass.txt dyndns.txt hoster.txt urlshortener.txt spam-tlds.txt anti.piracy.txt gambling.txt gambling.mini.txt nsfw.txt \
+          archive/$(date +'%Y-%m-%d')-whitelist-referral.txt archive/$(date +'%Y-%m-%d')-light.txt archive/$(date +'%Y-%m-%d')-multi.txt archive/$(date +'%Y-%m-%d')-pro.txt archive/$(date +'%Y-%m-%d')-pro.plus.txt archive/$(date +'%Y-%m-%d')-ultimate.txt archive/$(date +'%Y-%m-%d')-tif.txt archive/$(date +'%Y-%m-%d')-fake.txt archive/$(date +'%Y-%m-%d')-popupads.txt archive/$(date +'%Y-%m-%d')-doh-vpn-proxy-bypass.txt archive/$(date +'%Y-%m-%d')-dyndns.txt archive/$(date +'%Y-%m-%d')-hoster.txt archive/$(date +'%Y-%m-%d')-urlshortener.txt archive/$(date +'%Y-%m-%d')-spam-tlds.txt archive/$(date +'%Y-%m-%d')-anti.piracy.txt archive/$(date +'%Y-%m-%d')-gambling.txt archive/$(date +'%Y-%m-%d')-gambling.mini.txt archive/$(date +'%Y-%m-%d')-nsfw.txt
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
           else
-            git commit -m "Hagezi DNS whitelist daily update [$(date +'%Y-%m-%d')]"
+            git commit -m "Hagezi DNS blocklists weekly update [$(date +'%Y-%m-%d')]"
             git push
           fi
