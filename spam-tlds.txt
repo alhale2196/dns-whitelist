@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Aug 2025 18:49 UTC
-! Version: 2025.0815.1849.38
+! Last modified: 23 Aug 2025 11:25 UTC
+! Version: 2025.0823.1125.04
 ! Syntax: AdGuard
 ! Number of latin TLDs: 274 - punycode TLDs: 151
 !
@@ -50,8 +50,8 @@
 ||*.casa^$denyallow=nabu.casa
 ||*.cash^
 ||*.casino^
-||*.cc^$denyallow=10gen.cc|adguard-vpn.cc|akami-solutions.cc|arduino.cc|coolkit.cc|dhilosnetworks.cc|dict.cc|fanbox.cc|frontrow.cc|is.cc|lilygo.cc|lurl.cc|mydaddy.cc|myppt.cc|postimg.cc|rapidcdn.cc|rutracker.cc|shottr.cc|vern.cc|vocus.cc|wallhaven.cc|yipee.cc|zcyph.cc
-||*.center^$denyallow=priv.center
+||*.cc^$denyallow=10gen.cc|adguard-vpn.cc|akami-solutions.cc|arduino.cc|coolkit.cc|dhilosnetworks.cc|dict.cc|fanbox.cc|frontrow.cc|is.cc|lilygo.cc|lurl.cc|mydaddy.cc|myppt.cc|postimg.cc|ptt.cc|rapidcdn.cc|rutracker.cc|shottr.cc|vern.cc|vocus.cc|wallhaven.cc|yipee.cc|zcyph.cc
+||*.center^$denyallow=mein-kunden.center|priv.center|relaxx.center
 ||*.ceo^
 ||*.cf^$denyallow=google.cf
 ||*.cfd^$denyallow=freedium.cfd
@@ -110,7 +110,7 @@
 ||*.forex^
 ||*.forsale^
 ||*.foundation^$denyallow=e.foundation|grapheneos.foundation|jp.foundation|player.foundation
-||*.fun^$denyallow=chinaq.fun|neal.fun|patterncraft.fun|strem.fun
+||*.fun^$denyallow=cdn.fun|chinaq.fun|neal.fun|patterncraft.fun|strem.fun
 ||*.fund^
 ||*.futbol^
 ||*.fyi^$denyallow=apollo.fyi|better.fyi|genderdysphoria.fyi|iusearchlinux.fyi|laelaps.fyi|levels.fyi|lunar.fyi|ost2.fyi|recollect.fyi|vercel.fyi
@@ -167,14 +167,14 @@
 ||*.miami^
 ||*.ml^$denyallow=aire.ml|amap.ml|fmhy.ml|google.ml|info-matin.ml|lemmygrad.ml|lemmy.ml|lingva.ml|loma.ml|mastodon.ml|melody.ml|precure.ml|prompt.ml
 ||*.moda^
-||*.moe^$denyallow=anh.moe|aniya.moe|catbox.moe|cubari.moe|ddlc.moe|mathi.moe|nyarchlinux.moe
+||*.moe^$denyallow=anh.moe|aniya.moe|catbox.moe|cubari.moe|ddlc.moe|honse.moe|mathi.moe|nyarchlinux.moe|uma.moe
 ||*.mom^
 ||*.money^$denyallow=flowyour.money|unstoppable.money|vivid.money
 ||*.monster^$denyallow=cloudcdn.monster|fedi.monster|mortgage.monster|rollenspiel.monster|tts.monster|yts.monster
 ||*.motorcycles^
 ||*.mov^$denyallow=david.mov|peerflix.mov|pstream.mov|spankbang.mov
 ||*.my^$denyallow=edu.my|google.com.my
-||*.name^$denyallow=davidwalsh.name
+||*.name^$denyallow=davidwalsh.name|stefvanbuuren.name
 ||*.navy^
 ||*.new^$denyallow=bolt.new|doc.new|drawing.new|form.new|git.new|lecture.new|postgres.new|sheet.new|site.new|slide.new
 ||*.ninja^$denyallow=poe.ninja|protomedia.ninja
@@ -216,7 +216,7 @@
 ||*.rent^$denyallow=srv.rent
 ||*.repair^
 ||*.rest^$denyallow=insomnia.rest|nect.rest
-||*.restaurant^
+||*.restaurant^$denyallow=moyos.restaurant
 ||*.review^
 ||*.reviews^
 ||*.rich^
@@ -233,14 +233,14 @@
 ||*.shop^$denyallow=11ts.shop|30grad.shop|4id.shop|chessvibes.shop|durst.shop|eventix.shop|freshtorge.shop|frontiers.shop|geekchic.shop|grnk.shop|grog.shop|henssler.shop|kalypso.shop|majblomman.shop|munu.shop|music-merchant.shop|nordland.shop|owl-dampfer.shop|prohibited.shop|schweden.shop|scorpions.shop|sentry.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop|xn--dnemark-5wa.shop
 ||*.shopping^
 ||*.show^$denyallow=camz.show|j.show
-||*.site^$denyallow=7mb.site|additive-apps.site|aftermath.site|bio.site|canva.site|claude.site|fbsmarthome.site|gov-img.site|heyflow.site|i5i.site|kaylees.site|notion.site|onrocket.site|platformsh.site|privacy-test-pages.site|reddit-doesnt-like-this.site|wishonly.site|wolow.site|wpdns.site
+||*.site^$denyallow=7mb.site|additive-apps.site|aftermath.site|anonimayzer.site|bio.site|canva.site|claude.site|fbsmarthome.site|gov-img.site|heyflow.site|i5i.site|kaylees.site|notion.site|onrocket.site|platformsh.site|privacy-test-pages.site|reddit-doesnt-like-this.site|wishonly.site|wolow.site|wpdns.site
 ||*.skin^$denyallow=quermbbd.skin
 ||*.solar^$denyallow=forecast.solar|optimizer.solar
 ||*.soy^
-||*.space^$denyallow=dragonscave.space|drgns.space|embed-player.space|hf.space|httpjames.space|hullseals.space|hyper.space|infosec.space|ippen.space|keyboard-test.space|latent.space|link.space|mapstodon.space|melmac.space|mempool.space|metahub.space|momonster.space|monitorburz.space|ocr.space|oldbytes.space|qwik.space|searx.space|takeb1nzyto.space|truepeople.space|uexcorp.space
+||*.space^$denyallow=dragonscave.space|drgns.space|embed-player.space|hf.space|httpjames.space|hullseals.space|hyper.space|infosec.space|ippen.space|keyboard-test.space|latent.space|link.space|mapstodon.space|melmac.space|mempool.space|metahub.space|momonster.space|monitorburz.space|ocr.space|oldbytes.space|qwik.space|scurra.space|searx.space|takeb1nzyto.space|truepeople.space|uexcorp.space
 ||*.sport^
 ||*.srl^
-||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|ettoresoftware.store|g-h.store|glitchproductions.store|heavysaurus.store|iqunix.store|pbshop.store|shoplazza.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store
+||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|ettoresoftware.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|iqunix.store|pbshop.store|shoplazza.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store
 ||*.studio^$denyallow=flourish.studio|starapps.studio|zenn.studio
 ||*.style^$denyallow=primer.style
 ||*.su^$denyallow=encode.su|jpg4.su|jpg5.su|promportal.su|saint2.su
@@ -288,7 +288,7 @@
 ||*.yoga^
 ||*.you^
 ||*.za.com^
-||*.zip^$denyallow=community.zip|financialstatement.zip|lemmy.zip|makea.zip|uploaded-files.zip|voron.zip
+||*.zip^$denyallow=community.zip|financialstatement.zip|lemmy.zip|makea.zip|transfer.zip|uploaded-files.zip|voron.zip
 ||*.xn--p1acf^
 ||*.xn--11b4c3d^
 ||*.xn--1ck2e1b^
