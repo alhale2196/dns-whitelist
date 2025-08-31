@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Aug 2025 14:31 UTC
-! Version: 2025.0830.1431.17
+! Last modified: 22 Aug 2025 23:05 UTC
+! Version: 2025.0822.2305.38
 ! Syntax: AdBlock
-! Number of entries: 2130
+! Number of entries: 2133
 !
 ||000a.de^
 ||000free.us^
@@ -141,6 +141,7 @@
 ||50megs.com^
 ||50webs.com^
 ||50webs.org^
+||blog.51cto.com^
 ||530.at^
 ||59bloggers.com^
 ||5gbfree.com^
@@ -817,7 +818,6 @@
 ||download.sh^
 ||downloaden24.de^
 ||dox4.com^
-||dpdns.org^
 ||dr.ag^
 ||dragndropbuilder.com^
 ||dreamstation.com^
@@ -849,7 +849,6 @@
 ||ecrater.com^
 ||editboard.com^
 ||edoctransfer.com^
-||edu.eu^
 ||edublogs.com^
 ||edublogs.org^
 ||educationalimpactblog.com^
@@ -878,6 +877,7 @@
 ||eo3.de^
 ||blog.eonet.jp^
 ||epizy.com^
+||equalside.shop^
 ||erlegen.de^
 ||es.gp^
 ||es-bbvacliente-movil.com^
@@ -1284,6 +1284,7 @@
 ||kann-helfen.de^
 ||kataweb.it^
 ||keepfree.de^
+||keetkotoun.com^
 ||kidnumber.shop^
 ||kilu.at^
 ||kilu.biz^
@@ -1628,7 +1629,6 @@
 ||qowap.com^
 ||qu.am^
 ||quiztionnaire.uk^
-||qzz.io^
 ||r.gp^
 ||r2.dev^
 ||radiola.club^
@@ -1662,8 +1662,11 @@
 ||rumahweb.org^
 ||runhosting.com^
 ||s.gp^
-||sa.com^
 ||sa.gp^
+||citybios.sa.com^
+||lifecycle.sa.com^
+||lineroaming.sa.com^
+||regentcoin.sa.com^
 ||safe-girogate.com^
 ||safe-ws.de^
 ||safwhatsapp.top^
@@ -1912,7 +1915,6 @@
 ||uphero.com^
 ||uploader.eu^
 ||urlaub.lc^
-||us.kg^
 ||us.nf^
 ||us.st^
 ||usa.gg^
@@ -2096,7 +2098,6 @@
 ||xtgem.com^
 ||xtreemhost.com^
 ||xuu.pl^
-||xx.kg^
 ||xx.lc^
 ||xxl.lc^
 ||xxxxxxxx.jp^
@@ -2122,9 +2123,11 @@
 ||yovip.net^
 ||yuku.com^
 ||z.gp^
-||za.com^
 ||za.gp^
 ||za.net^
+||awi.za.com^
+||baxiys.za.com^
+||ishg.za.com^
 ||zamsblog.com^
 ||zapacesauto.shop^
 ||zeblog.com^
