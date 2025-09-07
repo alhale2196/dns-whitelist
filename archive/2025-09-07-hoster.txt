@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Sep 2025 06:48 UTC
-! Version: 2025.0905.0648.29
+! Last modified: 30 Aug 2025 14:31 UTC
+! Version: 2025.0830.1431.17
 ! Syntax: AdBlock
-! Number of entries: 2123
+! Number of entries: 2130
 !
 ||000a.de^
 ||000free.us^
@@ -930,6 +930,8 @@
 ||fb-business.com^
 ||fblogs.com^
 ||fbzsa.com^
+||fc2.com^
+||fc2web.com^
 ||fcpages.com^
 ||fe-boutique.shop^
 ||ferreracademy.com^
@@ -1273,6 +1275,7 @@
 ||jts-blog.com^
 ||jugem.cc^
 ||jugem.jp^
+||justaboutblogs.com^
 ||justns.ru^
 ||k.gp^
 ||k1.cx^
@@ -1357,6 +1360,7 @@
 ||maddsites.com^
 ||madmouseblog.com^
 ||mail.ht^
+||majesticbank.at^
 ||majesticbank.de^
 ||maktoobblog.com^
 ||malltree.shop^
@@ -1523,10 +1527,12 @@
 ||oooninja.com^
 ||opisial.com^
 ||orangeusa.shop^
+||orderedlinks.shop^
 ||24.org.es^
 ||orgsites.com^
 ||osc.pl^
 ||ourcodeblog.com^
+||outoverall.shop^
 ||over-blog.com^
 ||over-blog.fr^
 ||over-blog.it^
@@ -1802,7 +1808,6 @@
 ||teleporthq.app^
 ||telrock.org^
 ||tempisite.com^
-||temporary.site^
 ||temporary-demo.site^
 ||temu-jp.shop^
 ||tentbuildingservices.eu^
@@ -1811,6 +1816,7 @@
 ||testingnow.me^
 ||tgpropower.top^
 ||th.gp^
+||the-finance-world.com^
 ||theblog.me^
 ||theblogaddict.com^
 ||theblogfairy.com^
@@ -1870,7 +1876,6 @@
 ||tw.gp^
 ||tw1.ru^
 ||tweakblogs.net^
-||typedream.app^
 ||u.gp^
 ||ua.gp^
 ||ubpages.com^
@@ -1936,6 +1941,9 @@
 ||virus.in^
 ||vmn.net^
 ||vn.gp^
+||voellig-daneben.de^
+||vollidiot.net^
+||vollsten.de^
 ||voten.in^
 ||vpswala.org^
 ||vxub.com^
@@ -2062,7 +2070,6 @@
 ||writes.de^
 ||wssblogs.com^
 ||wtcsites.com^
-||wuaze.com^
 ||www4.me^
 ||wy5532.com^
 ||x.gp^
