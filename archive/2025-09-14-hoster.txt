@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Sep 2025 06:46 UTC
-! Version: 2025.0912.0646.54
+! Last modified: 05 Sep 2025 06:48 UTC
+! Version: 2025.0905.0648.29
 ! Syntax: AdBlock
-! Number of entries: 2135
+! Number of entries: 2123
 !
 ||000a.de^
 ||000free.us^
@@ -124,7 +124,6 @@
 ||350.com^
 ||351.at^
 ||36f.de^
-||3blogger.com^
 ||3blogger.net^
 ||3dn.ru^
 ||3eeweb.com^
@@ -168,7 +167,6 @@
 ||989.at^
 ||9gb.de^
 ||9k.com^
-||9x.si^
 ||a.gp^
 ||a-loch.de^
 ||a0001.net^
@@ -207,7 +205,6 @@
 ||actoblog.com^
 ||admarketlocation.com^
 ||aed1.host^
-||aeonfree.com^
 ||affiliatblogger.com^
 ||africafull.top^
 ||ag.gp^
@@ -569,7 +566,6 @@
 ||bookmark.com^
 ||bookspace.fr^
 ||booru.org^
-||boosterblog.com^
 ||boundpeter.shop^
 ||boutiqueond.shop^
 ||boxmail.biz^
@@ -783,6 +779,7 @@
 ||de-2.de^
 ||de-info.de^
 ||deandryesclothing.shop^
+||deno.dev^
 ||design.tl^
 ||designcarthosting.com^
 ||designertoblog.com^
@@ -1175,7 +1172,6 @@
 ||huicopper.com^
 ||humor-blog.com^
 ||humorme.info^
-||hund.in^
 ||hundredtrue.shop^
 ||hupont.hu^
 ||hyderabadadda.com^
@@ -1382,7 +1378,6 @@
 ||meilleurforum.com^
 ||memoryislife.com^
 ||menstudent.shop^
-||merchats.com^
 ||mex.tl^
 ||mforos.com^
 ||miarroba.com^
@@ -1633,7 +1628,6 @@
 ||radiola.club^
 ||raidersfanteamshop.com^
 ||re2.de^
-||realscienceblogs.com^
 ||reblog.hu^
 ||recentblog.net^
 ||reco.ws^
@@ -1817,7 +1811,6 @@
 ||testingnow.me^
 ||tgpropower.top^
 ||th.gp^
-||the-finance-world.com^
 ||theblog.me^
 ||theblogaddict.com^
 ||theblogfairy.com^
@@ -1943,9 +1936,6 @@
 ||virus.in^
 ||vmn.net^
 ||vn.gp^
-||voellig-daneben.de^
-||vollidiot.net^
-||vollsten.de^
 ||voten.in^
 ||vpswala.org^
 ||vxub.com^
@@ -2084,7 +2074,6 @@
 ||xaper.com^
 ||xbl0g.com^
 ||xblog.in^
-||xbloggers.com^
 ||xinei.shop^
 ||xl.lc^
 ||xml.in^
@@ -2142,6 +2131,5 @@
 ||zustimmen.de^
 ||zwphosting.com^
 ||zx9.de^
-||zya.me^
 ||zymic.com^
 ||zyrosite.com^

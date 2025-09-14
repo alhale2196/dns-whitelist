@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Sep 2025 00:08 UTC
-! Version: 2025.0912.0008.48
+! Last modified: 01 Sep 2025 20:16 UTC
+! Version: 2025.0901.2016.19
 ! Syntax: AdBlock
-! Number of entries: 1474
+! Number of entries: 1466
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -20,7 +20,6 @@
 ||1337.cx^
 ||16-b.it^
 ||1cooldns.com^
-||1dumb.com^
 ||2288.org^
 ||24-7.ro^
 ||25u.com^
@@ -492,7 +491,6 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
-||evils.in^
 ||expired-dns.com^
 ||ez-ip.net^
 ||ezua.com^
@@ -826,7 +824,6 @@
 ||itekgroup.com^
 ||itemdb.com^
 ||itsaol.com^
-||iu4ever.org^
 ||iugaming.com^
 ||ivc.cc^
 ||ix.tc^
@@ -975,8 +972,6 @@
 ||myddns.me^
 ||myddns.rocks^
 ||mydissent.net^
-||mydns.bz^
-||mydns.jp^
 ||myeffect.net^
 ||myftp.biz^
 ||myftp.info^
@@ -1040,7 +1035,6 @@
 ||networkoutpost.com^
 ||nflfan.org^
 ||nhlfan.net^
-||no-domain.name^
 ||no-ip.be^
 ||no-ip.biz^
 ||no-ip.ca^
@@ -1377,7 +1371,6 @@
 ||tvlinux.com^
 ||twilightparadox.com^
 ||twodns.de^
-||twsuser.com^
 ||tzo.com^
 ||ucvradio.cl^
 ||udp64.de^
@@ -1411,7 +1404,6 @@
 ||vincomlimited.com^
 ||vitalwerks.com^
 ||vizvaz.com^
-||voles35.ru^
 ||voyez.ca^
 ||vpn64.de^
 ||vpndns.net^
