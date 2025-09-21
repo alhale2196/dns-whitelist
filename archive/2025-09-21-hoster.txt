@@ -5,22 +5,17 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Sep 2025 19:11 UTC
-! Version: 2025.0919.1911.25
+! Last modified: 12 Sep 2025 06:46 UTC
+! Version: 2025.0912.0646.54
 ! Syntax: AdBlock
-! Number of entries: 2175
+! Number of entries: 2135
 !
 ||000a.de^
 ||000free.us^
-||000nethost.com^
 ||000space.com^
-||000webapp.com^
 ||000webhost.com^
-||000webhost.fr^
-||000webhost.info^
 ||000webhostapp.com^
 ||000webhotapp.com^
-||000worldwide.com^
 ||00author.com^
 ||00band.com^
 ||00books.com^
@@ -89,7 +84,6 @@
 ||1colony.com^
 ||1fr1.net^
 ||1freewebspace.com^
-||1gb.ru^
 ||1hwy.com^
 ||1shop.de^
 ||1sthost.org^
@@ -118,7 +112,6 @@
 ||24.nl^
 ||24.tl^
 ||258.at^
-||260mb.net^
 ||270.at^
 ||2all.de^
 ||2fh.co^
@@ -589,9 +582,7 @@
 ||bravejournal.net^
 ||bravenet.com^
 ||bravepages.com^
-||bravesites.com^
 ||brazilbill.shop^
-||brizy.site^
 ||bstyledstore.shop^
 ||bugs3.com^
 ||builderall.net^
@@ -604,35 +595,12 @@
 ||bx5.de^
 ||byet.host^
 ||byethost.com^
-||byethost10.com^
-||byethost11.com^
-||byethost12.com^
-||byethost13.com^
-||byethost14.com^
-||byethost15.com^
-||byethost16.com^
-||byethost17.com^
-||byethost18.com^
-||byethost2.com^
-||byethost22.com^
-||byethost24.com^
 ||byethost3.com^
-||byethost31.com^
-||byethost32.com^
-||byethost33.com^
-||byethost4.com^
-||byethost5.com^
-||byethost6.com^
-||byethost7.com^
-||byethost8.com^
-||byethost9.com^
 ||byto.de^
 ||bz.tc^
 ||c.la^
 ||c.pl^
-||c0.pl^
 ||ca.gp^
-||cabanova.com^
 ||cafeblog.hu^
 ||caixa-soportecliente.com^
 ||canalblog.com^
@@ -697,7 +665,6 @@
 ||blogspot.co.nz^
 ||blogspot.co.uk^
 ||blogspot.co.za^
-||dothome.co.kr^
 ||tripod.lycos.co.uk^
 ||thamboli.co.za^
 ||threembb.co.uk^
@@ -763,12 +730,10 @@
 ||corolain.ru^
 ||cowblog.fr^
 ||cprapid.com^
-||sitebeat.crazydomains.com^
 ||creablog.com^
 ||creacionblog.com^
 ||creamclothinginc.shop^
 ||createblog.com^
-||creatorlink.net^
 ||creatuforo.com^
 ||crossurl.shop^
 ||crypto-market-world.com^
@@ -779,7 +744,6 @@
 ||csdazzle.shop^
 ||csublogs.com^
 ||ct8.pl^
-||ctempurl.com^
 ||cubavalue.shop^
 ||cum.fi^
 ||cwcity.de^
@@ -873,7 +837,6 @@
 ||dynamicboard.de^
 ||e.gp^
 ||e-docssig.com^
-||e-kei.pl^
 ||e-monsite.com^
 ||easy4blog.com^
 ||easyfreehosting.com^
@@ -907,6 +870,7 @@
 ||elementfx.com^
 ||elizabethsfashion.shop^
 ||emmasbowtique.shop^
+||emoneysale.shop^
 ||emyspot.com^
 ||energycd.shop^
 ||english.lc^
@@ -986,7 +950,6 @@
 ||fitnell.com^
 ||flashbuilder.net^
 ||flazio.com^
-||fleek.co^
 ||fleek.cool^
 ||flf.li^
 ||flirten.info^
@@ -1033,7 +996,6 @@
 ||fotosdefrases.com^
 ||fr.gp^
 ||fr.nf^
-||framer.app^
 ||free.bg^
 ||free.cr^
 ||free.lc^
@@ -1044,7 +1006,6 @@
 ||freebase.hu^
 ||freeblog.biz^
 ||freecities.com^
-||freecluster.eu^
 ||freeforums.net^
 ||freeforums.org^
 ||freehomepage.com^
@@ -1118,6 +1079,7 @@
 ||getblogs.net^
 ||getenjoyment.net^
 ||getresponsesite.com^
+||gg123.vip^
 ||gigarocket.net^
 ||gilde.in^
 ||gildenseite.de^
@@ -1149,6 +1111,7 @@
 ||greatnow.com^
 ||grecofioredesigns.shop^
 ||greecemar.shop^
+||greekstatus.shop^
 ||grwebsite.com^
 ||gta.team^
 ||gtempurl.com^
@@ -1193,9 +1156,7 @@
 ||hostingfailov.com^
 ||hostingsiteforfree.com^
 ||hostkda.com^
-||hostland.pro^
 ||hostmeans.shop^
-||hostseba.com^
 ||hot.lc^
 ||hotloss.shop^
 ||hotusa.org^
@@ -1242,7 +1203,6 @@
 ||imblogs.net^
 ||imess.net^
 ||imtokne.vip^
-||imweb.me^
 ||in.gp^
 ||in24.de^
 ||inbox24.eu^
