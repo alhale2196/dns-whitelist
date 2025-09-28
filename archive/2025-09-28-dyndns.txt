@@ -4,12 +4,11 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Sep 2025 08:11 UTC
-! Version: 2025.0923.0811.59
+! Last modified: 12 Sep 2025 00:08 UTC
+! Version: 2025.0912.0008.48
 ! Syntax: AdBlock
-! Number of entries: 1470
+! Number of entries: 1474
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -358,6 +357,7 @@
 ||drunkensailor.org^
 ||dsmtp.com^
 ||dtdns.com^
+||dtdns.net^
 ||dtdns.org^
 ||dubya.info^
 ||dubya.net^
@@ -434,6 +434,7 @@
 ||dynnamn.ru^
 ||dynns.com^
 ||dyns.be^
+||dyns.cx^
 ||dyns.net^
 ||dynserv.org^
 ||dynssl.com^
@@ -491,6 +492,7 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
+||evils.in^
 ||expired-dns.com^
 ||ez-ip.net^
 ||ezua.com^
@@ -698,6 +700,7 @@
 ||humorvisite.eu^
 ||hunnur.com^
 ||iamallama.com^
+||icg.hk^
 ||ics.tw^
 ||ideasciviles.com^
 ||idigo.org^
@@ -837,6 +840,7 @@
 ||jetos.com^
 ||jkub.com^
 ||joe.dj^
+||jomblo.asia^
 ||jonward.com^
 ||jumpingcrab.com^
 ||jundy.org^
@@ -849,7 +853,6 @@
 ||kanda.ru^
 ||kaohsiung.tv^
 ||kck-saratov.ru^
-||keenetic.name^
 ||keine-panik.net^
 ||kellserve.com^
 ||kicks-ass.net^
