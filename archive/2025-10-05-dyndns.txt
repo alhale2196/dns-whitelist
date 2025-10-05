@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Oct 2025 11:51 UTC
-! Version: 2025.1004.1151.15
+! Last modified: 23 Sep 2025 08:11 UTC
+! Version: 2025.0923.0811.59
 ! Syntax: AdBlock
-! Number of entries: 1468
+! Number of entries: 1470
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -700,6 +700,7 @@
 ||iamallama.com^
 ||ics.tw^
 ||ideasciviles.com^
+||idigo.org^
 ||idleplay.net^
 ||4040.idv.tw^
 ||ieserver.net^
@@ -1135,6 +1136,7 @@
 ||port25.biz^
 ||portfwd.com^
 ||portmap.host^
+||prettyweak.com^
 ||priamaakcia.sk^
 ||privatedns.com^
 ||privatedns.org^
