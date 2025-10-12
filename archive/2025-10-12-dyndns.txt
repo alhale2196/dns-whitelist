@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Oct 2025 11:49 UTC
-! Version: 2025.1010.1149.32
+! Last modified: 04 Oct 2025 11:51 UTC
+! Version: 2025.1004.1151.15
 ! Syntax: AdBlock
-! Number of entries: 1472
+! Number of entries: 1468
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -27,7 +27,6 @@
 ||25u.com^
 ||2fine.de^
 ||2mydns.net^
-||2p.fm^
 ||2waky.com^
 ||3-a.net^
 ||32-b.it^
@@ -293,7 +292,6 @@
 ||digitalgroupe.com^
 ||dip.jp^
 ||ditchyourip.com^
-||divx.se^
 ||diyplans.org^
 ||dlinkddns.com^
 ||dmtr.ru^
@@ -436,7 +434,6 @@
 ||dynnamn.ru^
 ||dynns.com^
 ||dyns.be^
-||dyns.cx^
 ||dyns.net^
 ||dynserv.org^
 ||dynssl.com^
@@ -1404,7 +1401,6 @@
 ||venez.fr^
 ||venez.net^
 ||verymad.net^
-||vicinanza.org^
 ||viewdns.net^
 ||viiic.net^
 ||vincomlimited.com^
