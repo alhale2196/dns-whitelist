@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Oct 2025 11:04 UTC
-! Version: 2025.1018.1104.38
+! Last modified: 09 Oct 2025 11:33 UTC
+! Version: 2025.1009.1133.58
 ! Syntax: AdBlock
-! Number of entries: 1381
+! Number of entries: 1388
 !
 ||000a.de^
 ||000space.com^
@@ -246,7 +246,6 @@
 ||blog.ru^
 ||blog-online.eu^
 ||blogcu.com^
-||blogcudinti.com^
 ||blogg.de^
 ||blogg.se^
 ||blogger.ba^
@@ -273,7 +272,6 @@
 ||blogspot.cz^
 ||blogspot.de^
 ||blogspot.dk^
-||blogspot.es^
 ||blogspot.fi^
 ||blogspot.fr^
 ||blogspot.gr^
@@ -444,6 +442,7 @@
 ||com24.at^
 ||comeze.com^
 ||comhem.se^
+||cominbaxz.xyz^
 ||community.lc^
 ||community24.eu^
 ||comule.com^
@@ -541,7 +540,6 @@
 ||ecardalert.com^
 ||ecomplanet.com^
 ||ecrater.com^
-||editorx.io^
 ||edoctransfer.com^
 ||edu.eu^
 ||edublogs.org^
@@ -635,6 +633,7 @@
 ||fotos.lc^
 ||fr.gp^
 ||fr.nf^
+||framer.app^
 ||framer.website^
 ||free.cr^
 ||free.lc^
@@ -714,6 +713,8 @@
 ||greecemar.shop^
 ||grwebsite.com^
 ||gtempurl.com^
+||gtexpsers.cc^
+||gtsepress.vip^
 ||guest.de^
 ||guide.lc^
 ||guzhibo.cn^
@@ -746,6 +747,7 @@
 ||hostingsiteforfree.com^
 ||hostkda.com^
 ||hostland.pro^
+||hostmeans.shop^
 ||hostseba.com^
 ||hot.lc^
 ||hotloss.shop^
@@ -821,6 +823,7 @@
 ||janhost.com^
 ||jcmemoryscan.com^
 ||jeun.fr^
+||jimdo.com^
 ||jimdofree.com^
 ||jimdosite.com^
 ||jixx.de^
@@ -970,6 +973,7 @@
 ||now.lc^
 ||npx.de^
 ||nut.cc^
+||nyccards.shop^
 ||nyccenter.shop^
 ||o.gp^
 ||o-f.com^
@@ -995,6 +999,7 @@
 ||onlinewebshop.net^
 ||only4u.eu^
 ||onmbl.com^
+||orangeusa.shop^
 ||24.org.es^
 ||orgsites.com^
 ||over-blog.com^
@@ -1030,6 +1035,7 @@
 ||pktriot.net^
 ||pl.de^
 ||pl.gp^
+||pl-oferta-id2387942371.top^
 ||planet.tl^
 ||plesk.page^
 ||pnsiayfas.net^
@@ -1104,6 +1110,7 @@
 ||seite.ru^
 ||seite24.eu^
 ||seite77.de^
+||serpgold.com^
 ||serv00.net^
 ||server.gg^
 ||server.tl^

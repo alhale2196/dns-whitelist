@@ -235,7 +235,6 @@
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
 @@||dct.klaviyodns.com^
-@@||dealabs.digidip.net^
 @@||disneyplus.bn5x.net^
 @@||dominos.sng.link^
 @@||dpbolvw.net^
