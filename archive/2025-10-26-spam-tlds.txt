@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Oct 2025 09:34 UTC
-! Version: 2025.1025.0934.26
+! Last modified: 18 Oct 2025 23:35 UTC
+! Version: 2025.1018.2335.42
 ! Syntax: AdGuard
 ! Number of latin TLDs: 281 - punycode TLDs: 151
 !
@@ -51,7 +51,7 @@
 ||*.casa^$denyallow=nabu.casa
 ||*.cash^$denyallow=doe.cash
 ||*.casino^
-||*.cc^$denyallow=10gen.cc|adguard-vpn.cc|akami-solutions.cc|arduino.cc|coolkit.cc|dhilosnetworks.cc|dict.cc|fanbox.cc|frontrow.cc|is.cc|lilygo.cc|lurl.cc|mydaddy.cc|myppt.cc|postimg.cc|ptt.cc|rapidcdn.cc|reurl.cc|road.cc|rutracker.cc|shottr.cc|ultra.cc|vern.cc|vocus.cc|wallhaven.cc|yipee.cc|yz168.cc|zcyph.cc
+||*.cc^$denyallow=10gen.cc|adguard-vpn.cc|akami-solutions.cc|arduino.cc|coolkit.cc|dhilosnetworks.cc|dict.cc|fanbox.cc|frontrow.cc|is.cc|lilygo.cc|lurl.cc|mydaddy.cc|myppt.cc|postimg.cc|ptt.cc|rapidcdn.cc|reurl.cc|rutracker.cc|shottr.cc|ultra.cc|vern.cc|vocus.cc|wallhaven.cc|yipee.cc|yz168.cc|zcyph.cc
 ||*.center^$denyallow=mein-kunden.center|oh.center|priv.center|relaxx.center
 ||*.ceo^
 ||*.cf^$denyallow=google.cf
@@ -76,7 +76,7 @@
 ||*.dad^$denyallow=daily.dad|dear.dad|gdflix.dad|gdtot.dad|rad.dad
 ||*.dance^
 ||*.date^$denyallow=endoflife.date
-||*.dating^$denyallow=boo.dating|breeze.dating|gaudi.dating
+||*.dating^$denyallow=boo.dating|gaudi.dating
 ||*.day^
 ||*.deals^$denyallow=gg.deals
 ||*.degree^$denyallow=opf.degree|three60.degree
@@ -264,7 +264,7 @@
 ||*.tk^$denyallow=air.tk|bstweaker.tk|budterence.tk|c-r-t.tk|google.tk|goshujin.tk|kabi.tk|sironi.tk|tokelau-info.tk|xn--qubec-csa.tk|zete.tk
 ||*.today^$denyallow=addtocart.today|archive.today|futurology.today|lemmy.today|oldweb.today|type.today
 ||*.tokyo^$denyallow=tmaeno.tokyo
-||*.top^$denyallow=ambr.top|caitlin.top|corriente.top|cpolar.top|edgeless.top|mastodon.top|mianbeian.top|nfmirrorcdn.top|pegelinux.top|polar.top|qwertycxz.top|reminder.top|saltwood.top|shucks.top|strims.top|suiten.top|thedesk.top|vsdb.top
+||*.top^$denyallow=ambr.top|caitlin.top|corriente.top|cpolar.top|edgeless.top|imxyz.top|mastodon.top|mianbeian.top|nfmirrorcdn.top|pegelinux.top|polar.top|qwertycxz.top|reminder.top|saltwood.top|shucks.top|strims.top|suiten.top|thedesk.top|vsdb.top
 ||*.town^
 ||*.trade^$denyallow=composer.trade|dx.trade|kite.trade
 ||*.trading^
@@ -285,11 +285,11 @@
 ||*.website^$denyallow=acro.website|bestmotherfucking.website|eddie.website|noclip.website|thatsup.website|tilde.website|uphold.website
 ||*.wedding^
 ||*.wiki^$denyallow=bg3.wiki|burnout.wiki|chibi-robo.wiki|consumerrights.wiki|cooked.wiki|datei.wiki|deadlock.wiki|deltarune.wiki|dragalialost.wiki|drawntolife.wiki|fallout.wiki|getindie.wiki|hacktricks.wiki|hollowknight.wiki|hololive.wiki|klingon.wiki|kodi.wiki|kometa.wiki|libreelec.wiki|manson.wiki|mediaclients.wiki|minecraft.wiki|modding.wiki|mtg.wiki|namu.wiki|nixos.wiki|notifiarr.wiki|osrs.wiki|pizzatower.wiki|rs.wiki|runescape.wiki|saintsrow.wiki|severance.wiki|survivors.wiki|tajrobe.wiki|tardis.wiki|thehomelab.wiki|twewy.wiki|umamusu.wiki|undertale.wiki|usermanual.wiki|w.wiki|zeldawiki.wiki|zeppelin.wiki
-||*.win^$denyallow=activated.win|communities.win|debloat.win|patriots.win|vaultcord.win
+||*.win^$denyallow=activated.win|communities.win|patriots.win|vaultcord.win
 ||*.wine^$denyallow=nostr.wine
 ||*.work^$denyallow=doesmycode.work|elphago.work|frame.work|koding.work|mirror.work
 ||*.world^$denyallow=boo.world|calckey.world|camhub.world|edgecdn.world|ift.world|lemmings.world|lemmy.world|mastodon.world|maxwellcat.world|meming.world|mnetplus.world|mnr.world|shitposter.world|unidays.world|userstyles.world|welocal.world|wetdry.world|wiz.world
-||*.wtf^$denyallow=akko.wtf|cyber.wtf|fx.wtf|ip.wtf|jascha.wtf|lemmy.wtf|myip.wtf|tigress.wtf|wxx.wtf|xo.wtf
+||*.wtf^$denyallow=akko.wtf|cyber.wtf|fx.wtf|ip.wtf|lemmy.wtf|myip.wtf|tigress.wtf|wxx.wtf|xo.wtf
 ||*.xin^
 ||*.xx.kg^
 ||*.yachts^$denyallow=sinking.yachts

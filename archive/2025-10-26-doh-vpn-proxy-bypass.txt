@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Oct 2025 16:47 UTC
-! Version: 2025.1025.1647.45
+! Last modified: 18 Oct 2025 11:43 UTC
+! Version: 2025.1018.1143.33
 ! Syntax: AdBlock
-! Number of entries: 6134
+! Number of entries: 6152
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -178,6 +178,8 @@
 ||blacknig-ger.69.mu^
 ||chickenzestyhawktuahbigblacknigfattass.69.mu^
 ||i-ready.69.mu^
+||imsogoopy.69.mu^
+||proxyforhayes.69.mu^
 ||dns.6level.net^
 ||agh.710523.xyz^
 ||71745718.online^
@@ -217,6 +219,7 @@
 ||ddd.999369.xyz^
 ||dns.9999.sg^
 ||99proxy.com^
+||9w9.org^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
 ||us.aab.im^
@@ -342,7 +345,6 @@
 ||aliveproxies.com^
 ||aliveproxy.com^
 ||dns.aliyun.com^
-||resolvers-cn.httpdns.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
 ||alleesph.online^
@@ -399,6 +401,7 @@
 ||andrewnw.xyz^
 ||andrey93rus.ru^
 ||dns.andreykiv.com^
+||androvpn.com^
 ||doh.angry.im^
 ||angrysky.ru^
 ||anhphamhn82.uk^
@@ -709,6 +712,7 @@
 ||bocaplanet.com^
 ||d.bod.lol^
 ||boda-vip.net^
+||bodvpn.com^
 ||dns.bofh.in^
 ||boi9osyg1uwtyafn.com^
 ||doh.boje8.me^
@@ -735,6 +739,7 @@
 ||adguard2.boykevanvugt.nl^
 ||dns.braene.com^
 ||dns.brahma.world^
+||bramka-proxy.pl^
 ||bravedns.com^
 ||tor.bravesoftware.com^
 ||brazilproxy.com^
@@ -919,6 +924,7 @@
 ||dns.cloudfiction.eu^
 ||dns.233py.com.cdn.cloudflare.net^
 ||dns.cloudflare.com^
+||ada.ns.cloudflare.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
 ||api.cloudflareclient.com^
@@ -1202,6 +1208,7 @@
 ||connectionvpn.com^
 ||dns.consoro.eu^
 ||constitutional.design^
+||dns.containerpi.com^
 ||contassh.com^
 ||contentabc.com^
 ||dns.controld.com^
@@ -1704,7 +1711,6 @@
 ||doh.sb^
 ||doh.xyz^
 ||dolopo.net^
-||domain.name^
 ||domainownership.us^
 ||adguard.domorome.wf^
 ||dnsfilter.domotik.us^
@@ -1771,6 +1777,7 @@
 ||ldaman.duckdns.org^
 ||leoadguard.duckdns.org^
 ||nas1403.duckdns.org^
+||nqh-dns.duckdns.org^
 ||o--o.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
@@ -1811,6 +1818,7 @@
 ||oostelbos.dynu.com^
 ||quangdo92.dynu.net^
 ||saomai.dynu.com^
+||gustamadh.dynv6.net^
 ||dns.dynx.pro^
 ||adg.dz.ax^
 ||az.dz4fun.top^
@@ -2158,7 +2166,6 @@
 ||freebypassproxy.com^
 ||freecanadavpn.com^
 ||freecavpn.com^
-||hkname.freecdn.one^
 ||freeconnect.link^
 ||adblock.freeddns.org^
 ||aydank.freeddns.org^
@@ -2207,6 +2214,7 @@
 ||freeukvpn.com^
 ||freevideoproxy.com^
 ||freevmess.com^
+||freevpn.cloud^
 ||freevpn.me^
 ||freevpn.org^
 ||freevpn.pw^
@@ -2406,7 +2414,6 @@
 ||adguard.grantbruneau.com^
 ||granules.us^
 ||cloud.graphicpoint.pl^
-||grass.io^
 ||gratisproxy.nl^
 ||gratisvpn.com^
 ||graveofhope.ru^
@@ -2426,7 +2433,6 @@
 ||vps.grussenmeyer.com^
 ||gamgasyoppakuteri-zenttodabi.gslb.info^
 ||dns.gsmseti.net^
-||gsocket.io^
 ||ms.gswsfh2021.site^
 ||bigseal1.gu-natee.uk^
 ||guanmengkai.com^
@@ -2566,6 +2572,7 @@
 ||hidetheinternet.com^
 ||hidethisip.net^
 ||hidethistime.com^
+||hidevpn.info^
 ||hideway.eu^
 ||hideweb.org^
 ||hidexy.com^
@@ -2652,6 +2659,10 @@
 ||hotspotvpn.com^
 ||dns.hotta.page^
 ||doh.hottis.de^
+||hotunixispeak.hotunix.com^
+||rmerheadonionlink.hotunix.com^
+||schoology.hotunix.com^
+||somuchpeakk.hotunix.com^
 ||dns.housedenolf.be^
 ||howdy.id^
 ||hoxx.com^
@@ -2742,6 +2753,7 @@
 ||worldbookonline.ignorelist.com^
 ||adguard.ihatemy.live^
 ||dns.ihaveacloud.com^
+||hellotaka.iiiii.info^
 ||iij.jp^
 ||ikarosalpha.xyz^
 ||dns.ikataruto.com^
@@ -3372,8 +3384,6 @@
 ||www-admin.mehtionthebeat.com^
 ||peepod.meicosoft.com^
 ||httpdns.meituan.com^
-||httpdnsmultiapi.meituan.com^
-||httpdnsmultiapivip.meituan.com^
 ||httpdnsvip.meituan.com^
 ||dns.melvin2204.nl^
 ||membean.cf^
@@ -3594,7 +3604,6 @@
 ||fi-hel-w-f-2.nashkan.net^
 ||fi-hel-w-p-1.nashkan.net^
 ||fr-gra-w-p-1.nashkan.net^
-||gb-cov-w-f-1.nashkan.net^
 ||gb-cov-w-f-2.nashkan.net^
 ||gb-cov-w-p-1.nashkan.net^
 ||gb-lon-w-f-1.nashkan.net^
@@ -3635,6 +3644,7 @@
 ||ne1.ca^
 ||nebulaproxy.io^
 ||dns.neeb.it^
+||dns.nefret.net^
 ||dns.nekofish.cc^
 ||nekoray.org^
 ||nelsonleung.org^
@@ -4042,6 +4052,8 @@
 ||photonsecure.com^
 ||phpbido.com^
 ||phproxysite.com^
+||doh.pi-dns.com^
+||doh.westeu.pi-dns.com^
 ||piaproxy.com^
 ||piaproxy.net^
 ||adg.pidns.de^
@@ -4152,6 +4164,7 @@
 ||nyc-ny-us.prcdn.net^
 ||tor-ca.prcdn.net^
 ||waw-pl.prcdn.net^
+||predecessor.info^
 ||premiumproxy.net^
 ||premsocks.com^
 ||presidentalhistory.wiki^
@@ -4364,6 +4377,7 @@
 ||proxysite.site^
 ||proxysite.top^
 ||proxysite.us^
+||proxysite.video^
 ||proxysitelist.net^
 ||proxyslist.com^
 ||proxysneak.com^
@@ -4611,6 +4625,7 @@
 ||pns2.sadraidc.com^
 ||safe-inet.com^
 ||safeguardianvpn.com^
+||safenetbrowser.com^
 ||dns1.saferbfc.org^
 ||dns2.saferbfc.org^
 ||safersurfing.net^
@@ -4909,6 +4924,7 @@
 ||spicevpn.com^
 ||spidervpn.org^
 ||dns.spirio.fr^
+||sporium.org^
 ||sportsballhub.com^
 ||physicaleducation.sportseducationinstructors.org^
 ||spys.one^
@@ -4965,7 +4981,6 @@
 ||eu-browse.startpage.com^
 ||eu1-browse.startpage.com^
 ||eu2-browse.startpage.com^
-||eu3-browse.startpage.com^
 ||proxy3.startpage.com^
 ||s4-us2.startpage.com^
 ||us1-browse.startpage.com^
@@ -5151,7 +5166,6 @@
 ||dns.tefuir0829.cn^
 ||family.dns.teknoholistik.com^
 ||dns.teknologiku.com^
-||homenet.telecomitalia.it^
 ||dns.telekom.de^
 ||d51538618.access.telenet.be^
 ||guard.telesterion.de^
@@ -5380,6 +5394,7 @@
 ||ad.tzockt.beer^
 ||u-proxy.com^
 ||u8sj3.com^
+||ubint.net^
 ||ublocker.info^
 ||v1.ufamax.eu^
 ||vless-service.ufodns.com^
@@ -5555,6 +5570,7 @@
 ||unlocklab.io^
 ||unmoor.com^
 ||unp.im^
+||unrestrict.me^
 ||unrestrictedsurf.com^
 ||unrestricter.com^
 ||unrestricter.org^
@@ -5738,6 +5754,7 @@
 ||vpndns.ru^
 ||vpndock.com^
 ||vpndog.com^
+||vpneasy.info^
 ||proxy.vpner.com^
 ||vpnfan.com^
 ||vpnfree.info^
@@ -5831,6 +5848,7 @@
 ||dns.wargan.io^
 ||abel.waringer-atg.de^
 ||dns.warma.me^
+||warninglog.com^
 ||dns.warpnine.de^
 ||warpproxy.com^
 ||dns.warrior.fr^
@@ -5851,7 +5869,6 @@
 ||quadrogramma.vps.webdock.cloud^
 ||webevade.com^
 ||dns.webfork.in^
-||webhook.site^
 ||weblockapp.com^
 ||doh.webnmail.de^
 ||weboproxy.com^
@@ -5861,6 +5878,7 @@
 ||webproxy.com^
 ||webproxy.online^
 ||webproxy.to^
+||webproxy.us^
 ||webproxyfree.net^
 ||webproxyusa.com^
 ||shark-pan.webredirect.org^
@@ -5879,7 +5897,6 @@
 ||webxify.com^
 ||webypass.info^
 ||dns.wechat.com^
-||paydns.wechatpay.cn^
 ||wedding-present.us^
 ||resov.wehao.net^
 ||dns.weibo.cn^
@@ -5906,6 +5923,7 @@
 ||dns1-secure.wifire.it^
 ||dns2-secure.wifire.it^
 ||adguard.wifri.space^
+||hellotaka.wiki.gd^
 ||wikimedia-dns.org^
 ||wikimediadns.org^
 ||wiksa.com^
@@ -5954,6 +5972,7 @@
 ||home.wriedts.de^
 ||writingessaypros.com^
 ||dns.wryhf.com^
+||wtools.eu^
 ||wuyou.pw^
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
@@ -6108,7 +6127,6 @@
 ||zhengkaiyun.top^
 ||dns140.zhhz.cc^
 ||dns168.zhhz.cc^
-||httpdns.zhihu.com^
 ||doh.zhongbr.uk^
 ||res.zijji.com^
 ||zippyproxy.com^

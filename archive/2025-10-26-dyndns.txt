@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Oct 2025 23:29 UTC
-! Version: 2025.1022.2329.53
+! Last modified: 10 Oct 2025 11:49 UTC
+! Version: 2025.1010.1149.32
 ! Syntax: AdBlock
-! Number of entries: 1468
+! Number of entries: 1472
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -160,6 +160,7 @@
 ||bsn2bsn.com^
 ||bumbleshrimp.com^
 ||burlingtondrywall.com^
+||buys.ru^
 ||buyshouses.net^
 ||byte4byte.com^
 ||cable-modem.org^
@@ -169,6 +170,7 @@
 ||cashit.info^
 ||cbopelousas.com^
 ||cbu.net^
+||ccmissoula.com^
 ||cechire.com^
 ||celebsplay.com^
 ||celltrak.mobi^
@@ -927,6 +929,7 @@
 ||midjava.com^
 ||migibts.net^
 ||mikata.ru^
+||mikecartwright.net^
 ||mil.nf^
 ||mindhackers.org^
 ||mine.bz^
@@ -1464,6 +1467,7 @@
 ||yngling.com^
 ||youdontcare.com^
 ||youpc.ro^
+||yourspecialtee.com^
 ||yourtrap.com^
 ||z0d.eu^
 ||z86.ru^

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Oct 2025 09:34 UTC
-! Version: 2025.1024.0934.27
+! Last modified: 18 Oct 2025 11:04 UTC
+! Version: 2025.1018.1104.38
 ! Syntax: AdBlock
-! Number of entries: 1378
+! Number of entries: 1381
 !
 ||000a.de^
 ||000space.com^
@@ -316,7 +316,6 @@
 ||boutiqueond.shop^
 ||boxmail.biz^
 ||boxmode.io^
-||bplaced.de^
 ||bplaced.net^
 ||br.gp^
 ||bravehost.com^
@@ -356,7 +355,6 @@
 ||byethost9.com^
 ||byto.de^
 ||bz.tc^
-||c.la^
 ||c.pl^
 ||c0.pl^
 ||ca.gp^
@@ -660,6 +658,7 @@
 ||freetzi.com^
 ||freevar.com^
 ||freeweb.me^
+||freeweb.pk^
 ||freewebhosting4u.com^
 ||freewebhostingarea.com^
 ||freewebhostmost.com^
@@ -694,7 +693,6 @@
 ||gildenseite.de^
 ||girlsense.com^
 ||glitch.me^
-||sp.gname.net^
 ||godaddysites.com^
 ||godfrance.club^
 ||godscience.shop^
@@ -718,6 +716,7 @@
 ||gtempurl.com^
 ||guest.de^
 ||guide.lc^
+||guzhibo.cn^
 ||gymsharkitaliaofficial.it^
 ||h.gp^
 ||hanefra7bikiemta.com^
@@ -1148,6 +1147,7 @@
 ||square.site^
 ||square7.ch^
 ||srv1.org^
+||standardseoservices.com^
 ||start.lc^
 ||stormloader.com^
 ||stormpages.com^
@@ -1184,6 +1184,7 @@
 ||tggame.xyz^
 ||tgpropower.top^
 ||th.gp^
+||the-finance-world.com^
 ||thisistap.com^
 ||tiiny.host^
 ||tilda.ws^
@@ -1303,12 +1304,14 @@
 ||webnode.fr^
 ||webnode.gr^
 ||webnode.it^
+||webnode.jp^
 ||webnode.mx^
 ||webnode.nl^
 ||webnode.page^
 ||webnode.pt^
 ||webnode.ro^
 ||webnode.ru^
+||webnode.se^
 ||webnode.sk^
 ||webnode.tw^
 ||webnode.vn^
