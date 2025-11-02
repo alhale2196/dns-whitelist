@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Nov 2025 18:33 UTC
-! Version: 2025.1101.1833.59
+! Last modified: 25 Oct 2025 16:28 UTC
+! Version: 2025.1025.1628.36
 ! Syntax: AdBlock
-! Number of entries: 11238
+! Number of entries: 11177
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -225,6 +225,7 @@
 ||266528.xyz^
 ||2anime.xyz^
 ||2bbit.com^
+||2bcalvi.com^
 ||2ddl.it^
 ||2ddl.ws^
 ||2embed.cc^
@@ -248,6 +249,7 @@
 ||337hhh.xyz^
 ||33filmstreaming.com^
 ||33rapfr.com^
+||33series-stream.com^
 ||33seriestreaming.rip^
 ||33seriestreaming.site^
 ||pcd.345.pl^
@@ -443,6 +445,7 @@
 ||retracker.akado-ural.ru^
 ||akiba-online.com^
 ||aklivetv.com^
+||t.al.uy^
 ||alabout.com^
 ||alagoz.beer^
 ||tracker.alaskantf.com^
@@ -1074,7 +1077,6 @@
 ||batmanstream.cc^
 ||batmanstream.info^
 ||batmanstream.online^
-||batmanstream.vip^
 ||batmanstream.watch^
 ||bayernstream.com^
 ||bayfiles.com^
@@ -1252,7 +1254,6 @@
 ||bitvaulttorrent.com^
 ||bitvn.net^
 ||alt.bitworld.to^
-||biu47.xyz^
 ||vexmovies.biz.id^
 ||biztorrents.com^
 ||bj-share.net^
@@ -1440,9 +1441,7 @@
 ||booter.eu^
 ||booter.ninja^
 ||booter.org^
-||booter.pw^
 ||booter.sx^
-||booter.xyz^
 ||bootlegs.su^
 ||bootylounge.org^
 ||bootyou.net^
@@ -2056,7 +2055,6 @@
 ||skynet.com.bd^
 ||slnisp.com.bd^
 ||soap2day.com.co^
-||starflix.com.br^
 ||streamm4u.com.co^
 ||strimki.com.pl^
 ||thepiratebays.com.se^
@@ -3399,7 +3397,6 @@
 ||filmex.to^
 ||filmezando.net^
 ||filmfans.org^
-||filmfare.fr^
 ||filmfix.se^
 ||filmgo.live^
 ||filmgratuit.cc^
@@ -3605,15 +3602,7 @@
 ||flashfilms-hd.top^
 ||flashnetbd.com^
 ||flashtorrents.org^
-||flemmix.cam^
-||flemmix.cc^
-||flemmix.mom^
-||flemmix.monster^
-||flemmix.my^
 ||flemmix.sbs^
-||flemmix.space^
-||flemmix.town^
-||flemmix.wiki^
 ||flenix.net^
 ||flextorrents.com^
 ||flibustier64.com^
@@ -3867,9 +3856,6 @@
 ||tracker.frozen-layer.net^
 ||frozengust85.pro^
 ||fruitytuts.com^
-||fs4.lol^
-||fs6.lol^
-||fs8.lol^
 ||fsapi.xyz^
 ||fsave.net^
 ||fshare.vn^
@@ -4397,7 +4383,6 @@
 ||hdencode.com^
 ||hdencode.org^
 ||hdf.world^
-||hdfilme.blog^
 ||hdfilme.cloud^
 ||hdfilme.cx^
 ||hdfilme.food^
@@ -4412,10 +4397,8 @@
 ||hdfull.lv^
 ||hdhome.org^
 ||hdhub4u.family^
-||hdhub4u.gd^
 ||hdhub4u.gifts^
 ||hdhub4u.menu^
-||hdhub4u.pictures^
 ||hdlivemovies.com^
 ||hdm.to^
 ||hdmatch.club^
@@ -4855,7 +4838,6 @@
 ||movies.iatout.fr^
 ||ibdplex.net^
 ||ibit.to^
-||ibooks.bz^
 ||ibooks.to^
 ||iboxbd.online^
 ||trackers.ibzu.me^
@@ -5309,7 +5291,6 @@
 ||kinogo.no^
 ||kinogo.online^
 ||kinogo.pink^
-||kinogo.rest^
 ||kinogo.uk^
 ||kinogo-720.net^
 ||kinogo-cx.biz^
@@ -5476,7 +5457,6 @@
 ||knaben.ru^
 ||knaben.xyz^
 ||knapsu.eu^
-||knigaudio.online^
 ||kodiapps.com^
 ||kokodayo.site^
 ||kolompc.com^
@@ -5759,7 +5739,6 @@
 ||luciferdonghua.in^
 ||luckymodapk.com^
 ||luckypatchers.com^
-||lukesitturn.com^
 ||lulu.st^
 ||lulustream.com^
 ||luluvid.com^
@@ -5854,7 +5833,6 @@
 ||mangakakalot.tv^
 ||mangamura.org^
 ||manganelo.tv^
-||manganime.digital^
 ||mangaokusana.com^
 ||mangapark.net^
 ||mangapoisk.io^
@@ -5952,23 +5930,19 @@
 ||megakino.bio^
 ||megakino.biz^
 ||megakino.co^
-||megakino.deals^
 ||megakino.dev^
-||megakino.eu^
 ||megakino.farm^
 ||megakino.gold^
 ||megakino.gratis^
 ||megakino.guru^
 ||megakino.how^
 ||megakino.ink^
-||megakino.ist^
 ||megakino.kim^
 ||megakino.kiwi^
 ||megakino.mba^
 ||megakino.media^
 ||megakino.men^
 ||megakino.moi^
-||megakino.ms^
 ||megakino.mx^
 ||megakino.now^
 ||megakino.onl^
@@ -5987,10 +5961,6 @@
 ||megakino.vin^
 ||megakino.works^
 ||megakino.ws^
-||megakino.wtf^
-||megakino.zone^
-||megakino1.co^
-||megakinox.top^
 ||megamanmaker.com^
 ||megamodapk.com^
 ||meganova.org^
@@ -6092,20 +6062,15 @@
 ||mkvanime.mov^
 ||mkvcage.com^
 ||mkvcage.ws^
-||mkvcinemas.app^
-||mkvcinemas.bet^
 ||mkvcinemas.cat^
 ||mkvcinemas.date^
-||mkvcinemas.fit^
 ||mkvcinemas.gift^
 ||mkvcinemas.haus^
-||mkvcinemas.kids^
 ||mkvcinemas.kim^
 ||mkvcinemas.kiwi^
 ||mkvcinemas.men^
 ||mkvcinemas.prof^
 ||mkvcinemas.red^
-||mkvcinemas.store^
 ||mkvcinemas.tw^
 ||mkvdrama.org^
 ||mkvking.me^
@@ -6232,7 +6197,6 @@
 ||moviebazar.net^
 ||moviebb.net^
 ||moviebeamz.com^
-||moviebite.cc^
 ||movieblogarea.com^
 ||movieboxbd.com^
 ||moviecluphd.store^
@@ -6296,7 +6260,6 @@
 ||moviesdvdr.com^
 ||movieseriestv.net^
 ||movieserver.net^
-||moviesflixcc.com^
 ||moviesfoundonline.com^
 ||moviesite.hu^
 ||moviesjoy.is^
@@ -6625,13 +6588,7 @@
 ||netmirror.app^
 ||netmirror.beer^
 ||netmirror.bio^
-||netmirror.cyou^
-||netmirror.eu^
-||netmirror.gg^
-||netmirror.homes^
 ||netmirror.my^
-||netmirror.rest^
-||netmirror.sbs^
 ||netmovies.to^
 ||netonlinebd.com^
 ||netplayz.ru^
@@ -7350,7 +7307,6 @@
 ||playdede.tv^
 ||playersklub.tv^
 ||playertv.net^
-||tracker.playground.ru^
 ||playit.pk^
 ||playmods.app^
 ||playmods.co^
@@ -7605,7 +7561,6 @@
 ||putlocker123.me^
 ||putlocker123.to^
 ||putlocker123.video^
-||putlocker19.com^
 ||putlocker2021.net^
 ||putlocker5movies.site^
 ||putlocker9.cc^
@@ -8462,7 +8417,6 @@
 ||solarmovies.cc^
 ||solarmovies.co^
 ||solarmovies.win^
-||solarmovies-sc.lol^
 ||solarmoviez.ru^
 ||solarmoviez.to^
 ||solidsoftwaretools.com^
@@ -8796,7 +8750,6 @@
 ||streamingcommunityz.it^
 ||streamingcommunityz.li^
 ||streamingcommunityz.me^
-||streamingcommunityz.tv^
 ||streamingdivx.ch^
 ||streaminggratuit.cc^
 ||streaminggratuit.rip^
@@ -8924,7 +8877,6 @@
 ||swatchseries.to^
 ||swebits.org^
 ||sweet-paris.com^
-||sweetvideo.site^
 ||swefilmer.to^
 ||swetracker.org^
 ||swetv.org^
@@ -9795,18 +9747,7 @@
 ||uakino.me^
 ||uakino-bay.net^
 ||uakino-lu.com^
-||uakinogo.art^
-||uakinogo.co^
 ||uakinogo.com^
-||uakinogo.day^
-||uakinogo.ec^
-||uakinogo.io^
-||uakinogo.nl^
-||uakinogo.online^
-||uakinogo.org^
-||uakinogo.top^
-||uakinogo.tv^
-||uakinogo.vip^
 ||uapkpro.com^
 ||uaserial.club^
 ||uaserial.tv^
@@ -10402,7 +10343,6 @@
 ||videqc.fun^
 ||videqs.com^
 ||videqs.icu^
-||videqs.net^
 ||videqstream.com^
 ||videqvidey.pro^
 ||vider.info^
@@ -10414,7 +10354,6 @@
 ||vidhog.com^
 ||vidics.com^
 ||vidics.to^
-||vidify.top^
 ||vidjoy.pro^
 ||vidlink.org^
 ||vidlox.me^
@@ -10796,7 +10735,6 @@
 ||ccn5050.wixsite.com^
 ||fixeget983.wixsite.com^
 ||warez.wizardtech.net^
-||wizja.cc^
 ||wjunction.com^
 ||wjungle.net^
 ||wncbg.com^
@@ -10899,6 +10837,7 @@
 ||xmovies8.si^
 ||xn--80a4b.com^
 ||xn--950bz4kqroyzjblb.com^
+||tracker.xn--djrq4gl4hvoi.top^
 ||xn--firstrowsport-8xe.eu^
 ||budvartrekker.xn-s.eu^
 ||hd-hu.xn-s.eu^
