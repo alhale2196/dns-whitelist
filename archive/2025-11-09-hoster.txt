@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Nov 2025 21:58 UTC
-! Version: 2025.1108.2158.45
+! Last modified: 01 Nov 2025 09:57 UTC
+! Version: 2025.1101.0957.11
 ! Syntax: AdBlock
-! Number of entries: 1331
+! Number of entries: 1379
 !
 ||000a.de^
 ||000space.com^
@@ -215,13 +215,17 @@
 ||beepworld.it^
 ||beget.tech^
 ||begins.de^
+||bellastheboutique.shop^
 ||beplaced.com^
 ||berlin.tl^
+||bethelcreations.shop^
 ||betrunken.org^
+||bezemchsell.shop^
 ||bg.gp^
 ||bgydnb.vip^
 ||bigheadhosting.net^
 ||bigthomas.shop^
+||bikashfancyclothing.shop^
 ||bilder.lc^
 ||billblett.com^
 ||biz.ly^
@@ -232,6 +236,7 @@
 ||bizmovie.shop^
 ||blackapplehost.com^
 ||blackblogs.org^
+||blakelysboutique.shop^
 ||blinkweb.com^
 ||blo.gg^
 ||blog.com^
@@ -304,8 +309,10 @@
 ||blogspot.ug^
 ||blogzet.com^
 ||bo.gp^
+||bookieboutique.shop^
 ||bookmark.com^
 ||boundpeter.shop^
+||boutiqueond.shop^
 ||boxmail.biz^
 ||boxmode.io^
 ||bplaced.de^
@@ -317,6 +324,7 @@
 ||bravesites.com^
 ||brazilbill.shop^
 ||brizy.site^
+||bstyledstore.shop^
 ||bugs3.com^
 ||builderall.net^
 ||builtfree.org^
@@ -371,6 +379,8 @@
 ||chat3.de^
 ||chatpc.club^
 ||chez.com^
+||chicjolieboutiqueonline.shop^
+||cielo-fashion.shop^
 ||city.tl^
 ||cityhotel.club^
 ||cixx6.com^
@@ -408,7 +418,6 @@
 ||thamboli.co.za^
 ||ucoz.co.uk^
 ||webnode.co.uk^
-||codm-free.com^
 ||com.nu^
 ||adr.com.ua^
 ||blogspot.com.ar^
@@ -441,6 +450,7 @@
 ||comule.com^
 ||comunidades.net^
 ||comxa.com^
+||connysdress.shop^
 ||conohawing.com^
 ||cool.hn^
 ||cool.lc^
@@ -448,6 +458,7 @@
 ||corolain.ru^
 ||cprapid.com^
 ||sitebeat.crazydomains.com^
+||creamclothinginc.shop^
 ||creatorlink.net^
 ||crossurl.shop^
 ||crypto-market-world.com^
@@ -455,6 +466,7 @@
 ||cryptonight.net^
 ||cs-clan.org^
 ||csb.app^
+||csdazzle.shop^
 ||ct8.pl^
 ||ctempurl.com^
 ||cubavalue.shop^
@@ -467,6 +479,8 @@
 ||da.cx^
 ||da.ru^
 ||daftpage.com^
+||daisysfashions.shop^
+||darayibuy.shop^
 ||datechurch.shop^
 ||datesize.top^
 ||datingpm.club^
@@ -482,18 +496,27 @@
 ||de.pl^
 ||de-2.de^
 ||de-info.de^
+||deandryesclothing.shop^
 ||design.tl^
 ||designcarthosting.com^
+||dfashionboutique.shop^
+||diana-fashion.shop^
 ||dietmark.shop^
 ||digitalzones.com^
 ||dimsolo.com^
+||dinaellen.shop^
 ||dinamikajambi.com^
+||dmodaboutique1.shop^
 ||dnip.net^
 ||doctorfew.top^
+||dolebropro.shop^
 ||domain.lc^
 ||members.domaindlx.com^
+||domepaosell.shop^
 ||doodlekit.com^
+||dorabiamarketing.shop^
 ||dot.tk^
+||doteyoueshop.shop^
 ||download.ac^
 ||download.sh^
 ||downloaden24.de^
@@ -505,6 +528,7 @@
 ||drugpoint.shop^
 ||dtiblog.com^
 ||duanwenzi.cn^
+||duchessandthedude.shop^
 ||dvd.lc^
 ||e.gp^
 ||e-docssig.com^
@@ -512,6 +536,7 @@
 ||e-monsite.com^
 ||easyfreehosting.com^
 ||eb2a.com^
+||ebeesboutique.shop^
 ||ebuykind.shop^
 ||ec.gp^
 ||ecardalert.com^
@@ -528,7 +553,10 @@
 ||ehaitao.com^
 ||eklablog.com^
 ||eklablog.fr^
+||elegantrosebridal.shop^
 ||elementfx.com^
+||elizabethsfashion.shop^
+||emmasbowtique.shop^
 ||emyspot.com^
 ||energycd.shop^
 ||english.lc^
@@ -544,6 +572,7 @@
 ||es-caixamovil-clientes.com^
 ||esel.in^
 ||eshop-ya.life^
+||esthersresaleshop.shop^
 ||eu.cm^
 ||eu.cr^
 ||eu.gg^
@@ -568,20 +597,26 @@
 ||ezblogz.com^
 ||ezyro.com^
 ||f11.us^
+||faithflairboutique.shop^
 ||familylobby.com^
+||fancyjsboutique.shop^
+||fannielenterprises.shop^
 ||fast-page.org^
 ||fat-fly.com^
 ||fb-business.com^
 ||fcpages.com^
+||fe-boutique.shop^
 ||ferreracademy.com^
 ||fileave.com^
 ||filme.lc^
 ||financecryptoworld.com^
+||finassalonboutique.shop^
 ||findarea.shop^
 ||finlandway.shop^
 ||firearms.com^
 ||firm.nu^
 ||fishmeet.shop^
+||fitegirlsboutique.shop^
 ||fitnell.com^
 ||flashbuilder.net^
 ||flazio.com^
@@ -643,6 +678,9 @@
 ||fun5.de^
 ||fw.bz^
 ||fw.hu^
+||gabstinaboutique.shop^
+||gakken.shop^
+||gamblerschoiceclothing.shop^
 ||game.lc^
 ||gaming.lc^
 ||gamingadd.club^
@@ -651,7 +689,6 @@
 ||gerentebr.com^
 ||getenjoyment.net^
 ||getresponsesite.com^
-||gg123.vip^
 ||gilde.in^
 ||gildenseite.de^
 ||girlsense.com^
@@ -665,6 +702,8 @@
 ||googletagmanagers.com^
 ||govauinboxmsg-support.com^
 ||govinboxausecure-support.com^
+||goweachbuy.shop^
+||gowedhemarketing.shop^
 ||gr.gp^
 ||gr.kg^
 ||gr-site.com^
@@ -672,15 +711,14 @@
 ||gratis.lc^
 ||great-site.net^
 ||greatnow.com^
+||grecofioredesigns.shop^
 ||greecemar.shop^
 ||grwebsite.com^
 ||gtempurl.com^
 ||guest.de^
 ||guide.lc^
-||guzhibo.cn^
 ||gymsharkitaliaofficial.it^
 ||h.gp^
-||halloweencp.com^
 ||hanefra7bikiemta.com^
 ||harise.shop^
 ||hase.in^
@@ -696,6 +734,7 @@
 ||hkearth.xyz^
 ||hklevel.club^
 ||home.lc^
+||home.pl^
 ||homemarker.com^
 ||homepage.cx^
 ||homepage.lc^
@@ -790,6 +829,7 @@
 ||joomla.com^
 ||jouwweb.nl^
 ||jp.gp^
+||jtexpsers.cc^
 ||jtposts.cc^
 ||jugem.cc^
 ||jugem.jp^
@@ -855,7 +895,6 @@
 ||malltree.shop^
 ||manfeature.club^
 ||mapsweight.shop^
-||marshost.info^
 ||mashstaffing.com^
 ||mdtwo.top^
 ||me.gp^
@@ -901,6 +940,7 @@
 ||myfoolmoon.com^
 ||myfreesites.net^
 ||mygamesonline.org^
+||mypcprotech.com^
 ||myportfolio.com^
 ||mypressonline.com^
 ||mysteria.cz^
@@ -1047,6 +1087,7 @@
 ||sa.gp^
 ||safe-girogate.com^
 ||safwhatsapp.top^
+||sapabayeshops.shop^
 ||schmust.de^
 ||schoolrack.com^
 ||scienceontheweb.net^
@@ -1114,6 +1155,7 @@
 ||superweb.ws^
 ||surge.sh^
 ||sv.gp^
+||sv-whatsapp.top^
 ||svsy.my^
 ||sweb.cz^
 ||sxx.in^
@@ -1123,6 +1165,7 @@
 ||t.gp^
 ||t35.com^
 ||talk4fun.net^
+||taselavmy.shop^
 ||te4m.de^
 ||team.cx^
 ||team.tl^
@@ -1133,10 +1176,12 @@
 ||tempisite.com^
 ||temporary.site^
 ||temporary-demo.site^
+||temu-jp.shop^
 ||tentbuildingservices.eu^
 ||test.lc^
 ||testingnow.me^
 ||tggame.xyz^
+||tgpropower.top^
 ||th.gp^
 ||thisistap.com^
 ||tiiny.host^
@@ -1185,6 +1230,7 @@
 ||uk.st^
 ||ukit.me^
 ||ultimatefreehost.in^
+||ultimatescrubsmore.shop^
 ||umbler.net^
 ||unaux.com^
 ||unblog.fr^
@@ -1335,6 +1381,8 @@
 ||za.com^
 ||za.gp^
 ||za.net^
+||zapacesauto.shop^
+||zepatifcommerce.shop^
 ||zohosites.com^
 ||zoomshare.com^
 ||zustimmen.de^

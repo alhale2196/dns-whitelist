@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Nov 2025 18:41 UTC
-! Version: 2025.1107.1841.18
+! Last modified: 01 Nov 2025 07:09 UTC
+! Version: 2025.1101.0709.30
 ! Syntax: AdGuard
 ! Number of latin TLDs: 281 - punycode TLDs: 151
 !
@@ -173,7 +173,7 @@
 ||*.miami^
 ||*.ml^$denyallow=aire.ml|amap.ml|google.ml|info-matin.ml|lemmygrad.ml|lemmy.ml|lingva.ml|loma.ml|mastodon.ml|melody.ml|precure.ml|prompt.ml
 ||*.moda^
-||*.moe^$denyallow=anh.moe|aniya.moe|catbox.moe|cdn.moe|cubari.moe|ddlc.moe|dmn.moe|honse.moe|mathi.moe|nyarchlinux.moe|sakurajima.moe|save.moe|snug.moe|trace.moe|uma.moe
+||*.moe^$denyallow=anh.moe|aniya.moe|catbox.moe|cdn.moe|cubari.moe|ddlc.moe|honse.moe|mathi.moe|nyarchlinux.moe|sakurajima.moe|save.moe|snug.moe|trace.moe|uma.moe
 ||*.mom^
 ||*.money^$denyallow=copilot.money|flowyour.money|super.money|unstoppable.money|usual.money|vivid.money
 ||*.monster^$denyallow=cloudcdn.monster|fedi.monster|mortgage.monster|rollenspiel.monster|tts.monster|yts.monster
@@ -231,7 +231,7 @@
 ||*.ryukyu^
 ||*.sa.com^
 ||*.sale^
-||*.sbs^$denyallow=ecopulse.sbs
+||*.sbs^
 ||*.schule^
 ||*.science^$denyallow=amazon.science|canonn.science|hal.science|wander.science
 ||*.sew^
@@ -262,7 +262,7 @@
 ||*.tienda^
 ||*.tires^
 ||*.tk^$denyallow=air.tk|bstweaker.tk|budterence.tk|c-r-t.tk|google.tk|goshujin.tk|kabi.tk|sironi.tk|tokelau-info.tk|xn--qubec-csa.tk|zete.tk
-||*.today^$denyallow=addtocart.today|applefans.today|archive.today|futurology.today|lemmy.today|oldweb.today|type.today
+||*.today^$denyallow=addtocart.today|archive.today|futurology.today|lemmy.today|oldweb.today|type.today
 ||*.tokyo^$denyallow=tmaeno.tokyo
 ||*.top^$denyallow=ambr.top|caitlin.top|corriente.top|cpolar.top|edgeless.top|mastodon.top|mianbeian.top|nfmirrorcdn.top|pegelinux.top|polar.top|qwertycxz.top|reminder.top|saltwood.top|shucks.top|strims.top|suiten.top|thedesk.top|vsdb.top
 ||*.town^$denyallow=tilde.town
@@ -275,7 +275,7 @@
 ||*.vegas^
 ||*.ventures^
 ||*.vin^
-||*.vip^$denyallow=18comic.vip|liberta.vip|posh.vip|ryde.vip|stream.vip|trdiziizle.vip|vidstream.vip|wetv.vip|yesporn.vip
+||*.vip^$denyallow=18comic.vip|liberta.vip|posh.vip|ryde.vip|stream.vip|vidstream.vip|wetv.vip|yesporn.vip
 ||*.vision^
 ||*.vlaanderen^
 ||*.vote^$denyallow=arizona.vote
