@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Nov 2025 22:37 UTC
-! Version: 2025.1115.2237.21
+! Last modified: 08 Nov 2025 22:41 UTC
+! Version: 2025.1108.2241.31
 ! Syntax: AdBlock
-! Number of entries: 6921
+! Number of entries: 6843
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -90,6 +90,7 @@
 ||1clickvpn.com^
 ||1clickvpn.net^
 ||1ee.top^
+||adbfwbh.1j7a9k.ro^
 ||vpn.1xtrm.com^
 ||20010114.xyz^
 ||adhome.2011101.xyz^
@@ -172,6 +173,7 @@
 ||dns.5ososea.com^
 ||family.5ososea.com^
 ||kids.5ososea.com^
+||dns.688447.xyz^
 ||dns.6level.net^
 ||agh.710523.xyz^
 ||71745718.online^
@@ -209,6 +211,7 @@
 ||cld.996969.xyz^
 ||ddd.999369.xyz^
 ||dns.9999.sg^
+||99proxy.com^
 ||9w9.org^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
@@ -245,7 +248,6 @@
 ||adguard2.unima.ac.id^
 ||open-resolver1.unima.ac.id^
 ||dns-lb.unpak.ac.id^
-||learnaboutcareers.academiaderock.ro^
 ||vir.accesscam.org^
 ||accessmeproxy.com^
 ||acdtop.com^
@@ -315,7 +317,6 @@
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
 ||airvpn.org^
-||adguard.ajinga.net^
 ||rdjdns.ajraspi.xyz^
 ||dns.akbxr.com^
 ||akunssh.net^
@@ -365,7 +366,6 @@
 ||alwaysvpn.com^
 ||amandahugnkiss.org^
 ||amanvpn.com^
-||ec2-3-139-127-253.us-east-2.compute.amazonaws.com^
 ||ec2-34-194-122-51.compute-1.amazonaws.com^
 ||tunnelbear.s3.amazonaws.com^
 ||outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com^
@@ -404,7 +404,6 @@
 ||aniscartujo.com^
 ||sanns.aniuo.com^
 ||anixlab.com^
-||xz.anjumanallana.in^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||a-regist.anondns.net^
@@ -413,6 +412,7 @@
 ||anonproxy.org^
 ||anonvpn.io^
 ||anonwebproxy.com^
+||anonymitynetwork.com^
 ||anonymize.com^
 ||anonymizer.com^
 ||anonymizing.com^
@@ -458,6 +458,7 @@
 ||iron-dot-cobalt-antenna-219709.appspot.com^
 ||vpn.appsverse.com^
 ||dns.aquilenet.fr^
+||locval.araminimichael.ch^
 ||arashi.solutions^
 ||arcai.com^
 ||doh.archuser.org^
@@ -527,6 +528,7 @@
 ||vdsn-nl-2.azatmutq.com^
 ||dns.azcom.dev^
 ||dns.azfar.my^
+||learn.azimei.cn^
 ||azirevpn.com^
 ||doh.azoris.ovh^
 ||dns.azsopro.net^
@@ -568,13 +570,11 @@
 ||sg-dns2.bancuh.com^
 ||barnabech.fr^
 ||base99.com^
-||archlinuxisthebestlol.baselinux.net^
 ||bootnbo.baselinux.net^
 ||nirbolt.baselinux.net^
 ||nirbyteproxbolt.baselinux.net^
 ||shadownxirby.baselinux.net^
 ||solmariknein.baselinux.net^
-||studyeasy.baselinux.net^
 ||home.basthorst.eu^
 ||plant-selection.baumgardner.us^
 ||baxtri.ru^
@@ -629,7 +629,6 @@
 ||httpdns.bilivideo.com^
 ||carverd.bine.me^
 ||proxyduke.bingle.pw^
-||kind-rain-691.biologyscholar.org^
 ||sunny-wolf-734.biologyscholar.org^
 ||goga7777777.bissnes.org^
 ||ns3.bit-trail.nl^
@@ -857,11 +856,14 @@
 ||qh.cheftayebeh.ir^
 ||dns.chenu.ch^
 ||adguard.chestnov.ru^
+||azulxymadets.chickenkiller.com^
 ||coolkidd.chickenkiller.com^
+||jayisthe.chickenkiller.com^
 ||jordanmadethis.chickenkiller.com^
-||grapesceleste.lobo.chickenkiller.com^
+||freedns.kiuo-utopias.chickenkiller.com^
 ||andersonalcantara.my28.chickenkiller.com^
 ||soulsorcereryt.chickenkiller.com^
+||whydidiask.chickenkiller.com^
 ||doq.chikawa.cc^
 ||dns.chilimac.net^
 ||chillglobal.com^
@@ -918,6 +920,7 @@
 ||closetruth.date^
 ||dns.cloud-admin.xyz^
 ||doh.cloud-sekeng.com^
+||cloudbenders.fun^
 ||dns.cloudfiction.eu^
 ||dns.233py.com.cdn.cloudflare.net^
 ||learn.wiki-edu.xyz.cdn.cloudflare.net^
@@ -1036,6 +1039,7 @@
 ||dns.cmrg.net^
 ||adguard.cnbeining.com^
 ||doh.cnetwork.cloud^
+||10bestvpn.co.uk^
 ||adguard.aa4.co.uk^
 ||akashiro.co.id^
 ||antidnsvpn.co.cc^
@@ -1170,6 +1174,7 @@
 ||dns.netraptor.com.au^
 ||new-proxy.com.de^
 ||dns.oceanprint.com.br^
+||dns02.oceanprint.com.br^
 ||mrcrossmathhelp.oresumodaopera.com.br^
 ||manage.peakconsulting.com.au^
 ||dns.polatarasan.com.tr^
@@ -1210,9 +1215,6 @@
 ||dns.controld.com^
 ||doh.controld.com^
 ||freedns.controld.com^
-||bright-mind-274.conwordable.com^
-||large-sun-614.conwordable.com^
-||wise-wind-366.conwordable.com^
 ||coolproxy.org^
 ||dns.cooluc.com^
 ||coproxy.io^
@@ -1281,6 +1283,7 @@
 ||pltw.csproject.org^
 ||dns.csswg.org^
 ||ct-vpn.com^
+||ab.ctx.cl^
 ||webdav.cubecloud.win^
 ||cubedns.com^
 ||qual.cuprum.ru^
@@ -1288,11 +1291,10 @@
 ||curser.dev^
 ||cv-unfiltered.xyz^
 ||dns.cwlys.com^
-||slammpstudysfr.cxhzegpg.shop^
-||spongebob.cxhzegpg.shop^
 ||cyber-gateway.net^
 ||gc.cyberbeta.cn^
 ||cyberghostvpn.com^
+||nanopi.cybergroove.net^
 ||cybershield.cc^
 ||cybersilent.com^
 ||cyberssh.com^
@@ -1701,7 +1703,6 @@
 ||googolclasroom.dob.jp^
 ||pleaseworkughhfd.dob.jp^
 ||docker-hub.ir^
-||anything.dontbreakthiswildcard.doge.motorcycles^
 ||dv4.dogenetwork.cc^
 ||doh.beauty^
 ||doh.best^
@@ -1811,8 +1812,6 @@
 ||duyyen.tk^
 ||dvgarm.com^
 ||dvprovider.icu^
-||67godpromaxultra61isbettersorry.dylix.org^
-||hellopeople.dyn.mk^
 ||atlantic.dyn1.de^
 ||dns.dyn1.de^
 ||akhilkalwakurthy.dyndns.org^
@@ -1928,7 +1927,6 @@
 ||vpn.erhvict.ru^
 ||dns.erkin.top^
 ||agh.ero-sayhi.com^
-||sixseven67.errorrail.dev^
 ||doh.ersei.net^
 ||es-proxy.com^
 ||dns.esegece.com^
@@ -1950,6 +1948,7 @@
 ||beautifulthings.eu.org^
 ||jp.dns.bliod.eu.org^
 ||clic.eu.org^
+||resolver.dns.eban.eu.org^
 ||doh.excdn.eu.org^
 ||doh.greenwood.eu.org^
 ||sweethome.in.eu.org^
@@ -2052,6 +2051,7 @@
 ||ns1.fdn.fr^
 ||dns.fdue.de^
 ||agh.feblab.click^
+||feeproxy.com^
 ||dns.fehlsprache.de^
 ||ag.felixf.eu^
 ||home.fendya.com^
@@ -2128,6 +2128,7 @@
 ||forestvpn.com^
 ||proxy.forkbomb.xyz^
 ||www-proxy.formen.cc^
+||fortniters.info^
 ||disturbing-the-peace.foxgateway.com^
 ||get-out-of-my-head-get-out-of-my-head.foxgateway.com^
 ||i-understand-it-now.foxgateway.com^
@@ -2211,6 +2212,7 @@
 ||freeproxylist.online^
 ||freeproxylist.ru^
 ||freeproxyserver.co^
+||freeproxysites.co^
 ||freeproxyunblockyoutube.com^
 ||freeproxyupdate.com^
 ||freeproxyweb.net^
@@ -2241,6 +2243,7 @@
 ||dns.freopc.fr^
 ||dns.freyja.pw^
 ||frkn.frkn.cloud^
+||frlolyt.site^
 ||ivica-vulas.from.hr^
 ||frootvpn.com^
 ||dns.froth.zone^
@@ -2280,6 +2283,7 @@
 ||gatcha.org^
 ||adguard.gattow.com^
 ||gclouddns.com^
+||dns1.gdie.top^
 ||gecko.fun^
 ||geckovpn.xyz^
 ||geekproxy.com^
@@ -2472,7 +2476,6 @@
 ||artiom.made.this.h0stname.net^
 ||h0w.cc^
 ||adguard.h22designs.com^
-||lo.h2tmt.cn^
 ||adg-nl.h4nt3r.com^
 ||adg-swe.h4nt3r.com^
 ||adguard.h4nt3r.com^
@@ -2537,7 +2540,6 @@
 ||dns.msk.hexagon1736.com^
 ||hexxitcompany.com^
 ||httpdns.ocloud.heytapmobi.com^
-||hfgx.shop^
 ||hg8.asia^
 ||hgrps.eu^
 ||dns.sgp.hicn.site^
@@ -2885,7 +2887,6 @@
 ||it-proxy.org^
 ||it-works4u.com^
 ||it-works4u.nl^
-||khanhow-to-do-math.itafricagroup.com^
 ||adguard.itclogic.cloud^
 ||dns.itcosc.com^
 ||dns.itdata.ro^
@@ -2918,7 +2919,6 @@
 ||securifi.jagalabs.net^
 ||jagoanssh.com^
 ||jailbreaked.net^
-||skibiditoilet.jake.eu^
 ||sm6.jake.eu^
 ||jamessou.jamesferrand.fr^
 ||proxjdf.jamesferrand.fr^
@@ -3018,10 +3018,8 @@
 ||yanglini.justlearning.net^
 ||uto1.k.vu^
 ||adguard.k-likhachev.ru^
-||calm-spirit-618.k12biography.com^
 ||great-spirit-267.k12biography.com^
 ||large-wind-274.k12biography.com^
-||philosophy.k12biography.com^
 ||first-air-246.k12biology.com^
 ||kind-fox-975.k12biology.com^
 ||proteomics.k12biology.com^
@@ -3266,7 +3264,6 @@
 ||doh.phdns3.lonet.org^
 ||doh.phdns4.lonet.org^
 ||doh.phdns5.lonet.org^
-||time4schooled.lookids.com^
 ||lookingglass.site^
 ||dns.loony-tech.de^
 ||lopana.com^
@@ -3707,7 +3704,6 @@
 ||netvpn.app^
 ||netvpn.us^
 ||dns.netvpn.net^
-||scienceisfun11.networkguru.com^
 ||cube.neubsi.at^
 ||dns.neubsi.at^
 ||dns.neutopia.org^
@@ -3832,10 +3828,8 @@
 ||bright-storm-767.nstabiology.org^
 ||deep-lake-819.nstabiology.org^
 ||fair-bear-832.nstabiology.org^
-||happy-rain.nstabiology.org^
 ||kind-bear-286.nstabiology.org^
 ||quick-tiger-997.nstabiology.org^
-||tall-heart-319.nstabiology.org^
 ||nsv4w.com^
 ||dns.ntr.lol^
 ||ntwrkh.pro^
@@ -3888,7 +3882,6 @@
 ||dns.omada.cafe^
 ||dns.omee4.ru^
 ||omegaproxy.com^
-||rammerheadblackholenetwork.omniscien.cl^
 ||adguard.oms-ctr.ru^
 ||onconnect.info^
 ||one.one.one.one^
@@ -4052,7 +4045,6 @@
 ||loan.paymdm.xyz^
 ||pazou.org^
 ||vps-ovh.pb2004.pl^
-||securly.com.pbdjarum.info^
 ||pbproxy.red^
 ||pbproxy2.co^
 ||pc-streaming.com^
@@ -4099,7 +4091,6 @@
 ||dns.pierzchlewicz.pl^
 ||dns.pieterdherde.com^
 ||dns1.pietjacobs.be^
-||rothschild.pii.at^
 ||dns.pine-home.de^
 ||pingproxy.com^
 ||pinkproxy.xyz^
@@ -4142,7 +4133,6 @@
 ||dns.pointless.chat^
 ||pointtoserver.com^
 ||polargrizzly.com^
-||joo.polishmc.pl^
 ||polisitogel.beauty^
 ||polisitogel.builders^
 ||polisitogel.contractors^
@@ -4166,7 +4156,6 @@
 ||potatovpn.io^
 ||dns.powerbs.net^
 ||doh.powerdns.org^
-||poxy.pl^
 ||adguard-server.pp.ua^
 ||2.alpo.pp.ua^
 ||angry.pp.ua^
@@ -4240,7 +4229,6 @@
 ||pro-tower.com^
 ||prointern.info^
 ||project-evoex.de^
-||dns.propheci.xyz^
 ||adg.proprietarypenguin.com^
 ||dns.proprietarypenguin.com^
 ||edu.prostitutki-na-vyezd.com^
@@ -4306,7 +4294,6 @@
 ||proxy-bypass.com^
 ||proxy-cheap.com^
 ||proxy-german.de^
-||proxy-internet.info^
 ||proxy-list.download^
 ||proxy-n-vpn.com^
 ||proxy-search.com^
@@ -4491,7 +4478,6 @@
 ||dns.quickso.cn^
 ||dns.quiet.rocks^
 ||quintex.com^
-||172.96.141.252doge.quipasur.cl^
 ||epicgrammar.quipasur.cl^
 ||quotivatehub.com^
 ||ant.dns.qwer.pw^
@@ -4548,7 +4534,6 @@
 ||dns.reckoningslug.name^
 ||vladimirloljk.lollipopyum.liveastheman.reconectar.cl^
 ||topwriting.redalameda.cl^
-||redhoodie.site^
 ||redproxy.info^
 ||dns.redroot.cc^
 ||redschool.info^
@@ -4565,7 +4550,6 @@
 ||renardbleu.dev^
 ||dns.renardyre.com^
 ||adblock.renedis.nl^
-||schoolismid.reno.pe^
 ||dns.reolinks.ru^
 ||dns.repinger.com^
 ||repocket.co^
@@ -4591,7 +4575,6 @@
 ||adguard.richardapplegate.io^
 ||richardo.net^
 ||ricko.is^
-||rammerhead-by-itrsa.rima.cl^
 ||dns.rin.sh^
 ||ringvpn.com^
 ||dns.rinux.win^
@@ -4684,12 +4667,6 @@
 ||sandparticles.us^
 ||sandvpn.com^
 ||dns.saneaki.com^
-||backend.development.sanluix.org^
-||database.development.sanluix.org^
-||frontend.development.sanluix.org^
-||mobile.development.sanluix.org^
-||tools.development.sanluix.org^
-||lol.sanluix.org^
 ||saoudiproxy.info^
 ||router.sapib.ca^
 ||adb-dns.sapient.cyou^
@@ -4731,7 +4708,6 @@
 ||gravity.sciencevictory.org^
 ||brave-moon-374.scientificsense.org^
 ||bright-storm-707.scientificsense.org^
-||trigonometry.scientificsense.org^
 ||dns.scott.ovh^
 ||dns.scott-smith.us^
 ||scottdylewski.com^
@@ -4834,26 +4810,20 @@
 ||adguard.shoupperuser.com^
 ||dns.shrike.ru^
 ||adguard.shutgaming.net^
-||bright-bear-630.shuttle.lol^
 ||kind-wolf-912.shuttle.lol^
 ||calm-wolf-401.shuttlemath.com^
 ||fair-hawk-609.shuttlemath.com^
 ||fair-lake-387.shuttlemath.com^
-||h.shuttlemath.com^
-||small-dark-121.shuttlemath.com^
 ||deep-hawk-892.shuttleproxy.com^
-||kind-magic-164.shuttleproxy.com^
 ||kind-tiger-205.shuttleproxy.com^
 ||old-soul-492.shuttleproxy.com^
 ||nl.dns.shx.su^
-||itrsa.sic.al^
 ||doh.sidnlabs.nl^
 ||signsservers.ru^
 ||dns.sildom.me^
 ||dns.silen.org^
 ||dns.silentlybren.com^
 ||dns2.sillav.dev^
-||simplevpn.info^
 ||simplevpn.net^
 ||dns.simplylinux.ch^
 ||dns.sindominio.net^
@@ -4896,7 +4866,6 @@
 ||test3.adg.siudzinski.net^
 ||test4.adg.siudzinski.net^
 ||adguard.sixxi.de^
-||made-by-itrsa.sjno.net^
 ||ofer.ox.sjtech.org^
 ||iproyal.sjv.io^
 ||skibidislicers.xyz^
@@ -4919,7 +4888,6 @@
 ||001.smallnode.net^
 ||smartcamp.su^
 ||smartdnsproxy.com^
-||onlyforschool123.smarter-homes.com^
 ||lunarsync.smartfoloo.space^
 ||dns.smartguard.io^
 ||smartproxy.com^
@@ -5046,7 +5014,6 @@
 ||00bb1f65c07644c64f3cef72a549ca8532cb3b1d-m.proxy1.startpage.com^
 ||00e4eea7e760d680b89ed49865185f74d642e426-m.proxy1.startpage.com^
 ||00ea019a7ef42f65d1b80127ae826d3251a3fc6b-m.proxy1.startpage.com^
-||0100487fc6618543c1d4d3ce2e8b2ef9520a055a-m.proxy1.startpage.com^
 ||01155bcf9ef6759d3f783c3fc62f2ffbc80b1c9c-m.proxy1.startpage.com^
 ||013d2702d0836b8eb6afd252c5fd2c2b1ccf554d-m.proxy1.startpage.com^
 ||013e3c534c88b5cd7a353788a8e3177da6c71993-m.proxy1.startpage.com^
@@ -5057,13 +5024,10 @@
 ||0272046254883f1f3cff36be2c3a09bbb6420ca6-m.proxy1.startpage.com^
 ||02f09ae524da4f3230e515b611bc7f1e5743ae4a-m.proxy1.startpage.com^
 ||03d90f606b92ec53efbe4dbe505533c0544c67ee-m.proxy1.startpage.com^
-||05b2b3553cfa454c42fe170e53e1bc6b2f01179f-m.proxy1.startpage.com^
 ||0610ae1d1c65255471b9fbbdf19c5ead87dad12b-m.proxy1.startpage.com^
 ||0716d0ffb3ae9731826ce88455532feadb6ea94e-m.proxy1.startpage.com^
-||082b0f7f4607ad1d8d83c22742b70300a3889c23-m.proxy1.startpage.com^
 ||08a7a547b16047321c94a5eee0d68d11646d2325-m.proxy1.startpage.com^
 ||08b04b2624d87c0d58daafc52dee1f9399b22a5b-m.proxy1.startpage.com^
-||08e2a3734cfb3d4fe299d55d6c10b0acae87a74e-m.proxy1.startpage.com^
 ||093466a526e92a45e5e0585749e82e38d5b498c4-m.proxy1.startpage.com^
 ||095f638c47bcc9f5d96a4968b13cc3e32e4c3dc0-m.proxy1.startpage.com^
 ||09aded5d4b67f84d4b7b60e846c04e5efb1b003c-m.proxy1.startpage.com^
@@ -5121,11 +5085,9 @@
 ||1ba1486345c162fe1e3efa0aed46f2043d5d1ee6-m.proxy1.startpage.com^
 ||1cdfc1f680d76013089dc20ff50a6354171da916-m.proxy1.startpage.com^
 ||1d5c8ac0113a43a0bc79baca199fa2d0d106c44f-m.proxy1.startpage.com^
-||1d9899b695753776ef8d0e69cd1aaa4a6a677711-m.proxy1.startpage.com^
 ||1db9533bac8406e603eeafb74d836099aba3071e-m.proxy1.startpage.com^
 ||1dfc159277898cafb521ca47a5740f7ddecd7fb1-m.proxy1.startpage.com^
 ||1e5e4689e566c58e9ebf4917097cbcb54fde2452-m.proxy1.startpage.com^
-||1eab0f4c73fc336831d74b223f8777f9c83a5d54-m.proxy1.startpage.com^
 ||1eb947435b12e304c2914119dc70b9a04b147587-m.proxy1.startpage.com^
 ||1f800d87e6cd7be044b757d5fd34d2b953e13d2a-m.proxy1.startpage.com^
 ||1faed432e72172334dda9d74b6d9b7628fff71d4-m.proxy1.startpage.com^
@@ -5145,7 +5107,6 @@
 ||255f2f98c6a3b3b59794b0c1d95b4610be326873-m.proxy1.startpage.com^
 ||258852944c17cdeb73916aea46d4290b8c8b6b28-m.proxy1.startpage.com^
 ||2597c3383de73c13b25e0428480328b6a08f16ff-m.proxy1.startpage.com^
-||25b2b0deb6b34ea7529900c9f26340726e5100c6-m.proxy1.startpage.com^
 ||264b22614cbcd2d469c6cee655a184748df22318-m.proxy1.startpage.com^
 ||265b241646c7f827b8d52cc6b68db3d6c7ee8755-m.proxy1.startpage.com^
 ||26e12761bfa367a7de713e129548ba6380f52082-m.proxy1.startpage.com^
@@ -5158,8 +5119,6 @@
 ||2b6fc30da67f7ec9eeb446210df9751fc5b08060-m.proxy1.startpage.com^
 ||2b8c294cb2bfde18042fe230ea4320ea0e799f33-m.proxy1.startpage.com^
 ||2bb879c8362f9d43b57a9091866308ccdf8c1e47-m.proxy1.startpage.com^
-||2bde98584803d7dd5c3bcec760c62a3e2a3fa18f-m.proxy1.startpage.com^
-||2cd131d3784056a62df6353ed1dbc57db5548b52-m.proxy1.startpage.com^
 ||2ce5aff503052feb3e9929e947ef273242c7b640-m.proxy1.startpage.com^
 ||2d17422df11055c73b791c40e06b2389aa4190e2-m.proxy1.startpage.com^
 ||2d2b56f88127394931eb33916ba38de92247e200-m.proxy1.startpage.com^
@@ -5185,7 +5144,6 @@
 ||33307bd1cdd073f53de46fce0e72ef2c33823ea1-m.proxy1.startpage.com^
 ||33d4bb817635699c1d655cb1ce272715b7730e57-m.proxy1.startpage.com^
 ||344f867fe0fe7a693c13b96dd244c0c6b37c5dc5-m.proxy1.startpage.com^
-||34d9528ab4808feffdd48091d75e6556a7b43ab6-m.proxy1.startpage.com^
 ||34e9f96d5d5bd0105f1d082e8e736c093f78babc-m.proxy1.startpage.com^
 ||362065e26d31544f850ca1212b3ec405950a4bbf-m.proxy1.startpage.com^
 ||37ac135b5d313fbfa195ed7197d8bd0056908760-m.proxy1.startpage.com^
@@ -5194,7 +5152,6 @@
 ||38240a94cf992a566b9348f372617b1423845f3e-m.proxy1.startpage.com^
 ||38aba3215f48da44c3ad496ea63743663d088f8b-m.proxy1.startpage.com^
 ||397be28a97d492d568de64bdc61bb1a88744db61-m.proxy1.startpage.com^
-||39958a8e3fb706115bdba34b09e01814061d3a01-m.proxy1.startpage.com^
 ||39aff69a8a8a4d23e7986996b1d2da536623e8d7-m.proxy1.startpage.com^
 ||3a3260e4f96c0cf3e66a552d2a25c23beab75bee-m.proxy1.startpage.com^
 ||3a8e8518304a1b7ca63e44c2f8d5616f3a106575-m.proxy1.startpage.com^
@@ -5209,13 +5166,11 @@
 ||3d8d2811b2e423492b998bdfb9aa7ad6138320ef-m.proxy1.startpage.com^
 ||3d8ec11e56ac83972ea47831661782c6e07a2911-m.proxy1.startpage.com^
 ||3dc7b30f9d88af739c29ca253758bd95019710c4-m.proxy1.startpage.com^
-||3e4e046d82658725b04877ecb57ff604d5f549af-m.proxy1.startpage.com^
 ||3f256e5f849e7d56f14add6f9d24a12cf99c0bca-m.proxy1.startpage.com^
 ||3fefe42aa6acde6b9db3f921c7755244d235cfbf-m.proxy1.startpage.com^
 ||40190689d2922ab8e9fdcebc0c8bec72210d5a11-m.proxy1.startpage.com^
 ||403443e938c737e216d92ad417b2b44c010f18e5-m.proxy1.startpage.com^
 ||4069c5c3571d0ab08e6f7aa69fb5facc74257866-m.proxy1.startpage.com^
-||40942a08659601509fc99ce79b018a8f9f0bc039-m.proxy1.startpage.com^
 ||4105ef8e2ee19f1a0c4b56f0fa437dbf2c5c6095-m.proxy1.startpage.com^
 ||4111e642ef88a58f4a9fb9265a2f3014506379fe-m.proxy1.startpage.com^
 ||4205e0f60c7d14874bfbc46f23aaf31e21dc8af9-m.proxy1.startpage.com^
@@ -5233,7 +5188,6 @@
 ||467f2245dd2dd377e8d6d5a8423a14895f2f8682-m.proxy1.startpage.com^
 ||46c2c1ffa0448c58f7c978a4374c4fba9aac6b4f-m.proxy1.startpage.com^
 ||474a1c81df09fa5bf28cbd3621f67cf66ad84be3-m.proxy1.startpage.com^
-||47916de8eac12b023cbf22878681f7d89ec20369-m.proxy1.startpage.com^
 ||47a01aa1864b90607997bf0c30460c82d424bd17-m.proxy1.startpage.com^
 ||47a10d98b724f2d851f8978d1f2bf9c235dffe48-m.proxy1.startpage.com^
 ||47a65f857ca6bd68a6a96fe83a80a383471056ed-m.proxy1.startpage.com^
@@ -5250,7 +5204,6 @@
 ||4c0eb418f24022e1d25ad9656124440d9668cc47-m.proxy1.startpage.com^
 ||4c32a37f09d66680b47df47d7d792f86431e73cb-m.proxy1.startpage.com^
 ||4cd7c70d9a76e7951ad920fbcac03021d6ec88a9-m.proxy1.startpage.com^
-||4d7e8aed26b41fc196cdea56385ab063a3d87432-m.proxy1.startpage.com^
 ||4dc93f7b95cf13681f40154110de938eb4ea0e43-m.proxy1.startpage.com^
 ||4dd51c0736dc6fb7d422f6b1021293003ecf6734-m.proxy1.startpage.com^
 ||4e3f5b207aacdd78cdea39efeff90bbf5500bf2f-m.proxy1.startpage.com^
@@ -5300,7 +5253,6 @@
 ||603930b7e11a6e0fea0b48f2bec191152089e561-m.proxy1.startpage.com^
 ||606a5d7e06f248db7fe1223cf68c43680b17053a-m.proxy1.startpage.com^
 ||60defa5f6c445ce2d31806ea627df8781952e3ba-m.proxy1.startpage.com^
-||6284698af035a8473eeeb02c9d33a8afe8c827d7-m.proxy1.startpage.com^
 ||62fc1ff76dfcca286a552ca68263084b8f52027d-m.proxy1.startpage.com^
 ||636adebccc8f0d0f316bd8a9f1356946974e5fe6-m.proxy1.startpage.com^
 ||63715f9b1a338c82e4fbab19954df94391e79463-m.proxy1.startpage.com^
@@ -5409,7 +5361,6 @@
 ||84872e293698c52a3db5922ccdea344f51b50179-m.proxy1.startpage.com^
 ||84a323a093f4c0fd04bd41b7baf5a622b8debfa6-m.proxy1.startpage.com^
 ||84cd3f6c8ba7ac36b3a53739545cadbc36da129d-m.proxy1.startpage.com^
-||85254c4e8c0e4110cd1d7d0f0966067da89bdca0-m.proxy1.startpage.com^
 ||85615bbaf20c6a3731fb148cf6032b209758275e-m.proxy1.startpage.com^
 ||8682a5ffda040259a5f41c595f6d5e046b978996-m.proxy1.startpage.com^
 ||86984ca7a8ebbfef4cd4ee036c1a4e785c0eee7f-m.proxy1.startpage.com^
@@ -5423,12 +5374,10 @@
 ||89481fc58e0118c68bad2be55a923625b4bdea84-m.proxy1.startpage.com^
 ||894a94b83a52906936ebb5d8f2d6c63abb599632-m.proxy1.startpage.com^
 ||89943f7b42e0d8ffec6419e5fb12236edd0ba7d3-m.proxy1.startpage.com^
-||8a439a92f55b1bfd477f436c5c123c38a252e3d9-m.proxy1.startpage.com^
 ||8a7263eb14a85fbbb39b969302db50ebec60f271-m.proxy1.startpage.com^
 ||8a89154d5f78d6e476de6070042b5a552c2eee38-m.proxy1.startpage.com^
 ||8a8e80f93819e49a9b5e73c2964c8f77cd24c717-m.proxy1.startpage.com^
 ||8ad0c44f27c5b60d8e033c0adf7343beadaaa4fc-m.proxy1.startpage.com^
-||8af743eafefb46434e44b610c980eaf7c61f2d99-m.proxy1.startpage.com^
 ||8b9823d4d7cc4a578f80758cc274a5f219ac5d61-m.proxy1.startpage.com^
 ||8bdfc8ee940c212be8ca02089a9ae8871cb36179-m.proxy1.startpage.com^
 ||8c88cd3b4339859b3fa978dc3f0ae46579342b1f-m.proxy1.startpage.com^
@@ -5471,7 +5420,6 @@
 ||964cb1cd2ca88ab10f2430e201185470ca306854-m.proxy1.startpage.com^
 ||96f5348e18b9c7aab2c8b12905ba592cebd637d8-m.proxy1.startpage.com^
 ||97adba8b19e6f63d30565e05f38db652ac3e984b-m.proxy1.startpage.com^
-||97b2fe513a285df40877e33b099704384305f0ae-m.proxy1.startpage.com^
 ||9870c9c4e7fe0d473d1dca7407725d685f5b0776-m.proxy1.startpage.com^
 ||9873b1ddb415af0cea7d907e6230595bc41c1374-m.proxy1.startpage.com^
 ||9880978af7d029bca7d03de705350941b56d7dc3-m.proxy1.startpage.com^
@@ -5486,7 +5434,6 @@
 ||9bcd31312cad74a5eabc2285a4befc1402894cd3-m.proxy1.startpage.com^
 ||9beeea1658c7f61445e5230a6afa1ceb7e798911-m.proxy1.startpage.com^
 ||9c390415e09a8eadc7ea18b6bf467c040744538d-m.proxy1.startpage.com^
-||9c6a720507a0f563755a777baaca9ba7f90e9ee0-m.proxy1.startpage.com^
 ||9ccb77417dfd2656d2cac6c3f4f594405588b702-m.proxy1.startpage.com^
 ||9d26221bb28abe922f513fa4d2d79d9f84663cb6-m.proxy1.startpage.com^
 ||9d5329b36e5b6397f43429c7d93528db072007c8-m.proxy1.startpage.com^
@@ -5501,7 +5448,6 @@
 ||a00413fed5ab2b7b86bd01c5023196cfc38c83b7-m.proxy1.startpage.com^
 ||a01ec0cf99b812b44eb1d078130632e4e9e0216b-m.proxy1.startpage.com^
 ||a07529c689eee6ea750f2a6a5099fa7e5465ccce-m.proxy1.startpage.com^
-||a0e8fbfc3a72247053d373205dad70a24f8dd0aa-m.proxy1.startpage.com^
 ||a10fd3c53a9174b6c6d62c3b430d3d67d7179bb2-m.proxy1.startpage.com^
 ||a1b592311295dbf163331c88a3894ce5499b4cea-m.proxy1.startpage.com^
 ||a21c85c4bc7293de3db90f8cc8b8c48c00372166-m.proxy1.startpage.com^
@@ -5564,7 +5510,6 @@
 ||bc4578b9c10940929ce203e3b5e8671fafc109f8-m.proxy1.startpage.com^
 ||bc8326ce5c43e089c1b5a4aa1a714d4a56b1c0b2-m.proxy1.startpage.com^
 ||bc8fe87d7ca923b65181139f073a213604c83c8c-m.proxy1.startpage.com^
-||bcaa3951d47722da2113e6b21e399217930d199e-m.proxy1.startpage.com^
 ||bcce587a42de7ff9efbd9060f92b075293371a3b-m.proxy1.startpage.com^
 ||bd3c074bdff03645e6dd04f6b02ada7fa06a7366-m.proxy1.startpage.com^
 ||bd616a674dcd78a841adbfad56de67033afef434-m.proxy1.startpage.com^
@@ -5592,7 +5537,6 @@
 ||c4ad7e05f0868711d2463b44b080f54ed444f2bf-m.proxy1.startpage.com^
 ||c63027976cf86f0574ab9f9702f1344e87045c95-m.proxy1.startpage.com^
 ||c66d3a8bc156a2e1cc90fe13f5723d43f13505c3-m.proxy1.startpage.com^
-||c6fd03736ff2738124dbad5473b5627ee7bf806d-m.proxy1.startpage.com^
 ||c754fe6ba5a471435396799601305ad08d2cad17-m.proxy1.startpage.com^
 ||c77c5b1803c8fe322fc5228d5e86b77e356e8941-m.proxy1.startpage.com^
 ||c95345568b02cae7a9a19dfb9784eb6f6ab59d95-m.proxy1.startpage.com^
@@ -5602,12 +5546,10 @@
 ||cb9f3afd9900f4743bd497fc89e69e51c5333777-m.proxy1.startpage.com^
 ||cd2afdbf2a752096e383b22b5cafce3922733a6c-m.proxy1.startpage.com^
 ||cd4830eb9cf9e8fa0002ea6be8ce73276bc06935-m.proxy1.startpage.com^
-||ce0787aad82525b9802d0349eb048b71dc5c53da-m.proxy1.startpage.com^
 ||ce2c67994a23980afbbe33f87c9b53a8b3eca19a-m.proxy1.startpage.com^
 ||cf7b63b09c053c77546480aae414d7e743e58f63-m.proxy1.startpage.com^
 ||cfcf833923fc0e6c3e3db363914d7aa7f82278b3-m.proxy1.startpage.com^
 ||d0008a93452e73c6cf0aeab388ba511846cc05ba-m.proxy1.startpage.com^
-||d06150091652f2c7e62f50f17eb4206e7cbb5737-m.proxy1.startpage.com^
 ||d0afa083f964b7514699c542877e85be8705dfd6-m.proxy1.startpage.com^
 ||d0c594e307d626d05aef49fe9a2bbb99bd758a53-m.proxy1.startpage.com^
 ||d1548b244490eaf1e3cde620c25ccd0b68a18b9b-m.proxy1.startpage.com^
@@ -5651,7 +5593,6 @@
 ||dea77a4e12fbce8840ee2f62ed4011de4698a853-m.proxy1.startpage.com^
 ||deb797c528c42eb06232121b1feaecc460d5c575-m.proxy1.startpage.com^
 ||dee413d3b42eb78e8e9ebc73181fe9a6c05a710d-m.proxy1.startpage.com^
-||df8941ca0566a35233b71bd441679956d8b9f6df-m.proxy1.startpage.com^
 ||dfbd30df77c7c2b6734b8b0bc9d46fbc9444d457-m.proxy1.startpage.com^
 ||dfce335b4155333da2d6d5e61599867db03bd72d-m.proxy1.startpage.com^
 ||e062474725f82be20ca18fdaa878c38976147ca1-m.proxy1.startpage.com^
@@ -5663,7 +5604,6 @@
 ||e133b1b5f1efec3fcca1c94be003f4c298044f18-m.proxy1.startpage.com^
 ||e15fe968ef89a73ebdf5cb36029e09642c0d2709-m.proxy1.startpage.com^
 ||e167b1bb477175dabf7b6cc7d297556f9db2ca66-m.proxy1.startpage.com^
-||e20636f5394f9b8b3dc4c26c7095a1d1d583c93d-m.proxy1.startpage.com^
 ||e24075d08c186ca75b5463c9b96d0780abeb0760-m.proxy1.startpage.com^
 ||e26124dd916012c4fe72d57a25f688647eba6e04-m.proxy1.startpage.com^
 ||e31c8def4c8fe8b517f15df57752dd5ef1530505-m.proxy1.startpage.com^
@@ -5688,7 +5628,6 @@
 ||eb863dba8709f630f0173217027713c5b1e3ea1b-m.proxy1.startpage.com^
 ||eb99faf56b292c36302b84fc049be33926c6c836-m.proxy1.startpage.com^
 ||ebbfbce090e36774eaca3a685361e25a39cc4f8a-m.proxy1.startpage.com^
-||ec7c673dfa664531efc75a8c5826ea155436b409-m.proxy1.startpage.com^
 ||ec82b8b7c2a85705a56e1bbc947b15c7c68eb3f4-m.proxy1.startpage.com^
 ||ecd614203557fd230666d9368397cf05fa1feeaf-m.proxy1.startpage.com^
 ||ed37fedaa706feea78a1a537951d6a6f9d5e5e38-m.proxy1.startpage.com^
@@ -5802,7 +5741,6 @@
 ||superunlimited.com^
 ||supervpn.best^
 ||supervpn.im^
-||supervpn.net^
 ||suredns.nl^
 ||surf-for-free.com^
 ||surf100.com^
@@ -5851,7 +5789,6 @@
 ||ramm-ume-pro.swanndvr.net^
 ||science-making.swanndvr.net^
 ||swapip.com^
-||math.swift.cl^
 ||swiftshieldvpn.com^
 ||swissvpn.net^
 ||dns.switch.ch^
@@ -5943,12 +5880,10 @@
 ||apne1.dns.terumi.club^
 ||dns.soldier.terumi.club^
 ||dns.tesem.dog^
-||testvpn.info^
 ||adguard.tetnet.net^
 ||cloud.tezoi.com^
 ||thankvpn.com^
 ||the-cloak.com^
-||thebestproxy.info^
 ||thebestvpn.com^
 ||dns.thebuckners.org^
 ||theclickcheck.com^
@@ -6099,7 +6034,6 @@
 ||resolv1.trash.net^
 ||resolv2.trash.net^
 ||resolv3.trash.net^
-||travelvpn.info^
 ||travelvpn.net^
 ||ns.trcnet.fi^
 ||adguard.treexhd.me^
@@ -6125,7 +6059,6 @@
 ||swe.try-dns.com^
 ||dns.tryk.app^
 ||arxthegoat.ts0880.es^
-||adg.tshost.no^
 ||seible.tsurukawa.org^
 ||net.tt6.net^
 ||doh.ibr.cs.tu-bs.de^
@@ -6208,13 +6141,11 @@
 ||unblockadultsites.com^
 ||unblockandsurf.com^
 ||unblockanything.com^
-||unblockblocked.net^
 ||unblockbook.biz^
 ||unblockdirect.com^
 ||unblocked.ac^
 ||unblocked.africa^
 ||unblocked.asia^
-||unblocked.biz^
 ||unblocked.black^
 ||unblocked.buzz^
 ||unblocked.cloud^
@@ -6322,7 +6253,6 @@
 ||undofilters.com^
 ||dns.unerror.network^
 ||ines.zfn.uni-bremen.de^
-||pleasedontblockthis.unids.com^
 ||unifiedvpn.com^
 ||galileo.math.unipd.it^
 ||dns.unitech.company^
@@ -6371,8 +6301,6 @@
 ||uproxy2.net^
 ||uproxy2.org^
 ||uproxy2.xyz^
-||first-star-612.upsidedowntext.top^
-||wild-fire.upsidedowntext.top^
 ||ur.io^
 ||ur-browser.com^
 ||urban-vpn.com^
@@ -6457,7 +6385,6 @@
 ||dns2.vinc.me^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
-||dns.vip-kingstore.xyz^
 ||z.vipit.one^
 ||virtual-browser.com^
 ||dns.virtual-qr.ir^
@@ -6518,7 +6445,6 @@
 ||vpncity.info^
 ||vpnclientapp.com^
 ||vpndaily.com^
-||vpndeluxe.com^
 ||vpndock.com^
 ||vpndog.com^
 ||proxy.vpner.com^
@@ -6731,7 +6657,6 @@
 ||noturmotherlol.worksheetsforteachers.org^
 ||pdf.worksheetsforteachers.org^
 ||worldgravityapp.com^
-||104.218.50.66.worldplus-intl.org^
 ||worldvpn.net^
 ||worldwideproxy4u.win^
 ||wossow.com^
@@ -6801,7 +6726,6 @@
 ||common.dot.dns.yandex.net^
 ||family.dot.dns.yandex.net^
 ||safe.dot.dns.yandex.net^
-||vinnyisbunslol.yao.cl^
 ||adguard.yare.hk^
 ||agh-hetzner.yasirafique.com^
 ||yasosy.pro^
@@ -6863,7 +6787,6 @@
 ||dns.yyaan.top^
 ||adg.yybyy.wiki^
 ||dns.daemon.za.net^
-||ask.teaching.za.com^
 ||zabolotskikh.dev^
 ||dns.zachbosh.com^
 ||adguard.zachitect.com^
@@ -6887,7 +6810,6 @@
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
 ||oraclejp01.zerotorez.com^
-||zerotunnel.com^
 ||zerovpn-app.com^
 ||zexusdigital.online^
 ||dns.zfsystem.tech^
