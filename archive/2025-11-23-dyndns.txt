@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Nov 2025 10:31 UTC
-! Version: 2025.1121.1031.17
+! Last modified: 14 Nov 2025 06:36 UTC
+! Version: 2025.1114.0636.33
 ! Syntax: AdBlock
-! Number of entries: 1472
+! Number of entries: 1471
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -281,7 +281,6 @@
 ||dedyn.io^
 ||demosoftonline.com^
 ||demoteam.ch^
-||desec.io^
 ||dh3.com^
 ||dhcp.biz^
 ||dhis.org^
@@ -413,7 +412,6 @@
 ||dyndns-free.com^
 ||dyndns-home.com^
 ||dyndns-ip.com^
-||dyndns-ip.org^
 ||dyndns-mail.com^
 ||dyndns-office.com^
 ||dyndns-pics.com^
@@ -1137,6 +1135,7 @@
 ||port25.biz^
 ||portfwd.com^
 ||portmap.host^
+||portrelay.com^
 ||prettyweak.com^
 ||priamaakcia.sk^
 ||privatedns.com^

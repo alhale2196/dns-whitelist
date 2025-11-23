@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Nov 2025 02:27 UTC
-! Version: 2025.1122.0227.08
+! Last modified: 15 Nov 2025 22:30 UTC
+! Version: 2025.1115.2230.57
 ! Syntax: AdBlock
-! Number of entries: 11528
+! Number of entries: 11595
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -209,7 +209,6 @@
 ||1flix.to^
 ||1gabba.net^
 ||1gabba.pw^
-||tracker.1h.is^
 ||1hd.to^
 ||1jour1film.online^
 ||1jour1film.website^
@@ -2557,7 +2556,6 @@
 ||tr-rh-zhuqiy.dgj055.icu^
 ||tr-zhuqiy-1.dgj055.icu^
 ||tr-zhuqiy-2.dgj055.icu^
-||tracker-zhuqiy.dgj055.icu^
 ||trl-zhuqiy.dgj055.icu^
 ||tracker.zhuqiy.dgj055.icu^
 ||dhakadownload.com^
@@ -3071,7 +3069,6 @@
 ||elbitz.net^
 ||electro-torrent.pl^
 ||tracker.elektronik.ro^
-||elementsbrowser.com^
 ||elevensports.com^
 ||elit-bg.com^
 ||elite-tracker.net^
@@ -4271,6 +4268,7 @@
 ||goku.sx^
 ||gokumovies.one^
 ||gold-films.ru^
+||golden-ddl.com^
 ||goldenshara.com^
 ||goldesel.bz^
 ||goldesel.sx^
@@ -4494,6 +4492,7 @@
 ||haxnode.com^
 ||haxnode.net^
 ||haxoff.net^
+||haxpc.net^
 ||haxxx.net^
 ||haykowarez.ru^
 ||hazebooter.com^
@@ -4553,6 +4552,7 @@
 ||hdlivemovies.com^
 ||hdm.to^
 ||hdmatch.club^
+||hdmatch.link^
 ||hdme.eu^
 ||hdmovie14.net^
 ||hdmovie2.ac^
@@ -4575,6 +4575,7 @@
 ||hdmovie2.blog^
 ||hdmovie2.boats^
 ||hdmovie2.boo^
+||hdmovie2.boston^
 ||hdmovie2.boutique^
 ||hdmovie2.broker^
 ||hdmovie2.build^
@@ -4582,6 +4583,7 @@
 ||hdmovie2.buzz^
 ||hdmovie2.bz^
 ||hdmovie2.cafe^
+||hdmovie2.cam^
 ||hdmovie2.camera^
 ||hdmovie2.cards^
 ||hdmovie2.careers^
@@ -4611,19 +4613,23 @@
 ||hdmovie2.courses^
 ||hdmovie2.creditcard^
 ||hdmovie2.cricket^
+||hdmovie2.cv^
 ||hdmovie2.cx^
 ||hdmovie2.cyou^
 ||hdmovie2.dance^
 ||hdmovie2.day^
 ||hdmovie2.deal^
+||hdmovie2.deals^
 ||hdmovie2.design^
 ||hdmovie2.dev^
 ||hdmovie2.digital^
 ||hdmovie2.direct^
+||hdmovie2.diy^
 ||hdmovie2.dk^
 ||hdmovie2.do^
 ||hdmovie2.dog^
 ||hdmovie2.domains^
+||hdmovie2.earth^
 ||hdmovie2.engineering^
 ||hdmovie2.estate^
 ||hdmovie2.events^
@@ -4631,6 +4637,7 @@
 ||hdmovie2.exposed^
 ||hdmovie2.express^
 ||hdmovie2.family^
+||hdmovie2.fan^
 ||hdmovie2.fans^
 ||hdmovie2.fashion^
 ||hdmovie2.fi^
@@ -4679,6 +4686,7 @@
 ||hdmovie2.lgbt^
 ||hdmovie2.li^
 ||hdmovie2.lifestyle^
+||hdmovie2.limo^
 ||hdmovie2.link^
 ||hdmovie2.living^
 ||hdmovie2.llc^
@@ -4747,6 +4755,7 @@
 ||hdmovie2.singles^
 ||hdmovie2.site^
 ||hdmovie2.skin^
+||hdmovie2.sn^
 ||hdmovie2.soccer^
 ||hdmovie2.social^
 ||hdmovie2.software^
@@ -4762,6 +4771,7 @@
 ||hdmovie2.tax^
 ||hdmovie2.team^
 ||hdmovie2.tech^
+||hdmovie2.tel^
 ||hdmovie2.theater^
 ||hdmovie2.tienda^
 ||hdmovie2.tips^
@@ -5647,6 +5657,7 @@
 ||komikstation.org^
 ||komodoisland.net^
 ||koora-live.io^
+||koora365.io^
 ||kooralivs.com^
 ||kopedafotor75.shop^
 ||kora4live.net^
@@ -5659,6 +5670,7 @@
 ||kubalibre.com^
 ||kubanmedia.org^
 ||kubhd.com^
+||kuiken.co^
 ||kukaj.me^
 ||kukaj.si^
 ||kukaj.sk^
@@ -5732,6 +5744,7 @@
 ||leninist.online^
 ||tracker.leniter.org^
 ||leopard-raws.org^
+||lepiratebay.org^
 ||leporno.de^
 ||leporno.org^
 ||lermangasonline.info^
@@ -5756,6 +5769,7 @@
 ||levidia.to^
 ||movies.levrx.de^
 ||movies.levrx.lol^
+||lhbooks.top^
 ||libble.com^
 ||liberty-land.net^
 ||libertyland.al^
@@ -5840,6 +5854,7 @@
 ||livescorehunter.com^
 ||livesoccer.sx^
 ||livesoccertv.com^
+||livestreamlinks.cc^
 ||livesx.eu^
 ||livetorrents.com^
 ||livetv.sx^
@@ -6117,6 +6132,7 @@
 ||megaflix.tv^
 ||megagames.com^
 ||megahfilmeshd.net^
+||megakino.bar^
 ||megakino.bid^
 ||megakino.bio^
 ||megakino.biz^
@@ -6140,6 +6156,7 @@
 ||megakino.ms^
 ||megakino.mx^
 ||megakino.now^
+||megakino.onl^
 ||megakino.plus^
 ||megakino.pro^
 ||megakino.pw^
@@ -6185,6 +6202,7 @@
 ||megaups.com^
 ||megawrzuta.pl^
 ||megfilm.lv^
+||megrez.top^
 ||mejortorrent.com^
 ||mejortorrent.tv^
 ||mejortorrent1.net^
@@ -6265,15 +6283,21 @@
 ||mkvcinemas.cat^
 ||mkvcinemas.ceo^
 ||mkvcinemas.co^
+||mkvcinemas.date^
 ||mkvcinemas.eu^
 ||mkvcinemas.fit^
+||mkvcinemas.gift^
 ||mkvcinemas.haus^
+||mkvcinemas.ist^
 ||mkvcinemas.kids^
+||mkvcinemas.kim^
 ||mkvcinemas.kiwi^
 ||mkvcinemas.love^
+||mkvcinemas.men^
 ||mkvcinemas.mobi^
 ||mkvcinemas.onl^
 ||mkvcinemas.prof^
+||mkvcinemas.red^
 ||mkvcinemas.rodeo^
 ||mkvcinemas.store^
 ||mkvcinemas.surf^
@@ -6381,6 +6405,7 @@
 ||motogpstream.me^
 ||motorworld.net^
 ||motv.top^
+||movcr.cc^
 ||movdl.org^
 ||movidy.co^
 ||movie.to^
@@ -6788,6 +6813,7 @@
 ||plus.net.bd^
 ||rapid.net.bd^
 ||torrent.share.net.ua^
+||speedo.net.bd^
 ||tetraplex.net.bd^
 ||touchonline.net.bd^
 ||vegamovies.net.pk^
@@ -7312,6 +7338,7 @@
 ||pantherabits.com^
 ||nyaa.pantsu.cat^
 ||sukebei.pantsu.cat^
+||papadustream.co^
 ||papflix.com^
 ||papystreaming.com^
 ||papystreaming.stream^
@@ -7673,6 +7700,7 @@
 ||primewirestatus.org^
 ||privatebits.org^
 ||privatehd.to^
+||privatemoviez.beauty^
 ||privatemoviez.help^
 ||region.nl1.privex.cc^
 ||privtracker.com^
@@ -8050,6 +8078,7 @@
 ||revenge-of-usenet.online^
 ||reverendmike.org^
 ||revolution-world.com^
+||revolutiontt.net^
 ||rexagames.com^
 ||rexdl.com^
 ||rezi.one^
@@ -8099,6 +8128,8 @@
 ||rochestergroove.com^
 ||rockmods.net^
 ||rodelaonlinebd.com^
+||stream.rodrixtv.info^
+||rojacalcio.com^
 ||rojadirecta.es^
 ||rojadirecta.eu^
 ||rojadirecta.it^
@@ -8694,6 +8725,7 @@
 ||southparkx.net^
 ||spacecruft.tv^
 ||spacejump.xyz^
+||spacemov.io^
 ||spacemov.site^
 ||spacemov.top^
 ||cronus.spaceports.com^
@@ -8846,6 +8878,7 @@
 ||stggege.org^
 ||stiftung-imai.de^
 ||stigstream.com^
+||stmusic.org^
 ||stnolaneupowell.com^
 ||sto.sx^
 ||sto-board.org^
@@ -9000,6 +9033,7 @@
 ||streamingcommunity.plus^
 ||streamingcommunity.promo^
 ||streamingcommunity.qpon^
+||streamingcommunity.racing^
 ||streamingcommunity.red^
 ||streamingcommunity.rent^
 ||streamingcommunity.repair^
@@ -9176,6 +9210,7 @@
 ||sweet-paris.com^
 ||sweetvideo.site^
 ||swefilmer.to^
+||swetracker.org^
 ||swetv.org^
 ||tracker.swifte.space^
 ||swiftnetbd.com^
@@ -9187,7 +9222,6 @@
 ||thebazaar.sytes.net^
 ||szeneworld.eu^
 ||savaria.szerverem.hu^
-||tracker.t-1.org^
 ||t-pb.org^
 ||t-rb.org^
 ||t-ru.org^
@@ -9291,6 +9325,7 @@
 ||tazz.tv^
 ||tb7.pl^
 ||tc-boxing.com^
+||tch1996.top^
 ||tracker.tcp.exchange^
 ||torrent.tdjs.tech^
 ||teach12.com^
@@ -9332,7 +9367,9 @@
 ||teraboxairfun.com^
 ||terbit21.asia^
 ||terbit21.click^
+||terbit21.club^
 ||terbit21.co^
+||terbit21.me^
 ||terbit21.online^
 ||tetrasoftbd.com^
 ||tfile.me^
@@ -9454,6 +9491,7 @@
 ||thepiratebay1.live^
 ||thepiratebay1.top^
 ||thepiratebay10.org^
+||thepiratebay11.org^
 ||thepiratebay2.to^
 ||thepiratebay3.org^
 ||thepiratebay3.to^
@@ -9551,7 +9589,9 @@
 ||timepassbd.com^
 ||timepassbd.live^
 ||timetowatch.xyz^
+||timstreams.cfd^
 ||timstreams.site^
+||timstreams.xyz^
 ||tiny-repacks.win^
 ||tracker.tiny-vps.com^
 ||tinyls.net^
@@ -9815,6 +9855,7 @@
 ||torrentproxies.com^
 ||torrentproxy.io^
 ||torrentqq27.com^
+||torrentqq49.com^
 ||torrentqq71.com^
 ||torrentquest.com^
 ||torrentreactor.net^
@@ -9894,6 +9935,7 @@
 ||torrentzozo.com^
 ||torrminatorr.com^
 ||torrnado.space^
+||torrpeda.org^
 ||tracker.torrust-demo.com^
 ||torsecurityteam.org^
 ||torula.tv^
@@ -10046,6 +10088,7 @@
 ||tvzion.com^
 ||twcclassics.com^
 ||tweakhome.app^
+||tweakshub.net^
 ||tweakspy.com^
 ||twilight.ws^
 ||twilightkisses.com^
@@ -10318,6 +10361,7 @@
 ||utorrent.com^
 ||utorrent.li^
 ||utorrentfilmi.ru^
+||utorrentgames.best^
 ||utorrentgames.org^
 ||utorrento.ru^
 ||utorrentz2.in^
@@ -10329,6 +10373,7 @@
 ||papaja.v2v.cc^
 ||tracker.v6speed.org^
 ||vadapav.mov^
+||tracker.valete.tf^
 ||valhallastream.com^
 ||vancedflix.com^
 ||tracker.vanitycore.co^
@@ -10365,6 +10410,7 @@
 ||vegamovies.agency^
 ||vegamovies.ai^
 ||vegamovies.al^
+||vegamovies.am^
 ||vegamovies.art^
 ||vegamovies.as^
 ||vegamovies.asia^
@@ -10375,6 +10421,7 @@
 ||vegamovies.band^
 ||vegamovies.bargains^
 ||vegamovies.bayern^
+||vegamovies.bike^
 ||vegamovies.bio^
 ||vegamovies.bj^
 ||vegamovies.black^
@@ -10413,6 +10460,7 @@
 ||vegamovies.design^
 ||vegamovies.dev^
 ||vegamovies.digital^
+||vegamovies.direct^
 ||vegamovies.directory^
 ||vegamovies.do^
 ||vegamovies.dog^
@@ -10425,6 +10473,8 @@
 ||vegamovies.fail^
 ||vegamovies.family^
 ||vegamovies.fans^
+||vegamovies.finance^
+||vegamovies.financial^
 ||vegamovies.fish^
 ||vegamovies.florist^
 ||vegamovies.fm^
@@ -10456,6 +10506,7 @@
 ||vegamovies.how^
 ||vegamovies.ht^
 ||vegamovies.icu^
+||vegamovies.id^
 ||vegamovies.im^
 ||vegamovies.immo^
 ||vegamovies.info^
@@ -10467,6 +10518,7 @@
 ||vegamovies.jewelry^
 ||vegamovies.joburg^
 ||vegamovies.ke^
+||vegamovies.land^
 ||vegamovies.lat^
 ||vegamovies.lawyer^
 ||vegamovies.lc^
@@ -10495,7 +10547,9 @@
 ||vegamovies.nagoya^
 ||vegamovies.name^
 ||vegamovies.navy^
+||vegamovies.nexus^
 ||vegamovies.ng^
+||vegamovies.ngo^
 ||vegamovies.nl^
 ||vegamovies.now^
 ||vegamovies.onl^
@@ -10526,6 +10580,7 @@
 ||vegamovies.reisen^
 ||vegamovies.rent^
 ||vegamovies.rentals^
+||vegamovies.report^
 ||vegamovies.rest^
 ||vegamovies.restaurant^
 ||vegamovies.review^
@@ -10538,6 +10593,7 @@
 ||vegamovies.school^
 ||vegamovies.schule^
 ||vegamovies.services^
+||vegamovies.sh^
 ||vegamovies.shoes^
 ||vegamovies.si^
 ||vegamovies.skin^
@@ -10552,6 +10608,7 @@
 ||vegamovies.support^
 ||vegamovies.tattoo^
 ||vegamovies.tax^
+||vegamovies.taxi^
 ||vegamovies.tc^
 ||vegamovies.tf^
 ||vegamovies.tg^
@@ -10563,6 +10620,7 @@
 ||vegamovies.today^
 ||vegamovies.tokyo^
 ||vegamovies.tools^
+||vegamovies.town^
 ||vegamovies.toys^
 ||vegamovies.tr^
 ||vegamovies.travel^
@@ -10659,6 +10717,7 @@
 ||vide0.me^
 ||vide0.net^
 ||vide0.pro^
+||videeq.com^
 ||vidembed.net^
 ||videobin.co^
 ||videocop.com^
@@ -10667,6 +10726,7 @@
 ||admin.videoenpoche.info^
 ||videoneat.com^
 ||videothek.cx^
+||videq-r.com^
 ||videqapp.site^
 ||videqc.fun^
 ||videqs.com^
@@ -10685,6 +10745,7 @@
 ||vidics.com^
 ||vidics.to^
 ||vidify.top^
+||vidjoy.pro^
 ||vidlink.org^
 ||vidlox.me^
 ||vidmate.me^
@@ -10973,6 +11034,7 @@
 ||wawacity.ninja^
 ||wawacity.one^
 ||wawacity.red^
+||wawacity.rsvp^
 ||wawacity.su^
 ||wawacity.tech^
 ||wawacity.tv^
@@ -10989,6 +11051,7 @@
 ||wcostream.net^
 ||wcostream.tv^
 ||wdupload.com^
+||we-lib.top^
 ||weakstreams.com^
 ||wearechecking.live^
 ||wearethereal.ninja^
@@ -11235,6 +11298,7 @@
 ||yaplukon.org^
 ||yaps.cc^
 ||yasdl.com^
+||yashuo.top^
 ||yasir252.com^
 ||yassflix.live^
 ||yassflix.net^
@@ -11266,6 +11330,7 @@
 ||yesmovies.mn^
 ||yesmovies.mom^
 ||yesmovies.movie^
+||yesmovies.my^
 ||yesmovies.net^
 ||yesmovies.org^
 ||yesmovies.pe^
@@ -11485,6 +11550,7 @@
 ||zippyshare.day^
 ||zlib520.online^
 ||zlib996.online^
+||zlibi.top^
 ||zlibrarya.online^
 ||zlir.online^
 ||bt.zlofenix.org^
@@ -11526,6 +11592,7 @@
 ||zooqle.com^
 ||zoozle.org^
 ||zophar.net^
+||zorbixdream.live^
 ||zorox.to^
 ||zorrostream.org^
 ||zorrostream.site^
