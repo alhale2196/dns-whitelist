@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Nov 2025 22:34 UTC
-! Version: 2025.1128.2234.00
+! Last modified: 19 Nov 2025 20:59 UTC
+! Version: 2025.1119.2059.38
 ! Syntax: AdGuard
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
@@ -51,7 +51,7 @@
 ||*.casa^$denyallow=nabu.casa
 ||*.cash^$denyallow=doe.cash
 ||*.casino^
-||*.cc^$denyallow=10gen.cc|adguard-vpn.cc|akami-solutions.cc|arduino.cc|clashofmagic.cc|coolkit.cc|crcon.cc|dhilosnetworks.cc|dict.cc|fanbox.cc|fiedler.cc|frontrow.cc|imgus.cc|is.cc|libstc.cc|lilygo.cc|lurl.cc|mydaddy.cc|myppt.cc|postimg.cc|ppt.cc|ptt.cc|pttweb.cc|rapha.cc|rapidcdn.cc|reurl.cc|road.cc|rutracker.cc|shottr.cc|toxicland.cc|ultra.cc|ultracloud.cc|vern.cc|vocus.cc|wallhaven.cc|yipee.cc|yz168.cc|zcyph.cc
+||*.cc^$denyallow=10gen.cc|adguard-vpn.cc|akami-solutions.cc|arduino.cc|clashofmagic.cc|coolkit.cc|crcon.cc|dhilosnetworks.cc|dict.cc|fanbox.cc|frontrow.cc|is.cc|libstc.cc|lilygo.cc|lurl.cc|mydaddy.cc|myppt.cc|postimg.cc|ptt.cc|pttweb.cc|rapha.cc|rapidcdn.cc|reurl.cc|road.cc|rutracker.cc|shottr.cc|toxicland.cc|ultra.cc|ultracloud.cc|vern.cc|vocus.cc|wallhaven.cc|yipee.cc|yz168.cc|zcyph.cc
 ||*.center^$denyallow=mein-kunden.center|oh.center|priv.center|relaxx.center
 ||*.ceo^
 ||*.cf^$denyallow=google.cf
@@ -114,7 +114,7 @@
 ||*.foo^$denyallow=helloworld.foo
 ||*.forex^
 ||*.forsale^
-||*.foundation^$denyallow=e.foundation|grapheneos.foundation|jp.foundation|lgbt.foundation|player.foundation
+||*.foundation^$denyallow=e.foundation|grapheneos.foundation|jp.foundation|player.foundation
 ||*.fun^$denyallow=cdn.fun|chinaq.fun|enza.fun|neal.fun|patterncraft.fun|strem.fun
 ||*.fund^
 ||*.futbol^
@@ -141,7 +141,7 @@
 ||*.help^$denyallow=fastmail.help|gorgias.help|kustomer.help|pixiv.help
 ||*.homes^$denyallow=stremio.homes
 ||*.hot^
-||*.house^$denyallow=lanparty.house|nature.house
+||*.house^$denyallow=nature.house
 ||*.how^$denyallow=mond.how|notrace.how
 ||*.icu^$denyallow=intervals.icu|lunar.icu|mon.icu
 ||*.ink^$denyallow=filepress.ink|ishortn.ink|mez.ink|next.ink|rdl.ink|shrinkme.ink|simple.ink|sumerian.ink|work.ink
@@ -190,7 +190,7 @@
 ||*.okinawa^
 ||*.ong^
 ||*.onl^$denyallow=gc.onl
-||*.online^$denyallow=2kweb.online|adguard-vpn.online|argon2.online|bebraver.online|blink.online|dancewave.online|discuss.online|dnsspeedtest.online|eufh.online|fireshinegames.online|flexilead.online|geoigarape.online|grapheneos.online|incdn.online|infomax.online|instructions.online|manuals.online|mastodon.online|mrprice.online|open.online|owncast.online|photostore24.online|radarpayment.online|randemretail.online|ravendawn.online|shueisha.online|vmwesa.online|zander.online
+||*.online^$denyallow=2kweb.online|adguard-vpn.online|argon2.online|bebraver.online|blink.online|dancewave.online|discuss.online|dnsspeedtest.online|eufh.online|fireshinegames.online|flexilead.online|geoigarape.online|grapheneos.online|incdn.online|infomax.online|instructions.online|manuals.online|mastodon.online|mrprice.online|open.online|owncast.online|photostore24.online|radarpayment.online|randemretail.online|ravendawn.online|shueisha.online|vmwesa.online
 ||*.ooo^$denyallow=term.ooo|toast.ooo
 ||*.partners^$denyallow=stripe.partners|xh.partners
 ||*.parts^
@@ -245,7 +245,7 @@
 ||*.skin^
 ||*.solar^$denyallow=forecast.solar|optimizer.solar
 ||*.soy^
-||*.space^$denyallow=dragonscave.space|drgns.space|embed-player.space|filesafe.space|hf.space|httpjames.space|hullseals.space|hyper.space|infosec.space|ippen.space|jetbrains.space|keyboard-test.space|latent.space|link.space|mapstodon.space|melmac.space|mempool.space|metahub.space|momonster.space|monitorburz.space|nitter.space|ocr.space|oldbytes.space|qwik.space|roguecorp.space|scurra.space|searx.space|slashtw.space|snapapi.space|takeb1nzyto.space|telegram.space|truepeople.space|uexcorp.space
+||*.space^$denyallow=dragonscave.space|drgns.space|embed-player.space|filesafe.space|hf.space|httpjames.space|hullseals.space|hyper.space|infosec.space|ippen.space|keyboard-test.space|latent.space|link.space|mapstodon.space|melmac.space|mempool.space|metahub.space|momonster.space|monitorburz.space|nitter.space|ocr.space|oldbytes.space|qwik.space|roguecorp.space|scurra.space|searx.space|slashtw.space|snapapi.space|takeb1nzyto.space|telegram.space|truepeople.space|uexcorp.space
 ||*.sport^$denyallow=dyn.sport
 ||*.srl^
 ||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|immich.store|iqunix.store|pbshop.store|peugeot.store|roble.store|rokomari.store|shoplazza.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store
