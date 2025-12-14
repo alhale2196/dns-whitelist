@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Dec 2025 10:34 UTC
-! Version: 2025.1209.1034.13
+! Last modified: 30 Nov 2025 18:32 UTC
+! Version: 2025.1130.1832.28
 ! Syntax: AdBlock
-! Number of entries: 1472
+! Number of entries: 1467
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -70,7 +70,6 @@
 ||adagio.tw^
 ||dyn.addr.tools^
 ||afraid.org^
-||agropeople.ru^
 ||aintno.info^
 ||airlinemeals.net^
 ||albertn.ru^
@@ -98,7 +97,6 @@
 ||asenov.ru^
 ||asiamariage.com^
 ||asianfreshproduce.com^
-||ask2ask.com^
 ||astrabus.ru^
 ||at-band-camp.net^
 ||ath.cx^
@@ -389,7 +387,6 @@
 ||dynamai.com^
 ||dynamic.domains^
 ||dynamic-dns.net^
-||dynamic-dns.us^
 ||dynamic-m.com^
 ||dynamic-site.net^
 ||dynamicdns.biz^
@@ -838,7 +835,6 @@
 ||jetos.com^
 ||jkub.com^
 ||joe.dj^
-||jomblo.asia^
 ||jonward.com^
 ||jumpingcrab.com^
 ||jundy.org^
@@ -1467,7 +1463,6 @@
 ||yngling.com^
 ||youdontcare.com^
 ||youpc.ro^
-||yourspecialtee.com^
 ||yourtrap.com^
 ||z0d.eu^
 ||z86.ru^
