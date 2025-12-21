@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 10:34 UTC
-! Version: 2025.1219.1034.38
+! Last modified: 09 Dec 2025 10:34 UTC
+! Version: 2025.1209.1034.13
 ! Syntax: AdBlock
-! Number of entries: 1470
+! Number of entries: 1472
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -50,6 +50,7 @@
 ||4twenty.us^
 ||64-b.it^
 ||6600.org^
+||688.org^
 ||7766.org^
 ||77qac.com^
 ||77uam.com^
@@ -714,7 +715,6 @@
 ||imprendum.com^
 ||in-the-band.net^
 ||independentonline.ro^
-||indevs.in^
 ||inflict.us^
 ||info.gf^
 ||info.tm^
@@ -1255,6 +1255,7 @@
 ||shacknet.nu^
 ||shacknet.us^
 ||shadir.com^
+||shaqnet.nu^
 ||sharkltd.com^
 ||sheatfish.org^
 ||sheepindonesia.org^
@@ -1314,6 +1315,7 @@
 ||stuff-4-sale.us^
 ||stufftoread.com^
 ||stughead.com^
+||stuns.org^
 ||sumibi.org^
 ||sundby.com^
 ||surak.kz^

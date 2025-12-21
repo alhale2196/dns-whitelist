@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 17:43 UTC
-! Version: 2025.1219.1743.20
+! Last modified: 12 Dec 2025 02:36 UTC
+! Version: 2025.1212.0236.07
 ! Syntax: AdGuard
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
@@ -153,14 +153,14 @@
 ||*.lat^
 ||*.legal^$denyallow=doctolib.legal|wbs.legal
 ||*.lgbt^$denyallow=lex.lgbt|mint.lgbt|tech.lgbt
-||*.life^$denyallow=2ch.life|akamaicdn.life|billo.life|circles.life|colorgame.life|digitalcitizen.life|iboost.life|lifetime.life|loveinfaith.life|stepone.life|via.life|yiff.life
+||*.life^$denyallow=2ch.life|billo.life|circles.life|colorgame.life|digitalcitizen.life|iboost.life|lifetime.life|loveinfaith.life|stepone.life|via.life|yiff.life
 ||*.lifestyle^
 ||*.llc^$denyallow=ratcloud.llc
 ||*.llp^
 ||*.loan^
 ||*.loans^
 ||*.locker^
-||*.lol^$denyallow=adsb.lol|ags.lol|animevietsub.lol|browser.lol|dankmemer.lol|fmhy.lol|guns.lol|hubcloud.lol|io.lol|kizuki.lol|lemy.lol|library.lol|nexdrive.lol|nos.lol|noted.lol|objection.lol|omg.lol|paste.lol|proven.lol|sibellavia.lol|social.lol|status.lol|techaro.lol|weblog.lol|wpp.lol
+||*.lol^$denyallow=adsb.lol|ags.lol|animevietsub.lol|browser.lol|dankmemer.lol|fmhy.lol|hubcloud.lol|io.lol|kizuki.lol|lemy.lol|library.lol|nexdrive.lol|nos.lol|noted.lol|objection.lol|omg.lol|paste.lol|proven.lol|sibellavia.lol|social.lol|status.lol|techaro.lol|weblog.lol|wpp.lol
 ||*.london^
 ||*.love^
 ||*.ltd^$denyallow=homebrew.ltd|picsee.ltd|swizzin.ltd

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Dec 2025 06:02 UTC
-! Version: 2025.1218.0602.46
+! Last modified: 13 Dec 2025 09:57 UTC
+! Version: 2025.1213.0957.48
 ! Syntax: AdBlock
-! Number of entries: 1323
+! Number of entries: 1330
 !
 ||000a.de^
 ||000space.com^
@@ -395,6 +395,7 @@
 ||co.nu^
 ||24.co.at^
 ||all.co.uk^
+||atspace.co.uk^
 ||blog.co.uk^
 ||blogspot.co.at^
 ||blogspot.co.id^
@@ -672,6 +673,7 @@
 ||gratis.lc^
 ||great-site.net^
 ||greatnow.com^
+||greecemar.shop^
 ||grwebsite.com^
 ||gtempurl.com^
 ||guest.de^
@@ -688,6 +690,7 @@
 ||helioho.st^
 ||heliohost.us^
 ||hexe.in^
+||highclassacademia.com^
 ||hilfe24h.de^
 ||hinerava.com^
 ||hkearth.xyz^
@@ -847,6 +850,7 @@
 ||maddsites.com^
 ||mail.ht^
 ||majesticbank.de^
+||malltree.shop^
 ||maminforum.com^
 ||manfeature.club^
 ||mapsweight.shop^
@@ -871,7 +875,6 @@
 ||moneyash.top^
 ||moneylower.top^
 ||mp3.cr^
-||mpeblog.com^
 ||muf.mobi^
 ||musik.cx^
 ||musik.lc^
@@ -925,11 +928,13 @@
 ||now.lc^
 ||npx.de^
 ||nut.cc^
+||nyccenter.shop^
 ||o.gp^
 ||o-f.com^
 ||of-love.de^
 ||officialcity.shop^
 ||officialsitebuilder.com^
+||okdfhb.art^
 ||okis.ru^
 ||okistore.shop^
 ||omas.in^
@@ -1018,6 +1023,7 @@
 ||reco.ws^
 ||regruhosting.ru^
 ||rentvalues.biz^
+||rentweek.shop^
 ||rf.gd^
 ||ro.gp^
 ||romesuper.shop^
@@ -1118,6 +1124,7 @@
 ||teenradio.shop^
 ||tehno-politen.ru^
 ||teleporthq.app^
+||telrock.org^
 ||tempisite.com^
 ||temporary.site^
 ||temporary-demo.site^
