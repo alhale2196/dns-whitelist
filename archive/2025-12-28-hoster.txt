@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Dec 2025 18:01 UTC
-! Version: 2025.1225.1801.35
+! Last modified: 18 Dec 2025 06:02 UTC
+! Version: 2025.1218.0602.46
 ! Syntax: AdBlock
-! Number of entries: 1319
+! Number of entries: 1323
 !
 ||000a.de^
 ||000space.com^
@@ -317,6 +317,7 @@
 ||bravepages.com^
 ||bravesites.com^
 ||brizy.site^
+||bugs3.com^
 ||builderall.net^
 ||builtfree.org^
 ||business.site^
@@ -355,6 +356,7 @@
 ||canalblog.com^
 ||canva.site^
 ||carrd.co^
+||case-id-100029850.com^
 ||cba.pl^
 ||cbkgardens.com^
 ||cellnovis.com^
@@ -405,6 +407,7 @@
 ||thamboli.co.za^
 ||ucoz.co.uk^
 ||webnode.co.uk^
+||codm-free.com^
 ||com.nu^
 ||adr.com.ua^
 ||blogspot.com.ar^
@@ -676,6 +679,7 @@
 ||guzhibo.cn^
 ||gymsharkitaliaofficial.it^
 ||h.gp^
+||halloweencp.com^
 ||hanefra7bikiemta.com^
 ||harise.shop^
 ||hase.in^
@@ -1123,6 +1127,7 @@
 ||tggame.xyz^
 ||th.gp^
 ||thisistap.com^
+||ticketxking.com^
 ||tiiny.host^
 ||tilda.ws^
 ||timeforchangecounselling.com^
@@ -1212,7 +1217,6 @@
 ||wapka.store^
 ||wapka.top^
 ||wapka.website^
-||wapka.xyz^
 ||web.gg^
 ||web.pe^
 ||h4g3z1-hoster.web.app^

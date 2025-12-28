@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Dec 2025 06:32 UTC
-! Version: 2025.1227.0632.36
+! Last modified: 20 Dec 2025 06:29 UTC
+! Version: 2025.1220.0629.47
 ! Syntax: AdBlock
-! Number of entries: 11395
+! Number of entries: 11506
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -108,8 +108,10 @@
 ||123movies.archi^
 ||123movies.com^
 ||123movies.domains^
+||123movies.fan^
 ||123movies.fun^
 ||123movies.gallery^
+||123movies.guide^
 ||123movies.haus^
 ||123movies.is^
 ||123movies.la^
@@ -161,6 +163,8 @@
 ||123moviestofree.com^
 ||123moviestv.net^
 ||123movieswww.com^
+||123movietheater.com^
+||123myflixer.pro^
 ||123netflix.club^
 ||123putlocker.io^
 ||123stream.la^
@@ -243,7 +247,6 @@
 ||24urban.com^
 ||24warez.ru^
 ||250412.xyz^
-||2600.com^
 ||266528.xyz^
 ||2anime.xyz^
 ||2bbit.com^
@@ -268,6 +271,7 @@
 ||31vaqti.shop^
 ||320110.xyz^
 ||321n.net^
+||337hhh.xyz^
 ||33filmstreaming.com^
 ||33rapfr.com^
 ||33seriestreaming.rip^
@@ -322,6 +326,7 @@
 ||5movies.buzz^
 ||5movies.cloud^
 ||5movies.fm^
+||5movies.live^
 ||5movies.run^
 ||5movies.to^
 ||5moviesfree.net^
@@ -456,6 +461,7 @@
 ||afdah.ws^
 ||afdah2.com^
 ||afdah2.cyou^
+||affinyddl.com^
 ||afratafreeh.com^
 ||afterdawn.com^
 ||agcommunication.net^
@@ -536,6 +542,7 @@
 ||alltube-tv.pl^
 ||alluc.org^
 ||alluc.uno^
+||allwrestling.live^
 ||allyoulike.org^
 ||alpha-ag.ru^
 ||alphabetagamer.com^
@@ -555,6 +562,7 @@
 ||altadefinizione.cam^
 ||altadefinizione.casa^
 ||altadefinizione.casino^
+||altadefinizione.cfd^
 ||altadefinizione.cheap^
 ||altadefinizione.click^
 ||altadefinizione.clinic^
@@ -580,6 +588,7 @@
 ||altadefinizione.haus^
 ||altadefinizione.icu^
 ||altadefinizione.id^
+||altadefinizione.im^
 ||altadefinizione.info^
 ||altadefinizione.it^
 ||altadefinizione.kim^
@@ -602,6 +611,7 @@
 ||altadefinizione.pet^
 ||altadefinizione.ph^
 ||altadefinizione.pink^
+||altadefinizione.pl^
 ||altadefinizione.re^
 ||altadefinizione.red^
 ||altadefinizione.ru^
@@ -634,10 +644,13 @@
 ||altadefinizione01.fyi^
 ||altadefinizione01.games^
 ||altadefinizione01.homes^
+||altadefinizione01.im^
 ||altadefinizione01.info^
+||altadefinizione01.life^
 ||altadefinizione01.love^
 ||altadefinizione01.online^
 ||altadefinizione01.photo^
+||altadefinizione01.promo^
 ||altadefinizione01.tel^
 ||altadefinizione01.top^
 ||altadefinizione01.vg^
@@ -665,6 +678,7 @@
 ||amrbd.com^
 ||an1.com^
 ||an1build.com^
+||an1modapk.com^
 ||anbudom.net^
 ||andr.net^
 ||androeed.ru^
@@ -697,6 +711,7 @@
 ||animatedchaos.com^
 ||animationdigitalnetwork.fr^
 ||anime.com^
+||anime-conan.net^
 ||anime-faith.com^
 ||anime-kraze.org^
 ||anime-legion.net^
@@ -1028,6 +1043,7 @@
 ||audiobookss.com^
 ||audionews.org^
 ||audionews.ru^
+||audiop2p.com^
 ||audiostuff.ro^
 ||aurastresser.com^
 ||auratorrent.pl^
@@ -1068,6 +1084,7 @@
 ||baberepublic.com^
 ||baby-beamup.club^
 ||babystreaming.com^
+||babytorrent.ms^
 ||babytorrent.vip^
 ||badasstorrents.com^
 ||badshahuploads.xyz^
@@ -1168,6 +1185,7 @@
 ||best-soft.net^
 ||tracker.best-torrents.net^
 ||best4stremio.space^
+||bestcracks.net^
 ||bestdjmix.com^
 ||bestfilez.net^
 ||bestfreestreaming.com^
@@ -1256,6 +1274,7 @@
 ||bitmetv.org^
 ||bitmovie.org^
 ||bitnation.com^
+||bitnetbd.com^
 ||bitnova.info^
 ||bitoogle.com^
 ||bitport.io^
@@ -1392,6 +1411,7 @@
 ||bludv.com^
 ||blue-bytez.com^
 ||blue-whitegt.com^
+||blue1city.net^
 ||bluebird-hd.org^
 ||blueroms.ws^
 ||blues-brothers.biz^
@@ -1570,6 +1590,7 @@
 ||buffstreams.app^
 ||buffstreams.sx^
 ||buffstreams.tv^
+||csite.bugs3.com^
 ||bulextorrent.org^
 ||bulkpeers.com^
 ||bullstresser.com^
@@ -1578,6 +1599,7 @@
 ||bunkr.tv^
 ||buny.uk^
 ||torrent.burgas.org^
+||burmese.app^
 ||burning-series.io^
 ||burning-series.net^
 ||burningseries.co^
@@ -1660,7 +1682,9 @@
 ||casacinema.nl^
 ||casacinema.org^
 ||casacinema.pics^
+||casacinema.red^
 ||casacinema.ru^
+||casacinema.skin^
 ||casacinema.vg^
 ||casacinema.ws^
 ||casanovax.com^
@@ -1668,12 +1692,14 @@
 ||castradio.net^
 ||casualgamers.club^
 ||cataz.to^
+||catherinemacivor.com^
 ||catorrent.org^
 ||cb01.ac^
 ||cb01.app^
 ||cb01.asia^
 ||cb01.bet^
 ||cb01.blog^
+||cb01.boats^
 ||cb01.builders^
 ||cb01.care^
 ||cb01.cc^
@@ -1695,6 +1721,7 @@
 ||cb01.download^
 ||cb01.eu^
 ||cb01.events^
+||cb01.farm^
 ||cb01.film^
 ||cb01.fm^
 ||cb01.fun^
@@ -1711,6 +1738,7 @@
 ||cb01.love^
 ||cb01.marketing^
 ||cb01.me^
+||cb01.mobi^
 ||cb01.net^
 ||cb01.network^
 ||cb01.news^
@@ -1730,6 +1758,7 @@
 ||cb01.solutions^
 ||cb01.support^
 ||cb01.taxi^
+||cb01.today^
 ||cb01.training^
 ||cb01.uno^
 ||cb01.us^
@@ -1806,14 +1835,18 @@
 ||cineb.rs^
 ||cinebay.org^
 ||cineblog01.agency^
+||cineblog01.archi^
 ||cineblog01.bid^
+||cineblog01.boats^
 ||cineblog01.boo^
 ||cineblog01.boutique^
 ||cineblog01.casa^
 ||cineblog01.cc^
 ||cineblog01.cfd^
 ||cineblog01.claims^
+||cineblog01.clinic^
 ||cineblog01.cloud^
+||cineblog01.club^
 ||cineblog01.co^
 ||cineblog01.coach^
 ||cineblog01.codes^
@@ -1827,9 +1860,11 @@
 ||cineblog01.discount^
 ||cineblog01.download^
 ||cineblog01.exchange^
+||cineblog01.farm^
 ||cineblog01.fm^
 ||cineblog01.fun^
 ||cineblog01.futbol^
+||cineblog01.haus^
 ||cineblog01.in^
 ||cineblog01.info^
 ||cineblog01.ink^
@@ -1845,6 +1880,7 @@
 ||cineblog01.luxe^
 ||cineblog01.net^
 ||cineblog01.now^
+||cineblog01.one^
 ||cineblog01.ooo^
 ||cineblog01.parts^
 ||cineblog01.pet^
@@ -1852,12 +1888,14 @@
 ||cineblog01.qpon^
 ||cineblog01.red^
 ||cineblog01.rest^
+||cineblog01.run^
 ||cineblog01.services^
 ||cineblog01.sh^
 ||cineblog01.skin^
 ||cineblog01.spa^
 ||cineblog01.space^
 ||cineblog01.systems^
+||cineblog01.today^
 ||cineblog01.tokyo^
 ||cineblog01.town^
 ||cineblog01.tv^
@@ -1869,6 +1907,7 @@
 ||cineblog01.wine^
 ||cineblog01.ws^
 ||cineblog01.wtf^
+||cineblog01.zip^
 ||cinebloom.com^
 ||cinebook.xyz^
 ||cineby.app^
@@ -1997,6 +2036,7 @@
 ||downl0adz.co.cc^
 ||fastpiratebay.co.uk^
 ||filedep.co.cc^
+||filesoup.co.uk^
 ||flixflux.co.uk^
 ||justpaid.co.nr^
 ||karaoke-world.co.uk^
@@ -2043,8 +2083,10 @@
 ||www.e24.com.bd^
 ||ekino.com.ua^
 ||feniks-site.com.pl^
+||filmesgratiscinefilmeshd.com.br^
 ||fnet.com.bd^
 ||tracker.frontalweb.com.ar^
+||fti.com.bd^
 ||ftp.com.bd^
 ||futebolaovivogratis.com.br^
 ||hdclub.com.ua^
@@ -2217,6 +2259,7 @@
 ||crackway.com^
 ||crackz.ws^
 ||crackzplanet.com^
+||crackzplanet.org^
 ||cracx.com^
 ||craftkeys.com^
 ||craiovatracker.com^
@@ -2447,6 +2490,7 @@
 ||degree-anime.com^
 ||deimonhigh.com^
 ||torrents.dekadence.ro^
+||dekhobd.com^
 ||dekhvhai.com^
 ||deli.sh^
 ||wap.delmy.com^
@@ -2494,13 +2538,18 @@
 ||dfast.app^
 ||dfichiers.com^
 ||dflix.live^
+||bm.dfnbd.net^
+||cm.dfnbd.net^
 ||em.dfnbd.net^
+||torrent.dfnbd.net^
 ||tube.dfnbd.net^
+||tv.dfnbd.net^
 ||dfox.it^
 ||mixes.dfx.at^
 ||tr-rh-zhuqiy.dgj055.icu^
 ||tr-zhuqiy-1.dgj055.icu^
 ||tr-zhuqiy-2.dgj055.icu^
+||tracker-zhuqiy.dgj055.icu^
 ||trl-zhuqiy.dgj055.icu^
 ||tracker.zhuqiy.dgj055.icu^
 ||dhakadownload.com^
@@ -2528,6 +2577,7 @@
 ||www2.digitaldistractions.org^
 ||digitalduniya.net^
 ||digitalhive.org^
+||digitalmusicians.ca^
 ||digitalpanic.org^
 ||digitalstreet.org^
 ||dilandau.com^
@@ -2569,6 +2619,7 @@
 ||dizipal22.plus^
 ||dizipall32.com^
 ||djconway.com^
+||djleak.com^
 ||dl-more.eu^
 ||bt.dl1234.com^
 ||dl4all.biz^
@@ -2704,6 +2755,7 @@
 ||dood.tips^
 ||dood.to^
 ||dood.top^
+||dood.tube^
 ||dood.uno^
 ||dood.video^
 ||dood.vin^
@@ -2786,6 +2838,7 @@
 ||downloads.ws^
 ||downloads-anymovies.co^
 ||downloads-anymovies.com^
+||downloadsebook.org^
 ||downloadsoftwarez.net^
 ||downloadspace.org^
 ||downloadsvia.org^
@@ -2916,6 +2969,7 @@
 ||easycracks.net^
 ||easynews.com^
 ||easywarez.com^
+||tracker.eatshoe.com^
 ||ebiblioteca.org^
 ||ebolastresser.com^
 ||ebook-hell.to^
@@ -3014,6 +3068,7 @@
 ||elitetorrent.nl^
 ||elitetorrent.pl^
 ||elitetorrent1.com^
+||elkoora.live^
 ||elsewhere.org^
 ||emaczone.com^
 ||embedcanais.site^
@@ -3053,9 +3108,6 @@
 ||enstream.co^
 ||enxf.net^
 ||eogli.org^
-||eonmovies.fit^
-||eonmovies.fun^
-||eonmovies.live^
 ||epforums.org^
 ||epider.me^
 ||episodes-tv.com^
@@ -3075,6 +3127,7 @@
 ||retracker.perm.ertelecom.ru^
 ||elmellowebmaster.es.tl^
 ||kinox.escapethefog.com^
+||eshiel.com^
 ||espnv2.online^
 ||estrenoslatinos.com^
 ||esubmovie.net^
@@ -3146,6 +3199,7 @@
 ||eurostreaming.games^
 ||eurostreaming.gives^
 ||eurostreaming.giving^
+||eurostreaming.guru^
 ||eurostreaming.haus^
 ||eurostreaming.homes^
 ||eurostreaming.info^
@@ -3168,9 +3222,11 @@
 ||eurostreaming.quest^
 ||eurostreaming.repair^
 ||eurostreaming.run^
+||eurostreaming.sale^
 ||eurostreaming.sbs^
 ||eurostreaming.shop^
 ||eurostreaming.show^
+||eurostreaming.site^
 ||eurostreaming.soy^
 ||eurostreaming.tattoo^
 ||eurostreaming.taxi^
@@ -3191,18 +3247,6 @@
 ||eurostreaming.xyz^
 ||eurostreaming.yachts^
 ||eurostreaming.zone^
-||eurostreamings.bar^
-||eurostreamings.casa^
-||eurostreamings.com^
-||eurostreamings.fun^
-||eurostreamings.lol^
-||eurostreamings.online^
-||eurostreamings.org^
-||eurostreamings.pics^
-||eurostreamings.site^
-||eurostreamings.space^
-||eurostreamings.store^
-||eurostreamings.vip^
 ||bt.eutorrents.com^
 ||ev01.net^
 ||ev01.to^
@@ -3210,6 +3254,7 @@
 ||everydayjones.com^
 ||everythingmoe.com^
 ||everythingmoe.org^
+||evilinc.info^
 ||evillagectg.com^
 ||evillinks.de^
 ||evolution-network.ws^
@@ -3240,14 +3285,6 @@
 ||ext.to^
 ||extinf.com^
 ||extmatrix.com^
-||extraflix.blog^
-||extraflix.cfd^
-||extraflix.fit^
-||extraflix.ink^
-||extraflix.one^
-||extraflix.org^
-||extraflix.website^
-||extraflix.xyz^
 ||extramovies.rodeo^
 ||extratime.live^
 ||extratorrent.ag^
@@ -3401,6 +3438,7 @@
 ||fileshunt.com^
 ||filespace.com^
 ||filespayouts.com^
+||filestream.me^
 ||filetracker.pl^
 ||filetram.com^
 ||fileupload.pw^
@@ -3494,6 +3532,7 @@
 ||filmpertutti.black^
 ||filmpertutti.cc^
 ||filmpertutti.center^
+||filmpertutti.cloud^
 ||filmpertutti.co^
 ||filmpertutti.com^
 ||filmpertutti.cool^
@@ -3527,6 +3566,7 @@
 ||filmpertutti.vg^
 ||filmpertutti.wiki^
 ||filmpertutti.win^
+||filmpertutti.wine^
 ||filmpertutti.ws^
 ||filmpertutti.xyz^
 ||filmplay.org^
@@ -3577,6 +3617,7 @@
 ||filmstreaming.info^
 ||filmstreaming.io^
 ||filmstreaming.lol^
+||filmstreaming.me^
 ||filmstreaming.net^
 ||filmstreaming.nl^
 ||filmstreaming.online^
@@ -3911,7 +3952,6 @@
 ||french-streaming.to^
 ||french-streams.biz^
 ||tc-ddl.frenchboard.com^
-||frenchtorrent.com^
 ||frendz4m.com^
 ||freshmoviestreams.net^
 ||freshon.tv^
@@ -4098,6 +4138,7 @@
 ||generalfilm.org^
 ||torrent.genesis-movement.org^
 ||genesis-sp.org^
+||top50-rap-ddl.genhit.com^
 ||genmirror.com^
 ||genoanime.com^
 ||genvideos.com^
@@ -4242,6 +4283,7 @@
 ||gomoviesfree.sc^
 ||gomovieshub.cc^
 ||gomovieshub.sc^
+||gomoviz1.pro^
 ||goodjobmedia.com^
 ||goodolddays.net^
 ||goodwin64.com^
@@ -4316,6 +4358,7 @@
 ||guardaserie.cool^
 ||guardaserie.dance^
 ||guardaserie.education^
+||guardaserie.estate^
 ||guardaserie.eu^
 ||guardaserie.fan^
 ||guardaserie.fitness^
@@ -4325,6 +4368,7 @@
 ||guardaserie.it^
 ||guardaserie.life^
 ||guardaserie.lol^
+||guardaserie.markets^
 ||guardaserie.men^
 ||guardaserie.money^
 ||guardaserie.net^
@@ -4349,6 +4393,7 @@
 ||guardaserie.us^
 ||guardaserie.vg^
 ||guardaserie.video^
+||guardaserie.vip^
 ||guardaserie.website^
 ||guardaserie.ws^
 ||guardaserie.wtf^
@@ -4518,6 +4563,7 @@
 ||hdmovie2.buzz^
 ||hdmovie2.bz^
 ||hdmovie2.cafe^
+||hdmovie2.cam^
 ||hdmovie2.camera^
 ||hdmovie2.careers^
 ||hdmovie2.casa^
@@ -4550,6 +4596,7 @@
 ||hdmovie2.cx^
 ||hdmovie2.cyou^
 ||hdmovie2.dance^
+||hdmovie2.day^
 ||hdmovie2.deal^
 ||hdmovie2.design^
 ||hdmovie2.dev^
@@ -4558,6 +4605,7 @@
 ||hdmovie2.dk^
 ||hdmovie2.do^
 ||hdmovie2.dog^
+||hdmovie2.earth^
 ||hdmovie2.email^
 ||hdmovie2.engineering^
 ||hdmovie2.estate^
@@ -4577,6 +4625,7 @@
 ||hdmovie2.foundation^
 ||hdmovie2.free^
 ||hdmovie2.fun^
+||hdmovie2.fund^
 ||hdmovie2.futbol^
 ||hdmovie2.gallery^
 ||hdmovie2.gifts^
@@ -4586,6 +4635,7 @@
 ||hdmovie2.golf^
 ||hdmovie2.gr^
 ||hdmovie2.gratis^
+||hdmovie2.green^
 ||hdmovie2.guru^
 ||hdmovie2.gy^
 ||hdmovie2.hair^
@@ -4637,6 +4687,7 @@
 ||hdmovie2.network^
 ||hdmovie2.news^
 ||hdmovie2.nl^
+||hdmovie2.now^
 ||hdmovie2.observer^
 ||hdmovie2.ooo^
 ||hdmovie2.organic^
@@ -4661,6 +4712,7 @@
 ||hdmovie2.rentals^
 ||hdmovie2.repair^
 ||hdmovie2.rest^
+||hdmovie2.review^
 ||hdmovie2.rocks^
 ||hdmovie2.rodeo^
 ||hdmovie2.sale^
@@ -4676,6 +4728,7 @@
 ||hdmovie2.site^
 ||hdmovie2.skin^
 ||hdmovie2.soccer^
+||hdmovie2.social^
 ||hdmovie2.software^
 ||hdmovie2.solutions^
 ||hdmovie2.space^
@@ -4710,6 +4763,7 @@
 ||hdmovie2.video^
 ||hdmovie2.vin^
 ||hdmovie2.voyage^
+||hdmovie2.wales^
 ||hdmovie2.watch^
 ||hdmovie2.webcam^
 ||hdmovie2.wine^
@@ -4719,6 +4773,7 @@
 ||hdmovie2.wtf^
 ||hdmovie2.zip^
 ||hdmovie2.zone^
+||hdmovies1.cc^
 ||hdmoviesnxt.com^
 ||hdmoviesverse.xyz^
 ||hdo.app^
@@ -4814,6 +4869,7 @@
 ||tracker.hifimarket.in^
 ||tracker.hifitechindia.com^
 ||high-way.me^
+||highlightstore.me^
 ||tr.highstar.shop^
 ||highteahop.top^
 ||hikarinoakariost.info^
@@ -4849,6 +4905,7 @@
 ||hollymoviehd-official.com^
 ||bbs.homefei.net^
 ||homemadeporntorrents.com^
+||hon3yhd.net^
 ||hongfire.com^
 ||hopmarks.com^
 ||icybits.hopto.org^
@@ -4958,6 +5015,7 @@
 ||ilgeniodellostreaming.fm^
 ||ilgeniodellostreaming.golf^
 ||ilgeniodellostreaming.info^
+||ilgeniodellostreaming.io^
 ||ilgeniodellostreaming.it^
 ||ilgeniodellostreaming.lat^
 ||ilgeniodellostreaming.live^
@@ -4983,6 +5041,7 @@
 ||ilgeniodellostreaming.tk^
 ||ilgeniodellostreaming.to^
 ||ilgeniodellostreaming.top^
+||ilgeniodellostreaming.town^
 ||ilgeniodellostreaming.tube^
 ||ilgeniodellostreaming.vg^
 ||ilgeniodellostreaming.vin^
@@ -4999,6 +5058,8 @@
 ||ilovetorrents.com^
 ||ilsearch.com^
 ||imastudios.com^
+||tracker.imgoingto.icu^
+||imhindi.me^
 ||imigi.ro^
 ||imkmedia.com^
 ||immortalseed.com^
@@ -5014,7 +5075,6 @@
 ||imzdl.com^
 ||anitube.in.ua^
 ||friends.in.ua^
-||inattvgir-amp.xyz^
 ||incine.ru^
 ||inclouddrive.com^
 ||ind-unblock.xyz^
@@ -5095,6 +5155,7 @@
 ||upload.iq24.pl^
 ||iraniantorrents.com^
 ||tracker.iriseden.fr^
+||ironanime.live^
 ||irwarez.com^
 ||isitdownyet.com^
 ||islamictorrents.net^
@@ -5120,7 +5181,6 @@
 ||istrahome.ru^
 ||istream-it.com^
 ||istream2watch.com^
-||istreameast.app^
 ||isubsmovies.com^
 ||ita101.online^
 ||ita101.ru^
@@ -5132,6 +5192,7 @@
 ||italia-film.io^
 ||italia-film.me^
 ||italia-film.net^
+||italia-film.news^
 ||italia-film.online^
 ||italia-film.org^
 ||italia-film.ph^
@@ -5199,6 +5260,7 @@
 ||join4films.com^
 ||jojoy.io^
 ||jokerlivestream.com^
+||jokerlivestream.me^
 ||jokerlivestream.net^
 ||jokerlivestream.org^
 ||jokerlivestream.vip^
@@ -5288,6 +5350,7 @@
 ||katzddl.net^
 ||katzddl.ws^
 ||kavkisfile.com^
+||tracker.kawaii.id^
 ||kawaiifu.com^
 ||kawsarit.com^
 ||kayoanime.com^
@@ -5334,6 +5397,7 @@
 ||kickasstorrent.ph^
 ||kickasstorrents.cr^
 ||kickasstorrents.pw^
+||kickasstorrents.to^
 ||open.kickasstracker.com^
 ||kickassunblock.com^
 ||kickme.to^
@@ -5439,6 +5503,7 @@
 ||kinox.bio^
 ||kinox.blog^
 ||kinox.by^
+||kinox.bz^
 ||kinox.ceo^
 ||kinox.city^
 ||kinox.cloud^
@@ -5515,6 +5580,7 @@
 ||kisscartoon.love^
 ||kisscartoon.nz^
 ||kisscartoon.xyz^
+||kissseries.me^
 ||kisssub.org^
 ||kisstvshow.to^
 ||tracker.kitaujisub.site^
@@ -5546,6 +5612,7 @@
 ||komikcast03.com^
 ||komiksin.net^
 ||komikstation.org^
+||komodoisland.net^
 ||koora-live.io^
 ||kooralivs.com^
 ||kopedafotor75.shop^
@@ -5572,6 +5639,7 @@
 ||kuyhaa-me.site^
 ||kwik.si^
 ||tr.kxmp.cf^
+||tr.kxmp.ml^
 ||l33t-raws.org^
 ||la123movies.com^
 ||labaia.ws^
@@ -5593,12 +5661,14 @@
 ||pt.lax.mx^
 ||layarkaca21.blue^
 ||layarkaca21.com^
+||layarkita.xyz^
 ||layarlebar24.site^
 ||layer13.net^
 ||layer7.pw^
 ||laze.cc^
 ||le-production.tv^
 ||leaker.me^
+||leakshare.net^
 ||learnbits.me^
 ||learnbits.org^
 ||learner.org^
@@ -5691,6 +5761,7 @@
 ||limetorrents.asia^
 ||limetorrents.at^
 ||limetorrents.buzz^
+||limetorrents.cc^
 ||limetorrents.co^
 ||limetorrents.fun^
 ||limetorrents.info^
@@ -5698,6 +5769,7 @@
 ||limetorrents.online^
 ||limetorrents.pro^
 ||limetorrents.so^
+||limetorrents.to^
 ||limetorrents.xyz^
 ||limetorrents.zone^
 ||limetorrentx.cc^
@@ -5751,6 +5823,7 @@
 ||lizardstresser.su^
 ||lk21.cloud^
 ||lk21.org^
+||lk21hd.com^
 ||lk21id.com^
 ||lk21official.cc^
 ||lk21official.info^
@@ -6014,6 +6087,7 @@
 ||megakino.biz^
 ||megakino.co^
 ||megakino.deals^
+||megakino.dev^
 ||megakino.eu^
 ||megakino.farm^
 ||megakino.gratis^
@@ -6300,6 +6374,8 @@
 ||moviefox.org^
 ||moviefreak.xyz^
 ||moviegaga.to^
+||moviegamesmore.net^
+||movieglide.com^
 ||moviego.net^
 ||moviego.site^
 ||moviehaat.net^
@@ -6311,6 +6387,7 @@
 ||movielabor.com^
 ||movielair.cc^
 ||moviemagnet.co^
+||moviemaya.com^
 ||moviemela.live^
 ||movieminions.cc^
 ||movieninja.io^
@@ -6365,6 +6442,7 @@
 ||moviesjoy.onl^
 ||moviesjoy.plus^
 ||moviesjoytv.to^
+||moviesm4u.net^
 ||moviesmania.info^
 ||moviesmobile.net^
 ||moviesmod.cards^
@@ -6523,6 +6601,7 @@
 ||musichq.net^
 ||musicneeds.com^
 ||musicpleer.cloud^
+||musicsaz.com^
 ||musicstream.cc^
 ||mutaz.pro^
 ||muxiv.com^
@@ -6537,6 +6616,7 @@
 ||myaccountinghelp.org^
 ||myanime.live^
 ||myanonamouse.net^
+||myasiantv.to^
 ||myauto.to^
 ||mybabele.com^
 ||mybadbits.org^
@@ -6566,6 +6646,7 @@
 ||myflixer.vc^
 ||myflixer.ws^
 ||myflixer.zone^
+||ssp2.myflixer.run^
 ||myflixerhd.ru^
 ||myflixertv.to^
 ||myflixerz.to^
@@ -6694,7 +6775,6 @@
 ||bingemaster.netlify.app^
 ||cleanbay.netlify.app^
 ||debrid-services-comparison.netlify.app^
-||flameiptv.netlify.app^
 ||flickermini.netlify.app^
 ||mv-web.netlify.app^
 ||openmovies.netlify.com^
@@ -7003,6 +7083,7 @@
 ||bt.okmp3.ru^
 ||ol-am.top^
 ||olala123-warez.com^
+||olalivehdplay.ru^
 ||olamovies.app^
 ||olamovies.download^
 ||olamovies.shop^
@@ -7090,6 +7171,7 @@
 ||tracker.opentorrent.top^
 ||opentracker.cc^
 ||opentracker.io^
+||opentracker.xyz^
 ||tracker.opentracker.se^
 ||opentrackers.net^
 ||opentrackers.org^
@@ -7148,6 +7230,7 @@
 ||oxtorrent.cc^
 ||oxtorrent.co^
 ||oxtorrent.com^
+||oxtorrent.me^
 ||oxtorrent.town^
 ||oxygen-warez.com^
 ||p-games.ru^
@@ -7361,6 +7444,7 @@
 ||piratebays.co^
 ||piratebays.org^
 ||piratebays.wtf^
+||piratebayy.com^
 ||piratebits.org^
 ||piratebrowser.com^
 ||piratecity.net^
@@ -7418,6 +7502,7 @@
 ||index.plan9.de^
 ||planete-bd.org^
 ||planete-lolo.com^
+||planetgames.fr^
 ||bt.planetq.net^
 ||platinmods.com^
 ||play5.ru^
@@ -7485,6 +7570,7 @@
 ||popsnap.net^
 ||popuw.com^
 ||por101.ru^
+||pornbay.org^
 ||pornbits.net^
 ||pornevo.com^
 ||pornleech.io^
@@ -7539,6 +7625,7 @@
 ||prezup.eu^
 ||primeflix.lol^
 ||primeflix-web.me^
+||primemovies.tv^
 ||primesrc.me^
 ||primewire.ac^
 ||primewire.ag^
@@ -7546,6 +7633,7 @@
 ||primewire.tf^
 ||primewire.vc^
 ||primewirestatus.org^
+||privatebits.org^
 ||privatehd.to^
 ||privatemoviez.help^
 ||region.nl1.privex.cc^
@@ -7621,6 +7709,7 @@
 ||psyreactor.com^
 ||psystation.com^
 ||pt.nu^
+||ptanime.net^
 ||pte.nu^
 ||tracker.pterclub.com^
 ||ptfiles.org^
@@ -7794,6 +7883,7 @@
 ||rapload.org^
 ||rarbg.buzz^
 ||rarbg.cc^
+||rarbg.club^
 ||rarbg.com^
 ||rarbg.gg^
 ||rarbg.is^
@@ -7837,7 +7927,6 @@
 ||raspberryheaven.net^
 ||raulken.it^
 ||rautaportti.net^
-||ravenscans.org^
 ||rawkbawx.rocks^
 ||rawlayer.com^
 ||rbtv77.work^
@@ -7993,6 +8082,7 @@
 ||rojadirectatvhd.site^
 ||rojadirectatvs.com^
 ||rojadirectaz.top^
+||rojadirectenvivo.me^
 ||rojadiretta.me^
 ||rojatv.tv^
 ||rom-news.com^
@@ -8385,6 +8475,7 @@
 ||simplestream.in^
 ||simplywatch.tv^
 ||simpsonai.tv^
+||simpsonitos.com^
 ||simpsonsua.tv^
 ||sims4odezhda.ru^
 ||sinezy.biz^
@@ -8441,6 +8532,7 @@
 ||slidemovies.org^
 ||slider.kz^
 ||tracker.slitopen.me^
+||slosoul.eu^
 ||slsknet.org^
 ||slyck.com^
 ||small-games.info^
@@ -8474,6 +8566,7 @@
 ||snowblink22.pro^
 ||snowfl.com^
 ||snowtigers.net^
+||snowtor.com^
 ||snsbd.net^
 ||soap2day.ac^
 ||soap2day.biz^
@@ -8485,6 +8578,7 @@
 ||soap2day.is^
 ||soap2day.mx^
 ||soap2day.pe^
+||soap2day.se^
 ||soap2day.sh^
 ||soap2day.to^
 ||soap2day-online.com^
@@ -8573,6 +8667,7 @@
 ||solarmoviez.to^
 ||solidsoftwaretools.com^
 ||solidtorrents.net^
+||solidtorrents.to^
 ||solidz.com^
 ||some-stuffs.com^
 ||somosmovies.com^
@@ -8689,6 +8784,7 @@
 ||sportzonline.pw^
 ||sportzonline.top^
 ||spotfy.one^
+||spotnzb.xyz^
 ||spr101.online^
 ||spr101.ru^
 ||squid.wtf^
@@ -8728,7 +8824,6 @@
 ||startflix.site^
 ||startseite.cc^
 ||startseite.to^
-||tracker.startwork.cv^
 ||starwarez.to^
 ||stealth.si^
 ||steam-repacks.com^
@@ -8792,8 +8887,6 @@
 ||streameast.sk^
 ||streameast.soccer^
 ||streameast.xyz^
-||streamed.pk^
-||streamed.st^
 ||streamed.su^
 ||streamees.com^
 ||streamerflix.xyz^
@@ -8804,8 +8897,6 @@
 ||streamhunter.to^
 ||streamhunters.com^
 ||streamhunters.top^
-||streami.su^
-||streaming-community.art^
 ||streaming-french.com^
 ||streaming-series.org^
 ||streamingcommunity.actor^
@@ -8825,6 +8916,7 @@
 ||streamingcommunity.blog^
 ||streamingcommunity.boats^
 ||streamingcommunity.boston^
+||streamingcommunity.boutique^
 ||streamingcommunity.broker^
 ||streamingcommunity.buzz^
 ||streamingcommunity.cam^
@@ -8838,12 +8930,14 @@
 ||streamingcommunity.city^
 ||streamingcommunity.click^
 ||streamingcommunity.cloud^
+||streamingcommunity.club^
 ||streamingcommunity.co^
 ||streamingcommunity.codes^
 ||streamingcommunity.coffee^
 ||streamingcommunity.com^
 ||streamingcommunity.computer^
 ||streamingcommunity.cool^
+||streamingcommunity.credit^
 ||streamingcommunity.cx^
 ||streamingcommunity.cz^
 ||streamingcommunity.dance^
@@ -8864,6 +8958,7 @@
 ||streamingcommunity.free^
 ||streamingcommunity.fund^
 ||streamingcommunity.garden^
+||streamingcommunity.gay^
 ||streamingcommunity.golf^
 ||streamingcommunity.haus^
 ||streamingcommunity.help^
@@ -8875,9 +8970,11 @@
 ||streamingcommunity.it^
 ||streamingcommunity.kaufen^
 ||streamingcommunity.li^
+||streamingcommunity.life^
 ||streamingcommunity.lol^
 ||streamingcommunity.lu^
 ||streamingcommunity.luxe^
+||streamingcommunity.me^
 ||streamingcommunity.media^
 ||streamingcommunity.mobi^
 ||streamingcommunity.net^
@@ -8899,10 +8996,12 @@
 ||streamingcommunity.pw^
 ||streamingcommunity.qpon^
 ||streamingcommunity.red^
+||streamingcommunity.rent^
 ||streamingcommunity.repair^
 ||streamingcommunity.report^
 ||streamingcommunity.rest^
 ||streamingcommunity.sale^
+||streamingcommunity.shop^
 ||streamingcommunity.singles^
 ||streamingcommunity.skin^
 ||streamingcommunity.spa^
@@ -8910,35 +9009,33 @@
 ||streamingcommunity.su^
 ||streamingcommunity.support^
 ||streamingcommunity.tax^
+||streamingcommunity.team^
 ||streamingcommunity.tel^
 ||streamingcommunity.to^
 ||streamingcommunity.tv^
 ||streamingcommunity.us^
 ||streamingcommunity.vg^
+||streamingcommunity.vin^
 ||streamingcommunity.vip^
 ||streamingcommunity.wang^
 ||streamingcommunity.work^
 ||streamingcommunity.ws^
+||streamingcommunity.xyz^
 ||streamingcommunityz.bio^
 ||streamingcommunityz.biz^
-||streamingcommunityz.blog^
 ||streamingcommunityz.boats^
-||streamingcommunityz.cam^
 ||streamingcommunityz.cc^
 ||streamingcommunityz.chat^
 ||streamingcommunityz.city^
 ||streamingcommunityz.com^
 ||streamingcommunityz.cz^
 ||streamingcommunityz.date^
-||streamingcommunityz.digital^
-||streamingcommunityz.email^
 ||streamingcommunityz.info^
 ||streamingcommunityz.it^
 ||streamingcommunityz.li^
 ||streamingcommunityz.lol^
 ||streamingcommunityz.me^
 ||streamingcommunityz.media^
-||streamingcommunityz.site^
 ||streamingcommunityz.tv^
 ||streamingdivx.ch^
 ||streaminggratuit.cc^
@@ -8961,6 +9058,7 @@
 ||streamkiste.site^
 ||streamkiste.space^
 ||streamkiste.taxi^
+||streamkiste.tv^
 ||streamlive.to^
 ||streamlock.net^
 ||streamlord.com^
@@ -8976,7 +9074,6 @@
 ||streamonsport28.xyz^
 ||streamoz.me^
 ||streamruby.com^
-||streams.center^
 ||streamshunters.com^
 ||streamsthunder.tv^
 ||streamtape.com^
@@ -9011,7 +9108,6 @@
 ||stresser.world^
 ||strikeout.im^
 ||strimsy.top^
-||strmd.link^
 ||strmup.to^
 ||strumyk.net^
 ||strumyk.tv^
@@ -9104,7 +9200,6 @@
 ||t411.io^
 ||t411.me^
 ||t50.com^
-||tabula-rasa.pw^
 ||rt.tace.ru^
 ||taiwebs.com^
 ||tajpata.com^
@@ -9127,6 +9222,7 @@
 ||tantifilm.buzz^
 ||tantifilm.casa^
 ||tantifilm.center^
+||tantifilm.charity^
 ||tantifilm.claims^
 ||tantifilm.click^
 ||tantifilm.club^
@@ -9146,6 +9242,7 @@
 ||tantifilm.help^
 ||tantifilm.homes^
 ||tantifilm.icu^
+||tantifilm.info^
 ||tantifilm.it^
 ||tantifilm.kaufen^
 ||tantifilm.land^
@@ -9153,13 +9250,16 @@
 ||tantifilm.live^
 ||tantifilm.living^
 ||tantifilm.locker^
+||tantifilm.makeup^
 ||tantifilm.markets^
 ||tantifilm.mba^
 ||tantifilm.me^
 ||tantifilm.media^
 ||tantifilm.mobi^
 ||tantifilm.mom^
+||tantifilm.motorcycles^
 ||tantifilm.name^
+||tantifilm.network^
 ||tantifilm.online^
 ||tantifilm.org^
 ||tantifilm.ph^
@@ -9167,6 +9267,7 @@
 ||tantifilm.reisen^
 ||tantifilm.run^
 ||tantifilm.sbs^
+||tantifilm.skin^
 ||tantifilm.tech^
 ||tantifilm.uno^
 ||tantifilm.vg^
@@ -9188,12 +9289,6 @@
 ||tracker.tasvideos.org^
 ||tata.to^
 ||tazz.tv^
-||tb-cdn.cx^
-||tb-cdn.io^
-||tb-cdn.pw^
-||tb-cdn.sh^
-||tb-cdn.st^
-||tb-cdn.to^
 ||tb7.pl^
 ||tracker.tbkresources.org^
 ||tc-boxing.com^
@@ -9534,6 +9629,7 @@
 ||topstreamfilm.tv^
 ||topstreams.info^
 ||topstreams.me^
+||topstresser.io^
 ||topstressers.com^
 ||topwarez.fr^
 ||torbox.app^
@@ -9640,6 +9736,7 @@
 ||torrentdownloads.pro^
 ||torrentech.org^
 ||torrentek.hu^
+||torrenter.net^
 ||torrentfactory.com^
 ||torrentfilmes.net^
 ||torrentfrancais.com^
@@ -9666,6 +9763,7 @@
 ||tracker2.torrentino.com^
 ||tracker3.torrentino.com^
 ||torrentit.com^
+||torrentit.eu^
 ||torrentkit.com^
 ||torrentkitty.app^
 ||torrentkitty.cam^
@@ -9693,6 +9791,8 @@
 ||torrentmovie.info^
 ||torrentmovies.co^
 ||torrentnote.com^
+||node01.torrentonline.cc^
+||node02.torrentonline.cc^
 ||torrentonly.com^
 ||torrentor.pro^
 ||torrentoyunindir.com^
@@ -9737,6 +9837,7 @@
 ||torrentscan.com^
 ||torrentscity.net^
 ||torrentsearch.com^
+||tracker.torrentseeds.org^
 ||torrentseeker.com^
 ||torrentsfilmeshd.tv^
 ||torrentsgalaxy.com^
@@ -9835,7 +9936,6 @@
 ||trackerlist.xyz^
 ||trackerok.ru^
 ||trackerpmr.com^
-||node01.trackerstatus.live^
 ||trackerturk.biz^
 ||tracker.trackton.ga^
 ||traderz.org^
@@ -9872,6 +9972,7 @@
 ||tti.nu^
 ||ttoktv.com^
 ||ttramp.ws^
+||ttxunlei.com^
 ||tuaserie.net^
 ||tubidy.to^
 ||tubidymp3download.com^
@@ -9912,6 +10013,7 @@
 ||tv-mediatheken.de^
 ||tracker.tv-vault.me^
 ||tv-zalukaj.pl^
+||tv0800.com^
 ||tv1337.buzz^
 ||tv24bd.com^
 ||tvbd.live^
@@ -10031,6 +10133,7 @@
 ||ukpiratebay.org^
 ||ukr-sub.com^
 ||ultimate-torrent.town^
+||ultimate-warez.eu^
 ||ultimateshare.net^
 ||ultimatestremioaddons.club^
 ||ultpreplayer.com^
@@ -10288,6 +10391,7 @@
 ||vegamovies.ceo^
 ||vegamovies.chat^
 ||vegamovies.christmas^
+||vegamovies.church^
 ||vegamovies.cm^
 ||vegamovies.coach^
 ||vegamovies.com^
@@ -10373,6 +10477,7 @@
 ||vegamovies.name^
 ||vegamovies.navy^
 ||vegamovies.nl^
+||vegamovies.now^
 ||vegamovies.onl^
 ||vegamovies.online^
 ||vegamovies.organic^
@@ -10386,6 +10491,7 @@
 ||vegamovies.pics^
 ||vegamovies.plus^
 ||vegamovies.press^
+||vegamovies.prof^
 ||vegamovies.pt^
 ||vegamovies.pub^
 ||vegamovies.quest^
@@ -10428,6 +10534,7 @@
 ||vegamovies.to^
 ||vegamovies.today^
 ||vegamovies.tokyo^
+||vegamovies.toys^
 ||vegamovies.travel^
 ||vegamovies.tube^
 ||vegamovies.tv^
@@ -10442,6 +10549,7 @@
 ||vegamovies.villas^
 ||vegamovies.voto^
 ||vegamovies.voyage^
+||vegamovies.vu^
 ||vegamovies.watch^
 ||vegamovies.webcam^
 ||vegamovies.website^
@@ -10466,8 +10574,6 @@
 ||bmov.vercel.app^
 ||cinemaos-v2.vercel.app^
 ||film-haven.vercel.app^
-||flameipt3.vercel.app^
-||juzt-tv.vercel.app^
 ||movie-web-me.vercel.app^
 ||msearch.vercel.app^
 ||piracy.vercel.app^
@@ -10753,6 +10859,7 @@
 ||warezkeeper.com^
 ||warezlander.com^
 ||warezload.net^
+||warezlover.xyz^
 ||warezm.com^
 ||warezmaster.com^
 ||warezok.net^
@@ -10774,6 +10881,7 @@
 ||warezworm.com^
 ||warezws.com^
 ||warindustries.com^
+||warlog.info^
 ||warned.net^
 ||warrex.net^
 ||wassermann.online^
@@ -10805,6 +10913,7 @@
 ||watchmovie.me^
 ||watchmovierulz.co^
 ||watchmovierulz.live^
+||watchmovies.fan^
 ||watchmoviesfree.us^
 ||watchmovieshd.cfd^
 ||watchmoviesnow.co^
@@ -10862,6 +10971,7 @@
 ||megawarez.webcindario.com^
 ||webfreecounter.com^
 ||weblinks.ru^
+||weblivehdplay.ru^
 ||weboas.is^
 ||basket-torrent.webpark.pl^
 ||webranger.net^
@@ -10918,6 +11028,7 @@
 ||windows-torrent.com^
 ||windows-torrent.net^
 ||windows10downloadru.com^
+||windows10ny.com^
 ||windows64bit.net^
 ||windowsbit.net^
 ||windowsby.ru^
@@ -11097,7 +11208,6 @@
 ||y2meta.my^
 ||y4apk.com^
 ||garaje.ya.com^
-||yabancidizi.now^
 ||yabse.com^
 ||yalla-shoot.fun^
 ||yalla-shootv.live^
@@ -11302,6 +11412,7 @@
 ||zalukaj-pl.tv^
 ||zalukaj-tv.pl^
 ||zalukaj-vip.pl^
+||zalukaj-vod.pl^
 ||zalukajj.com^
 ||zaluknij.cc^
 ||zaluknij.pl^
