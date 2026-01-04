@@ -11,10 +11,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jan 2026 17:44 UTC
-! Version: 2026.0102.1744.40
+! Last modified: 26 Dec 2025 22:37 UTC
+! Version: 2025.1226.2237.23
 ! Syntax: AdGuard
-! Number of latin TLDs: 282 - punycode TLDs: 151
+! Number of latin TLDs: 283 - punycode TLDs: 151
 !
 ||*.actor^
 ||*.africa^$denyallow=nation.africa
@@ -36,7 +36,7 @@
 ||*.bingo^
 ||*.biz^$denyallow=anonymurl.biz|asana.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|dailyinnovation.biz|engelliler.biz|epson.biz|ette.biz|gamesindustry.biz|gimmeporn.biz|hb.biz|iimwf.biz|kioskcms.biz|knuddels.biz|line.biz|localise.biz|luckysbarbershop.biz|movabletype.biz|netcetera.biz|notebookcheck.biz|oe24cdn.biz|ooshahwa.biz|panasonic.biz|slussen.biz|surveycake.biz|volvocars.biz|wiz.biz|wspay.biz|wyborcza.biz|yoox.biz
 ||*.black^
-||*.blue^$denyallow=niim.blue
+||*.blue^
 ||*.boats^
 ||*.bond^
 ||*.boo^$denyallow=spook.boo
@@ -55,7 +55,7 @@
 ||*.center^$denyallow=mein-kunden.center|oh.center|priv.center|relaxx.center
 ||*.ceo^
 ||*.cf^$denyallow=google.cf
-||*.cfd^
+||*.cfd^$denyallow=freedium.cfd
 ||*.channel^
 ||*.charity^
 ||*.cheap^
@@ -91,7 +91,7 @@
 ||*.dog^$denyallow=chainsawman.dog|heika.dog|misskey.dog|telegram.dog
 ||*.download^$denyallow=caido.download|kali.download|mkvtoolnix.download|up4ever.download|upfiles.download
 ||*.dpdns.org^
-||*.eco^$denyallow=elli.eco|mer.eco|play.eco
+||*.eco^$denyallow=elli.eco|play.eco
 ||*.edu.eu^
 ||*.engineer^
 ||*.enterprises^
@@ -118,7 +118,7 @@
 ||*.fun^$denyallow=cdn.fun|chinaq.fun|enza.fun|neal.fun|patterncraft.fun|strem.fun
 ||*.fund^
 ||*.futbol^
-||*.fyi^$denyallow=apollo.fyi|better.fyi|crypt.fyi|genderdysphoria.fyi|iusearchlinux.fyi|laelaps.fyi|levels.fyi|lunar.fyi|notbyai.fyi|ost2.fyi|recollect.fyi|vercel.fyi|wpt.fyi
+||*.fyi^$denyallow=apollo.fyi|better.fyi|genderdysphoria.fyi|iusearchlinux.fyi|laelaps.fyi|levels.fyi|lunar.fyi|notbyai.fyi|ost2.fyi|recollect.fyi|vercel.fyi|wpt.fyi
 ||*.ga^$denyallow=google.ga|mmo.ga
 ||*.games^$denyallow=crazypanda.games|embark.games|eneba.games|gxcorner.games|skystone.games
 ||*.gdn^$denyallow=cst.gdn
@@ -140,7 +140,7 @@
 ||*.healthcare^$denyallow=severance.healthcare
 ||*.help^$denyallow=fastmail.help|gorgias.help|kustomer.help|pixiv.help
 ||*.homes^$denyallow=stremio.homes
-||*.hot^$denyallow=minecraft.hot
+||*.hot^
 ||*.house^$denyallow=lanparty.house|nature.house
 ||*.how^$denyallow=mond.how|notrace.how
 ||*.icu^$denyallow=intervals.icu|lunar.icu|mon.icu
@@ -238,17 +238,17 @@
 ||*.science^$denyallow=amazon.science|canonn.science|hal.science|wander.science
 ||*.sew^
 ||*.sexy^$denyallow=privacy.sexy|terminal.sexy
-||*.shop^$denyallow=11ts.shop|30grad.shop|4id.shop|chessvibes.shop|domainname.shop|domene.shop|durst.shop|epicdesk.shop|eventix.shop|freshtorge.shop|frontiers.shop|geekchic.shop|grnk.shop|grog.shop|henssler.shop|kalypso.shop|majblomman.shop|munu.shop|music-merchant.shop|myshopline.shop|neurosama.shop|nocut.shop|nordland.shop|owl-dampfer.shop|prohibited.shop|schweden.shop|scorpions.shop|sentry.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop|wielrenner.shop|xn--dnemark-5wa.shop
+||*.shop^$denyallow=11ts.shop|30grad.shop|4id.shop|chessvibes.shop|domainname.shop|domene.shop|durst.shop|epicdesk.shop|eventix.shop|freshtorge.shop|frontiers.shop|geekchic.shop|grnk.shop|grog.shop|henssler.shop|kalypso.shop|majblomman.shop|munu.shop|music-merchant.shop|myshopline.shop|nocut.shop|nordland.shop|owl-dampfer.shop|prohibited.shop|schweden.shop|scorpions.shop|sentry.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop|wielrenner.shop|xn--dnemark-5wa.shop
 ||*.shopping^
 ||*.show^$denyallow=camz.show|j.show
-||*.site^$denyallow=7mb.site|additive-apps.site|aftermath.site|anonimayzer.site|bio.site|canva.site|claude.site|edgeone.site|fbsmarthome.site|gov-img.site|heimdall.site|heyflow.site|i5i.site|kaylees.site|leafbrowser.site|miteru.site|notion.site|onrocket.site|platformsh.site|privacy-test-pages.site|reddit-doesnt-like-this.site|shopapps.site|srht.site|toast.site|tst.site|turkvetka.site|wishonly.site|wolow.site|wpdns.site
+||*.site^$denyallow=7mb.site|additive-apps.site|aftermath.site|anonimayzer.site|bio.site|canva.site|claude.site|edgeone.site|fbsmarthome.site|gov-img.site|heyflow.site|i5i.site|kaylees.site|leafbrowser.site|miteru.site|notion.site|onrocket.site|platformsh.site|privacy-test-pages.site|reddit-doesnt-like-this.site|shopapps.site|srht.site|toast.site|tst.site|turkvetka.site|wishonly.site|wolow.site|wpdns.site
 ||*.skin^
 ||*.solar^$denyallow=forecast.solar|optimizer.solar
 ||*.soy^
 ||*.space^$denyallow=dragonscave.space|drgns.space|embed-player.space|filesafe.space|hf.space|httpjames.space|hullseals.space|hyper.space|infosec.space|ippen.space|jetbrains.space|keyboard-test.space|latent.space|link.space|mapstodon.space|melmac.space|mempool.space|metahub.space|momonster.space|monitorburz.space|nitter.space|ocr.space|oldbytes.space|qwik.space|roguecorp.space|scurra.space|searx.space|slashtw.space|snapapi.space|takeb1nzyto.space|telegram.space|truepeople.space|uexcorp.space
 ||*.sport^$denyallow=dyn.sport
 ||*.srl^
-||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|immich.store|iqunix.store|pbshop.store|peugeot.store|roble.store|rokomari.store|shoplazza.store|shopware.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store
+||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|immich.store|iqunix.store|pbshop.store|peugeot.store|roble.store|rokomari.store|shoplazza.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store
 ||*.studio^$denyallow=affinity.studio|ai.studio|firebase.studio|flourish.studio|starapps.studio|woodsea.studio|zenn.studio
 ||*.style^$denyallow=primer.style|shiki.style
 ||*.su^$denyallow=encode.su|jpg4.su|jpg6.su|promportal.su|saint2.su
@@ -279,13 +279,14 @@
 ||*.vin^
 ||*.vip^$denyallow=18comic.vip|liberta.vip|oldskool.vip|posh.vip|ryde.vip|stream.vip|trdiziizle.vip|vidstream.vip|wetv.vip|yesporn.vip
 ||*.vision^
+||*.vlaanderen^
 ||*.vote^$denyallow=arizona.vote
 ||*.voto^
 ||*.wang^
 ||*.webcam^
 ||*.website^$denyallow=acro.website|bestmotherfucking.website|eddie.website|noclip.website|thatsup.website|tilde.website|tiny.tilde.website|uphold.website
 ||*.wedding^
-||*.wiki^$denyallow=avid.wiki|bakugan.wiki|bg3.wiki|blazblue.wiki|burnout.wiki|chibi-robo.wiki|consumerrights.wiki|cooked.wiki|datei.wiki|deadlock.wiki|deltarune.wiki|dragalialost.wiki|drawntolife.wiki|falcom.wiki|fallout.wiki|gbf.wiki|getindie.wiki|hacktricks.wiki|hollowknight.wiki|hololive.wiki|klingon.wiki|kodi.wiki|koeitecmo.wiki|kometa.wiki|lain.wiki|libreelec.wiki|manson.wiki|mediaclients.wiki|minecraft.wiki|modding.wiki|mtg.wiki|namu.wiki|nixos.wiki|notifiarr.wiki|osrs.wiki|pizzatower.wiki|rs.wiki|runescape.wiki|saintsrow.wiki|severance.wiki|survivors.wiki|tajrobe.wiki|tardis.wiki|thehomelab.wiki|tilde.wiki|twewy.wiki|umamusu.wiki|undertale.wiki|usermanual.wiki|vaporwave.wiki|w.wiki|yume.wiki|zeldawiki.wiki|zeppelin.wiki
+||*.wiki^$denyallow=bakugan.wiki|bg3.wiki|blazblue.wiki|burnout.wiki|chibi-robo.wiki|consumerrights.wiki|cooked.wiki|datei.wiki|deadlock.wiki|deltarune.wiki|dragalialost.wiki|drawntolife.wiki|falcom.wiki|fallout.wiki|gbf.wiki|getindie.wiki|hacktricks.wiki|hollowknight.wiki|hololive.wiki|klingon.wiki|kodi.wiki|koeitecmo.wiki|kometa.wiki|lain.wiki|libreelec.wiki|manson.wiki|mediaclients.wiki|minecraft.wiki|modding.wiki|mtg.wiki|namu.wiki|nixos.wiki|notifiarr.wiki|osrs.wiki|pizzatower.wiki|rs.wiki|runescape.wiki|saintsrow.wiki|severance.wiki|survivors.wiki|tajrobe.wiki|tardis.wiki|thehomelab.wiki|tilde.wiki|twewy.wiki|umamusu.wiki|undertale.wiki|usermanual.wiki|vaporwave.wiki|w.wiki|yume.wiki|zeldawiki.wiki|zeppelin.wiki
 ||*.win^$denyallow=activated.win|communities.win|debloat.win|patriots.win|vaultcord.win
 ||*.wine^$denyallow=nostr.wine
 ||*.work^$denyallow=doesmycode.work|elphago.work|frame.work|koding.work|mirror.work
