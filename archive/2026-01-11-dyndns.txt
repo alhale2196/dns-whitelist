@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jan 2026 10:38 UTC
-! Version: 2026.0110.1038.14
+! Last modified: 22 Dec 2025 22:37 UTC
+! Version: 2025.1222.2237.20
 ! Syntax: AdBlock
-! Number of entries: 1470
+! Number of entries: 1465
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -50,7 +50,6 @@
 ||4twenty.us^
 ||64-b.it^
 ||6600.org^
-||688.org^
 ||7766.org^
 ||77qac.com^
 ||77uam.com^
@@ -257,7 +256,6 @@
 ||darksair.org^
 ||darktech.org^
 ||davidsagar.com^
-||ddns.cam^
 ||ddns.info^
 ||ddns.me^
 ||ddns.mobi^
@@ -513,7 +511,6 @@
 ||fin-tech.com^
 ||fintech-llc.com^
 ||fivepals.com^
-||flat4free.com^
 ||flazzard.com^
 ||flnet.org^
 ||flowergardendaycare.com^
@@ -1309,7 +1306,6 @@
 ||stocktester.ru^
 ||stoupin.ru^
 ||strangled.net^
-||stroyexpert.org^
 ||stuff-4-sale.org^
 ||stuff-4-sale.us^
 ||stufftoread.com^
@@ -1325,6 +1321,7 @@
 ||system-ns.com^
 ||systes.net^
 ||sytes.net^
+||t-online.hu^
 ||tallison.com^
 ||tamaragibson.com^
 ||tantrum.org^
@@ -1401,7 +1398,6 @@
 ||venez.fr^
 ||venez.net^
 ||verymad.net^
-||viamisoftware.com^
 ||viewdns.net^
 ||viiic.net^
 ||vincomlimited.com^
@@ -1414,7 +1410,6 @@
 ||vpntraki.com^
 ||vpnx.nl^
 ||vr.lt^
-||vxe6.net^
 ||wakingmoon.com^
 ||wan64.de^
 ||wanip.ch^
