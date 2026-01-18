@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Jan 2026 05:58 UTC
-! Version: 2026.0116.0558.36
+! Last modified: 10 Jan 2026 09:57 UTC
+! Version: 2026.0110.0957.31
 ! Syntax: AdBlock
-! Number of entries: 1317
+! Number of entries: 1318
 !
 ||000a.de^
 ||000space.com^
@@ -29,7 +29,6 @@
 ||0hna.com^
 ||one4u.0lx.net^
 ||0pe.kr^
-||0pi.com^
 ||1.vg^
 ||10001mb.com^
 ||100freemb.com^
@@ -221,6 +220,7 @@
 ||berlin.tl^
 ||betrunken.org^
 ||bg.gp^
+||bgydnb.vip^
 ||bigheadhosting.net^
 ||bilder.lc^
 ||billblett.com^
@@ -597,7 +597,6 @@
 ||fr.gp^
 ||fr.nf^
 ||framer.website^
-||free.bg^
 ||free.cr^
 ||free.lc^
 ||free.nf^
@@ -748,6 +747,7 @@
 ||infos.cx^
 ||infos.lc^
 ||infos.st^
+||inicioseguridad-cliente.com^
 ||instantfreesite.com^
 ||int.ps^
 ||internetsite.eu^
@@ -786,6 +786,7 @@
 ||justns.ru^
 ||k.gp^
 ||k1.cx^
+||kanka.space^
 ||kann-helfen.de^
 ||keepfree.de^
 ||kilu.at^
