@@ -5,13 +5,14 @@
 !         https://trends.netcraft.com/cybercrime/tlds
 !         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 !         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+!         https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 31 Jan 2026 15:33 UTC
-! Version: 2026.0131.1533.01
+! Last modified: 24 Jan 2026 02:40 UTC
+! Version: 2026.0124.0240.00
 ! Syntax: AdGuard
 ! Number of latin TLDs: 284 - punycode TLDs: 151
 !
@@ -25,7 +26,7 @@
 ||*.autos^
 ||*.baby^
 ||*.band^$denyallow=flying-circus.band
-||*.bar^$denyallow=bolero.bar|brexx.bar|einhorn.bar|ethics.bar|fap.bar|hai.bar|herz.bar|mavie.bar|metro.bar|reit.bar|strem.bar|voi.bar
+||*.bar^$denyallow=fap.bar|mavie.bar|strem.bar|voi.bar
 ||*.beauty^
 ||*.beer^
 ||*.best^$denyallow=epg.best|xhamster.best
@@ -131,7 +132,7 @@
 ||*.golf^
 ||*.gq^$denyallow=inege.gq
 ||*.gratis^
-||*.green^$denyallow=mastodon.green|tilde.green|treebal.green
+||*.green^$denyallow=mastodon.green|tilde.green
 ||*.guide^$denyallow=cfw.guide|discordjs.guide|hacks.guide|homebrew.guide|opensource.guide|ripped.guide|site.guide|wii.guide|wisely.guide|zig.guide
 ||*.guru^$denyallow=bahn.guru|base64.guru|crontab.guru|greenlight.guru|jav.guru|ludwig.guru|mags.guru|tilde.guru|watcher.guru|webcal.guru
 ||*.hair^
@@ -239,7 +240,7 @@
 ||*.science^$denyallow=amazon.science|canonn.science|hal.science|wander.science
 ||*.sew^
 ||*.sexy^$denyallow=privacy.sexy|terminal.sexy
-||*.shop^$denyallow=11ts.shop|30grad.shop|4id.shop|axisms.shop|buergerspital.shop|chessvibes.shop|derweinladen.shop|domainname.shop|domene.shop|durst.shop|epicdesk.shop|eventix.shop|freshtorge.shop|frontiers.shop|funk-dichtungstechnik.shop|geekchic.shop|grnk.shop|grog.shop|henssler.shop|kalypso.shop|majblomman.shop|munu.shop|music-merchant.shop|myshopline.shop|neurosama.shop|nocut.shop|nordland.shop|owl-dampfer.shop|oxiline.shop|prohibited.shop|schweden.shop|scorpions.shop|sentry.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop|weinbibliothek.shop|weinwunder.shop|wielrenner.shop|winefactory.shop|xn--dnemark-5wa.shop
+||*.shop^$denyallow=11ts.shop|30grad.shop|4id.shop|axisms.shop|chessvibes.shop|domainname.shop|domene.shop|durst.shop|epicdesk.shop|eventix.shop|freshtorge.shop|frontiers.shop|funk-dichtungstechnik.shop|geekchic.shop|grnk.shop|grog.shop|henssler.shop|kalypso.shop|majblomman.shop|munu.shop|music-merchant.shop|myshopline.shop|neurosama.shop|nocut.shop|nordland.shop|owl-dampfer.shop|oxiline.shop|prohibited.shop|schweden.shop|scorpions.shop|sentry.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop|wielrenner.shop|xn--dnemark-5wa.shop
 ||*.shopping^
 ||*.show^$denyallow=camz.show|j.show
 ||*.site^$denyallow=7mb.site|additive-apps.site|aftermath.site|anonimayzer.site|bio.site|canva.site|claude.site|edgeone.site|fbsmarthome.site|gov-img.site|heimdall.site|heyflow.site|i5i.site|kaylees.site|leafbrowser.site|miteru.site|notion.site|onrocket.site|platformsh.site|privacy-test-pages.site|reddit-doesnt-like-this.site|shopapps.site|srht.site|toast.site|tst.site|turkvetka.site|wishonly.site|wolow.site|wpdns.site
@@ -299,6 +300,7 @@
 ||*.you^
 ||*.za.com^
 ||*.zip^$denyallow=community.zip|financialstatement.zip|lemmy.zip|makea.zip|transfer.zip|uploaded-files.zip|voron.zip
+||*.xn--p1acf^
 ||*.xn--11b4c3d^
 ||*.xn--1ck2e1b^
 ||*.xn--1qqw23a^
@@ -328,7 +330,6 @@
 ||*.xn--80asehdb^
 ||*.xn--80aswg^
 ||*.xn--8y0a063a^
-||*.xn--90a3ac^
 ||*.xn--90ae^
 ||*.xn--90ais^
 ||*.xn--9dbq2a^
@@ -336,7 +337,6 @@
 ||*.xn--9krt00a^
 ||*.xn--b4w605ferd^
 ||*.xn--bck1b9a5dre4c^
-||*.xn--c1avg^
 ||*.xn--c2br7g^
 ||*.xn--cck2b3b^
 ||*.xn--cckwcxetd^
@@ -350,8 +350,8 @@
 ||*.xn--e1a4c^
 ||*.xn--eckvdtc9d^
 ||*.xn--efvy88h^
-||*.xn--fct429k^
 ||*.xn--fhbei^
+||*.xn--fct429k^
 ||*.xn--fiq228c5hs^
 ||*.xn--fiq64b^
 ||*.xn--fiqs8s^
@@ -366,14 +366,12 @@
 ||*.xn--gecrj9c^
 ||*.xn--gk3at1e^
 ||*.xn--h2breg3eve^
-||*.xn--h2brj9c8c^
 ||*.xn--h2brj9c^
-||*.xn--hxt814e^
-||*.xn--i1b6b1a6a2e^
-||*.xn--imr513n^
 ||*.xn--io0a7i^
-||*.xn--j1aef^
-||*.xn--j1amh^
+||*.xn--imr513n^
+||*.xn--i1b6b1a6a2e^
+||*.xn--hxt814e^
+||*.xn--h2brj9c8c^
 ||*.xn--j6w193g^
 ||*.xn--jlq480n2rg^
 ||*.xn--jlq61u9w7b^
@@ -382,7 +380,6 @@
 ||*.xn--kprw13d^
 ||*.xn--kpry57d^
 ||*.xn--kput3i^
-||*.xn--l1acc^
 ||*.xn--lgbbat1ad8j^
 ||*.xn--mgb9awbf^
 ||*.xn--mgba3a3ejt^
@@ -393,20 +390,20 @@
 ||*.xn--mgbab2bd^
 ||*.xn--mgbah1a3hjkrd^
 ||*.xn--mgbai9azgqp6j^
-||*.xn--mgbayh7gpa^
-||*.xn--mgbbh1a71e^
-||*.xn--mgbbh1a^
-||*.xn--mgbc0a9azcg^
-||*.xn--mgbca7dzdo^
-||*.xn--mgbcpq6gpa1a^
-||*.xn--mgberp4a5d4ar^
-||*.xn--mgbgu82a^
-||*.xn--mgbi4ecexp^
-||*.xn--mgbpl2fh^
+||*.xn--mix891f^
+||*.xn--mgbx4cd0ab^
 ||*.xn--mgbt3dhd^
 ||*.xn--mgbtx2b^
-||*.xn--mgbx4cd0ab^
-||*.xn--mix891f^
+||*.xn--mgbpl2fh^
+||*.xn--mgbi4ecexp^
+||*.xn--mgbgu82a^
+||*.xn--mgberp4a5d4ar^
+||*.xn--mgbcpq6gpa1a^
+||*.xn--mgbca7dzdo^
+||*.xn--mgbc0a9azcg^
+||*.xn--mgbbh1a71e^
+||*.xn--mgbbh1a^
+||*.xn--mgbayh7gpa^
 ||*.xn--mk1bu44c^
 ||*.xn--mxtq1m^
 ||*.xn--ngbc5azd^
@@ -416,37 +413,41 @@
 ||*.xn--nqv7f^
 ||*.xn--nqv7fs00ema^
 ||*.xn--nyqy26a^
+||*.xn--zfr164b^
+||*.xn--ygbi2ammx^
+||*.xn--yfro4i67o^
+||*.xn--xkc2dl3a5ee0h^
+||*.xn--xkc2al3hye2a^
+||*.xn--xhq521b^
+||*.xn--wgbl6a^
+||*.xn--w4rs40l^
+||*.xn--w4r85el8fhu5dnra^
+||*.xn--vuq861b^
+||*.xn--vhquv^
+||*.xn--wgbh1c^
+||*.xn--unup4y^
+||*.xn--tiq49xqyj^
+||*.xn--tckwe^
+||*.xn--t60b56a^
+||*.xn--ses554g^
+||*.xn--s9brj9c^
+||*.xn--rvc1e0am3e^
+||*.xn--rhqv96g^
+||*.xn--rovu88b^
+||*.xn--qcka1pmc^
+||*.xn--q9jyb4c^
+||*.xn--q7ce6a^
+||*.xn--pssy2u^
+||*.xn--pgbs0dh^
 ||*.xn--o3cw4h^
 ||*.xn--ogbpf8fl^
 ||*.xn--otu796d^
-||*.xn--p1acf^
 ||*.xn--p1ai^
-||*.xn--pgbs0dh^
-||*.xn--pssy2u^
-||*.xn--q7ce6a^
-||*.xn--q9jyb4c^
-||*.xn--qcka1pmc^
+||*.xn--90a3ac^
+||*.xn--c1avg^
+||*.xn--j1aef^
+||*.xn--j1amh^
+||*.xn--l1acc^
 ||*.xn--qxa6a^
 ||*.xn--qxam^
-||*.xn--rhqv96g^
-||*.xn--rovu88b^
-||*.xn--rvc1e0am3e^
-||*.xn--s9brj9c^
-||*.xn--ses554g^
-||*.xn--t60b56a^
-||*.xn--tckwe^
-||*.xn--tiq49xqyj^
-||*.xn--unup4y^
-||*.xn--vhquv^
-||*.xn--vuq861b^
-||*.xn--w4r85el8fhu5dnra^
-||*.xn--w4rs40l^
-||*.xn--wgbh1c^
-||*.xn--wgbl6a^
-||*.xn--xhq521b^
-||*.xn--xkc2al3hye2a^
-||*.xn--xkc2dl3a5ee0h^
 ||*.xn--y9a3aq^
-||*.xn--yfro4i67o^
-||*.xn--ygbi2ammx^
-||*.xn--zfr164b^

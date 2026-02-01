@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Jan 2026 10:39 UTC
-! Version: 2026.0130.1039.38
+! Last modified: 24 Jan 2026 10:38 UTC
+! Version: 2026.0124.1038.10
 ! Syntax: AdBlock
-! Number of entries: 1420
+! Number of entries: 1411
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -419,7 +419,6 @@
 ||dynup.net^
 ||dynv4.net^
 ||dynv6.com^
-||dynv6.net^
 ||dyyndns.net^
 ||e-m-a-i-l.org^
 ||e-romagnoli.com^
@@ -462,7 +461,6 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
-||evils.in^
 ||expired-dns.com^
 ||ez-ip.net^
 ||ezua.com^
@@ -502,7 +500,6 @@
 ||freemyip.com^
 ||freesa.org^
 ||freetcp.com^
-||freewww.biz^
 ||freewww.info^
 ||freshdns.com^
 ||from-ak.com^
@@ -588,7 +585,6 @@
 ||gotdns.com^
 ||gotdns.org^
 ||govt.hu^
-||gr8domain.biz^
 ||gr8name.biz^
 ||grandmasgossip.com^
 ||green-heroes.com^
@@ -617,7 +613,6 @@
 ||happyforever.com^
 ||happyminecraft.com^
 ||hatenboer.org^
-||hbmc.net^
 ||health-carereform.com^
 ||forgot.her.name^
 ||here-for-more.info^
@@ -670,7 +665,6 @@
 ||iamallama.com^
 ||ics.tw^
 ||ideasciviles.com^
-||idigo.org^
 ||idleplay.net^
 ||4040.idv.tw^
 ||ieserver.net^
@@ -681,7 +675,6 @@
 ||imagetemplate.com^
 ||imagetemplate.net^
 ||imexsac.com^
-||imprendum.com^
 ||in-the-band.net^
 ||independentonline.ro^
 ||indevs.in^
@@ -1001,7 +994,6 @@
 ||networkoutpost.com^
 ||nflfan.org^
 ||nhlfan.net^
-||ninth.biz^
 ||no-domain.name^
 ||no-ip.biz^
 ||no-ip.ca^
@@ -1027,7 +1019,6 @@
 ||now-dns.net^
 ||now-dns.org^
 ||nowddns.com^
-||ns01.biz^
 ||ns01.info^
 ||ns01.us^
 ||ns02.biz^
@@ -1266,11 +1257,11 @@
 ||stocktester.ru^
 ||stoupin.ru^
 ||strangled.net^
+||stroyexpert.org^
 ||stuff-4-sale.org^
 ||stuff-4-sale.us^
 ||stufftoread.com^
 ||stughead.com^
-||stuns.org^
 ||sumibi.org^
 ||sundby.com^
 ||surak.kz^

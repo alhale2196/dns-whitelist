@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Jan 2026 09:30 UTC
-! Version: 2026.0130.0930.23
+! Last modified: 24 Jan 2026 09:28 UTC
+! Version: 2026.0124.0928.43
 ! Syntax: AdBlock
-! Number of entries: 10046
+! Number of entries: 10003
 !
 ||0.gp^
 ||00m.in^
@@ -31,7 +31,6 @@
 ||0a.sk^
 ||0a0.uk^
 ||0bs.de^
-||0i.is^
 ||0ln.eu^
 ||0ln.io^
 ||0o.lv^
@@ -106,7 +105,6 @@
 ||1ly.ru^
 ||1mm.kr^
 ||1nk.co^
-||1nom.org^
 ||1o.pl^
 ||1o2.ir^
 ||1oe9.one^
@@ -123,6 +121,7 @@
 ||1stgop.co^
 ||1sturl.com^
 ||1ta.kr^
+||1tk.us^
 ||1tn.se^
 ||1to3.link^
 ||1ty.me^
@@ -141,7 +140,6 @@
 ||1xregister.vip^
 ||1z.lc^
 ||1zr.in^
-||1zx.ir^
 ||2.gd^
 ||2.gp^
 ||2.ht^
@@ -199,7 +197,6 @@
 ||2tea.ch^
 ||2tf.net^
 ||2tiny.in^
-||2to.info^
 ||2tu.us^
 ||2u.gg^
 ||2u.lc^
@@ -217,9 +214,7 @@
 ||3.cn^
 ||3.ly^
 ||301.link^
-||301.nz^
 ||301.tv^
-||301l.ir^
 ||302.pl^
 ||30na.ma^
 ||30t.me^
@@ -455,7 +450,6 @@
 ||abr.ai^
 ||abr.to^
 ||abre.ae^
-||abre.ai^
 ||abre.pub^
 ||abrir.link^
 ||abroad-links.com^
@@ -489,7 +483,6 @@
 ||acer.link^
 ||aces.mp^
 ||aces.so^
-||acessa.app^
 ||acessaurl.com^
 ||acesso.bio^
 ||acg.kr^
@@ -579,7 +572,6 @@
 ||agmd.win^
 ||agoz.me^
 ||agphosting.com^
-||agr.my^
 ||agrd.io^
 ||agroforestri.id^
 ||agrolink.me^
@@ -1248,7 +1240,6 @@
 ||bleenk.co^
 ||ai.blendnow.com^
 ||blinkbreeze.com^
-||blinkmelink.com^
 ||blinko.me^
 ||blinkurl.in^
 ||blip.tv^
@@ -1379,7 +1370,6 @@
 ||brst.link^
 ||brtv.vip^
 ||brx.im^
-||brzu.net^
 ||bs303.com^
 ||bschlack.link^
 ||bsg.news^
@@ -1516,7 +1506,6 @@
 ||caro.sl^
 ||cart.mn^
 ||cartisbikur.com^
-||casashort.live^
 ||cash4share.com^
 ||link.cashcard.id^
 ||cashncut.com^
@@ -1853,6 +1842,7 @@
 ||cofe.io^
 ||coil-forms.com^
 ||coinbarlink.net^
+||coinbasesupports.live^
 ||coinbot.kr^
 ||coinclix.co^
 ||coklat.vip^
@@ -1895,6 +1885,7 @@
 ||nabio.com.br^
 ||natura.com.vc^
 ||salesadvisor.nazriproton.com.my^
+||onelink.com.do^
 ||readystart.com.au^
 ||red1.com.br^
 ||redlight.com.br^
@@ -1914,6 +1905,7 @@
 ||useek.com.au^
 ||vanlifediyfitouts.com.au^
 ||bi.vitalmedbrasilia.com.br^
+||vm88.com.co^
 ||xpol.com.tr^
 ||youlinks.com.au^
 ||parceiros.zerofuro.com.br^
@@ -2032,7 +2024,6 @@
 ||cuer.io^
 ||cuk.one^
 ||cukbaray.com^
-||cul.ke^
 ||cultm.ac^
 ||culy.top^
 ||cuoinamdiedm.life^
@@ -2418,7 +2409,6 @@
 ||dsyixm.com^
 ||dtdg.co^
 ||dti.io^
-||dtl.la^
 ||dtsx.io^
 ||duakale.me^
 ||dub.co^
@@ -2701,7 +2691,6 @@
 ||ezyurl.co^
 ||ezyurl.net^
 ||f-ast.me^
-||f-internal.info^
 ||f-n.link^
 ||f0rk.in^
 ||f1.tf^
@@ -2882,7 +2871,6 @@
 ||forsakenx.live^
 ||fortheinfo.net^
 ||ll.fosscu.org^
-||fossibot.pro^
 ||found.ee^
 ||fourshort.com^
 ||fox.tv^
@@ -3051,7 +3039,6 @@
 ||getshorter.com^
 ||getsmallurl.com^
 ||getsterlink.com^
-||getthot.com^
 ||gettolink.net^
 ||gettr.im^
 ||geturls.net^
@@ -3078,7 +3065,6 @@
 ||gibi.link^
 ||gigalink.me^
 ||gigaz.in^
-||gigbridge.app^
 ||gil.re^
 ||giosous.com^
 ||gir.gg^
@@ -3117,7 +3103,6 @@
 ||glol.in^
 ||glolin.com^
 ||gloshukadamiava2.live^
-||glowin88.site^
 ||glss.co^
 ||gma.abc^
 ||gmh.bz^
@@ -3312,6 +3297,7 @@
 ||handcounting.com^
 ||hangeulplay.com^
 ||short.happenn.com^
+||harapan777.love^
 ||harisenin.link^
 ||harounbillets.com^
 ||has.coffee^
@@ -4060,7 +4046,6 @@
 ||kkday.me^
 ||kkne.ws^
 ||kko.to^
-||kkon.ir^
 ||kkstre.am^
 ||hi.kktv.to^
 ||kku.digital^
@@ -4158,7 +4143,6 @@
 ||kurv.gr^
 ||kurz.jetzt^
 ||kurzelinks.de^
-||kut.rs^
 ||kuta.ir^
 ||kutlink.com^
 ||kutt.in^
@@ -4277,7 +4261,6 @@
 ||li2li.ir^
 ||lia.nz^
 ||lialink.net^
-||go.liara.ir^
 ||lib.ac^
 ||lib.cx^
 ||libertify.net^
@@ -4382,7 +4365,6 @@
 ||link4u.uk^
 ||link888.me^
 ||linka.li^
-||linkabc.net^
 ||linkable.id^
 ||linkable.to^
 ||linkaff.com^
@@ -4581,7 +4563,6 @@
 ||linksflow.bio^
 ||linksfly.net^
 ||linkshaft.com^
-||linkshare.pro^
 ||linksharing.app^
 ||linkshort.co^
 ||linkshort.eu^
@@ -5413,7 +5394,6 @@
 ||mynaughtylink.com^
 ||mynb8.com^
 ||myof.uk^
-||app.myotherapy.edu^
 ||myown.bio^
 ||myown.click^
 ||l.mypad.in^
@@ -5608,7 +5588,6 @@
 ||nmrk.re^
 ||nmw.news^
 ||nn.nf^
-||link.nn.ru^
 ||nnd.media^
 ||l.nniq.co^
 ||nnm.hu^
@@ -6167,7 +6146,6 @@
 ||polrproject.org^
 ||link.polygongroup.com^
 ||go.pomona.rocks^
-||popfeed.co^
 ||popm.ch^
 ||go.popoway.cloud^
 ||poprl.com^
@@ -6260,7 +6238,6 @@
 ||prt.nu^
 ||prunepath.com^
 ||prvt.mobi^
-||prz.pw^
 ||psafe.com^
 ||psafe.ly^
 ||psce.pw^
@@ -6570,7 +6547,6 @@
 ||reco.to^
 ||reco.yt^
 ||reconis.co^
-||recruitings.online^
 ||recut.in^
 ||red.ht^
 ||redaz.in^
@@ -6692,7 +6668,6 @@
 ||ritmarket.com^
 ||rivablu.net^
 ||riz.cz^
-||rizchi.com^
 ||rizy.ir^
 ||rj99.art^
 ||rj99.site^
@@ -6738,7 +6713,6 @@
 ||routecontent.com^
 ||rows.com^
 ||rozhl.as^
-||rpd.ink^
 ||rpf.io^
 ||rplg.co^
 ||rptl.io^
@@ -6990,6 +6964,7 @@
 ||sendgrid.net^
 ||sendme.help^
 ||sendurl.me^
+||sensasi777.love^
 ||senseifarm.com^
 ||intro.sentrystrategy.com^
 ||seocantik.link^
@@ -7068,6 +7043,7 @@
 ||shln.io^
 ||shln.me^
 ||shlom.in^
+||shly.ink^
 ||shme.io^
 ||shmz.me^
 ||sho.ae^
@@ -7184,7 +7160,6 @@
 ||shortenn.org^
 ||shortenn.site^
 ||shortenpay.com^
-||shortenpro.com^
 ||shortenr.de^
 ||shortenurl.app^
 ||shortenurl.org^
@@ -7208,7 +7183,6 @@
 ||shortgo.me^
 ||shorti.me^
 ||shorti.uk^
-||shortico.in^
 ||shortie.io^
 ||shortify.pro^
 ||shortifyapi.com^
@@ -7234,7 +7208,6 @@
 ||shortlink.gr^
 ||shortlink.is^
 ||shortlink.one^
-||shortlink.sbs^
 ||shortlink.uk^
 ||shortlink1.com^
 ||shortlink88.xyz^
@@ -7464,7 +7437,6 @@
 ||shycmedi.com^
 ||shylnk.com^
 ||sia.re^
-||sibly.ir^
 ||sic.onl^
 ||sicax.net^
 ||sicepat.link^
@@ -7556,7 +7528,6 @@
 ||sld.one^
 ||slecastle.com^
 ||slice.partners^
-||slicethis.link^
 ||slidesha.re^
 ||slimeteam.live^
 ||slimlink.com^
@@ -7567,7 +7538,6 @@
 ||tools.slipstick.com^
 ||slitcy.com^
 ||slnig.link^
-||slnk.se^
 ||slot633.gg^
 ||slotamina.com^
 ||slpre.com^
@@ -7647,7 +7617,6 @@
 ||snaplinks.me^
 ||snappshort.com^
 ||snappyshort.com^
-||snappyurl.com^
 ||snapt.io^
 ||snapurl.org^
 ||snapurl.xyz^
@@ -7719,7 +7688,6 @@
 ||sor.bz^
 ||sorc.me^
 ||sorkale.me^
-||sosh.al^
 ||sosi.al^
 ||sosy.al^
 ||sou.nu^
@@ -8032,7 +8000,6 @@
 ||tapto.bio^
 ||my.taptoconnect.app^
 ||tapurl.net^
-||tapz.in^
 ||targeterpro.com^
 ||tatt.at^
 ||tau.lu^
@@ -8208,7 +8175,6 @@
 ||tiger77.monster^
 ||tigerlink.me^
 ||tighturl.com^
-||tiis.cc^
 ||tik.la^
 ||tik.lat^
 ||tik.lol^
@@ -8235,7 +8201,6 @@
 ||tinurl.pro^
 ||tiny.ae^
 ||tiny.cc^
-||tiny.do^
 ||tiny.ee^
 ||tiny.lt^
 ||tiny.ms^
@@ -8488,7 +8453,6 @@
 ||trenddynamo.com^
 ||tres.at^
 ||treszki.com^
-||trezurl.ir^
 ||tri.ps^
 ||trib.al^
 ||trib.in^
@@ -8733,7 +8697,6 @@
 ||undrarmr.co^
 ||unelma.io^
 ||unesa.me^
-||unesa.xyz^
 ||uni.cf^
 ||uni.ms^
 ||go.unibw.de^
@@ -8765,7 +8728,6 @@
 ||uorbursarysupport.com^
 ||uos.cc^
 ||up.to^
-||update-info-saudi-a.live^
 ||upld.in^
 ||share.uplifted.ai^
 ||uplifter.ai^
@@ -8815,7 +8777,6 @@
 ||url-sh.fr^
 ||url-short.me^
 ||url-shortener.in^
-||url-shortener.info^
 ||url-shortener.me^
 ||url-shortening.com^
 ||url-solutions.com^
@@ -9019,6 +8980,7 @@
 ||urlth.me^
 ||urltiger.com^
 ||urltiger.li^
+||urltin.com^
 ||urltiny.cc^
 ||urltiny.one^
 ||urltiny.xyz^
@@ -9335,7 +9297,6 @@
 ||vk.cc^
 ||vk.sv^
 ||vkei.eu^
-||vkik.com^
 ||vklinks.com^
 ||vl.am^
 ||vla.lu^
@@ -9853,7 +9814,6 @@
 ||yourcs.us^
 ||youris.bio^
 ||youris.pro^
-||yourl.ir^
 ||yourl.jp^
 ||yourl.pro^
 ||yourls.ch^
@@ -9937,7 +9897,6 @@
 ||zephb.com^
 ||zeroshort.xyz^
 ||zetir.com^
-||zeurl.net^
 ||zeus4d.mom^
 ||zeusurl.com^
 ||zeusurl.net^
@@ -9995,7 +9954,6 @@
 ||znt.bz^
 ||znv.cc^
 ||znym.co^
-||znz.kr^
 ||zo.cm^
 ||zobzob.com^
 ||link.zodia.studio^
@@ -10038,7 +9996,6 @@
 ||zuitte.io^
 ||zuki.ie^
 ||zulu.bio^
-||zum.bi^
 ||zuplo.link^
 ||zurb.us^
 ||zurins.uk^
