@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Feb 2026 22:53 UTC
-! Version: 2026.0209.2253.05
+! Last modified: 07 Feb 2026 16:44 UTC
+! Version: 2026.0207.1644.40
 ! Syntax: AdBlock
-! Number of entries: 1482
+! Number of entries: 1469
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -276,9 +276,7 @@
 ||dhs.org^
 ||digikabel.hu^
 ||digitalgroupe.com^
-||diskstation.eu^
 ||diskstation.me^
-||diskstation.org^
 ||ditchyourip.com^
 ||divx.se^
 ||dlinkddns.com^
@@ -341,7 +339,6 @@
 ||doyleandprendergast.com^
 ||dp76.com^
 ||dpcube.com^
-||dray-dns.de^
 ||drayddns.com^
 ||dropfiles.net^
 ||drunkensailor.org^
@@ -376,7 +373,6 @@
 ||dyn-access.org^
 ||dyn-ip24.de^
 ||dyn-o-saur.com^
-||dyn-vpn.de^
 ||dynalias.com^
 ||dynalias.net^
 ||dynalias.org^
@@ -443,7 +439,6 @@
 ||dynv4.net^
 ||dynv6.com^
 ||dynv6.net^
-||dynvpn.de^
 ||dyyndns.net^
 ||e-m-a-i-l.org^
 ||e-romagnoli.com^
@@ -664,7 +659,6 @@
 ||hiddencorner.org^
 ||hijaxdesigns.com^
 ||hin.tw^
-||hiprinter.com^
 ||his.name^
 ||hitremixes.com^
 ||hldns.ru^
@@ -926,7 +920,6 @@
 ||medittech.com^
 ||mefound.com^
 ||meicosoft.com^
-||mein-vigor.de^
 ||melakaboy.com^
 ||merseine.com^
 ||merseine.org^
@@ -970,8 +963,6 @@
 ||musterihizmetleri.com^
 ||mwop.net^
 ||my.to^
-||my-vigor.de^
-||my-wan.de^
 ||my03.com^
 ||myactivedirectory.com^
 ||myaddr.dev^
@@ -1328,9 +1319,6 @@
 ||surak.kz^
 ||surfnet.ca^
 ||swtest.ru^
-||syno-ds.de^
-||synology-diskstation.de^
-||synology-ds.de^
 ||synoserver.com^
 ||sysadminetworks.com^
 ||system-ns.com^
@@ -1390,7 +1378,6 @@
 ||ufcfan.org^
 ||ufodns.com^
 ||ugo.si^
-||uk.ms^
 ||uk.to^
 ||undo.it^
 ||unibutton.com^

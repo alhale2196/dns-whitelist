@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Feb 2026 16:02 UTC
-! Version: 2026.0212.1602.05
+! Last modified: 07 Feb 2026 21:59 UTC
+! Version: 2026.0207.2159.31
 ! Syntax: AdBlock
-! Number of entries: 1298
+! Number of entries: 1293
 !
 ||000a.de^
 ||000space.com^
@@ -511,7 +511,6 @@
 ||edublogs.org^
 ||educatorpage.com^
 ||educatorpages.com^
-||efacturas.net^
 ||eg.gp^
 ||ehaitao.com^
 ||eklablog.com^
@@ -823,7 +822,6 @@
 ||lovable.app^
 ||loveslife.biz^
 ||lovestoblog.com^
-||loxblog.com^
 ||lspmr.org^
 ||lu.kg^
 ||luzzati.com^
@@ -1167,7 +1165,6 @@
 ||uzblog.net^
 ||v.gp^
 ||v0r.org^
-||val.run^
 ||vastserve.com^
 ||ve.gp^
 ||verifypass.pw^
@@ -1186,7 +1183,6 @@
 ||wallinside.com^
 ||wallst.ru^
 ||wapka.club^
-||wapka.co^
 ||wapka.site^
 ||wapka.store^
 ||wapka.top^
@@ -1278,7 +1274,6 @@
 ||xsph.ru^
 ||xtgem.com^
 ||xtreemhost.com^
-||xx.kg^
 ||xx.lc^
 ||xxl.lc^
 ||xxxxxxxx.jp^
