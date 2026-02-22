@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Feb 2026 22:47 UTC
-! Version: 2026.0217.2247.53
+! Last modified: 09 Feb 2026 22:53 UTC
+! Version: 2026.0209.2253.05
 ! Syntax: AdBlock
-! Number of entries: 1483
+! Number of entries: 1482
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -254,6 +254,7 @@
 ||ddns-dvr.com^
 ||ddns-ip.net^
 ||ddns5.com^
+||ddnsapp.com^
 ||ddnsfree.com^
 ||ddnsgeek.com^
 ||ddnsguru.com^
@@ -976,7 +977,6 @@
 ||myaddr.dev^
 ||myaddr.io^
 ||myaddr.tools^
-||mycompany.tv^
 ||mydad.info^
 ||myddns.biz^
 ||myddns.com^
@@ -991,7 +991,6 @@
 ||myftp.info^
 ||myftp.org^
 ||myhome-server.de^
-||myhouse.tv^
 ||myip.org^
 ||myiphost.com^
 ||myjino.ru^
