@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Feb 2026 16:56 UTC
-! Version: 2026.0226.1656.51
+! Last modified: 16 Feb 2026 16:11 UTC
+! Version: 2026.0216.1611.03
 ! Syntax: AdBlock
-! Number of entries: 1281
+! Number of entries: 1283
 !
 ||000a.de^
 ||000space.com^
@@ -127,6 +127,7 @@
 ||9k.com^
 ||a.gp^
 ||a-loch.de^
+||a0001.net^
 ||a3n.de^
 ||aa6.de^
 ||aa8.de^
@@ -176,6 +177,7 @@
 ||ar.gp^
 ||arabinn.club^
 ||arcadepages.com^
+||argentpropertiesvb.com^
 ||arrangiert.de^
 ||artsold.top^
 ||asia.cm^
@@ -207,7 +209,6 @@
 ||bazefrost.ru^
 ||bcz.com^
 ||be.gp^
-||beepworld.de^
 ||beepworld.it^
 ||beget.tech^
 ||begins.de^
@@ -296,7 +297,6 @@
 ||blogspot.ug^
 ||blogzet.com^
 ||bo.gp^
-||bokee.com^
 ||bookmark.com^
 ||boxmail.biz^
 ||boxmode.io^
@@ -503,6 +503,7 @@
 ||edublogs.org^
 ||educatorpage.com^
 ||educatorpages.com^
+||efacturas.net^
 ||eg.gp^
 ||ehaitao.com^
 ||eklablog.com^
@@ -642,6 +643,8 @@
 ||godfrance.club^
 ||gofreeserve.com^
 ||googletagmanagers.com^
+||govauinboxmsg-support.com^
+||govinboxausecure-support.com^
 ||gr.gp^
 ||gr.kg^
 ||gr-site.com^
@@ -677,6 +680,7 @@
 ||hostfree.pw^
 ||hostingas.in^
 ||hostingsiteforfree.com^
+||hostkda.com^
 ||hostland.pro^
 ||hostseba.com^
 ||hot.lc^
@@ -762,7 +766,6 @@
 ||k.gp^
 ||k1.cx^
 ||kann-helfen.de^
-||kataweb.it^
 ||keepfree.de^
 ||kilu.at^
 ||kilu.biz^
@@ -915,7 +918,6 @@
 ||own-free-website.com^
 ||ozq.de^
 ||p.gp^
-||pacbell.net^
 ||page.tl^
 ||page-suspension.net^
 ||page4.me^
