@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Mar 2026 16:23 UTC
-! Version: 2026.0309.1623.45
+! Last modified: 26 Feb 2026 11:01 UTC
+! Version: 2026.0226.1101.35
 ! Syntax: AdBlock
-! Number of entries: 1483
+! Number of entries: 1478
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -350,7 +350,6 @@
 ||dsmynas.net^
 ||dsmynas.org^
 ||dtdns.com^
-||dtdns.net^
 ||dtdns.org^
 ||dubya.info^
 ||dubya.net^
@@ -694,7 +693,6 @@
 ||hopto.org^
 ||host2go.net^
 ||hosthampster.com^
-||hpc.tw^
 ||hs.vc^
 ||htmlcomponentservice.com^
 ||https443.net^
@@ -870,7 +868,6 @@
 ||kozow.com^
 ||ksk-saratov.ru^
 ||kyrgyzstan.kg^
-||l5.ca^
 ||labradapr.com^
 ||laketahoesue.com^
 ||lan64.de^
@@ -893,7 +890,6 @@
 ||lflinkup.org^
 ||likes-pie.com^
 ||likescandy.com^
-||line.pm^
 ||linkin.tw^
 ||linkpc.net^
 ||linux-site.net^
@@ -1150,7 +1146,6 @@
 ||port25.biz^
 ||portfwd.com^
 ||portmap.host^
-||possessed.us^
 ||prettyweak.com^
 ||priamaakcia.sk^
 ||pride.moe^
