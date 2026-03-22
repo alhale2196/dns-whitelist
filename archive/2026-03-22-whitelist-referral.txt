@@ -599,7 +599,6 @@
 @@||p.placed.com^
 @@||partnerlinks.io^
 @@||partners*.stacksocial.com^
-@@||partners.webmasterplan.com^
 @@||pepperjamnetwork.com^
 @@||personaclick.com^
 @@||personalservices.biz^
