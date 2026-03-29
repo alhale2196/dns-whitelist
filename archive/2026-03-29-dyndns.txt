@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Mar 2026 21:46 UTC
-! Version: 2026.0326.2146.29
+! Last modified: 17 Mar 2026 22:59 UTC
+! Version: 2026.0317.2259.53
 ! Syntax: AdBlock
-! Number of entries: 1480
+! Number of entries: 1482
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -30,7 +30,6 @@
 ||3-a.net^
 ||32-b.it^
 ||3322.net^
-||3322.org^
 ||360digit.com^
 ||3dxtras.com^
 ||3n.cc^
@@ -57,7 +56,6 @@
 ||access.ly^
 ||accesscam.org^
 ||acmetoy.com^
-||ad.jp^
 ||adagio.tw^
 ||dyn.addr.tools^
 ||afraid.org^
@@ -102,6 +100,7 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||b0tnet.com^
 ||b33r.us^
@@ -662,6 +661,7 @@
 ||hiddencorner.org^
 ||hijaxdesigns.com^
 ||hin.tw^
+||hiprinter.com^
 ||his.name^
 ||hitremixes.com^
 ||hldns.ru^
@@ -1116,6 +1116,7 @@
 ||organiccrap.com^
 ||orskkino.ru^
 ||otzo.com^
+||oumage.com^
 ||ourhobby.com^
 ||ownip.net^
 ||packeting.eu^
@@ -1333,6 +1334,7 @@
 ||synology-ds.de^
 ||synoserver.com^
 ||sysadminetworks.com^
+||system-ns.com^
 ||systes.net^
 ||sytes.net^
 ||tallison.com^
