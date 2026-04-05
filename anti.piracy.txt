@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Mar 2026 00:04 UTC
-! Version: 2026.0329.0004.12
+! Last modified: 04 Apr 2026 10:07 UTC
+! Version: 2026.0404.1007.15
 ! Syntax: AdBlock
-! Number of entries: 12288
+! Number of entries: 12302
 !
 ||003396815.xyz^
 ||004430.xyz^
@@ -80,7 +80,6 @@
 ||1080-kino.com^
 ||10drives.com^
 ||10hitmovies.click^
-||10hitmovies.club^
 ||10hitmovies.com^
 ||10hitmovies.help^
 ||10hitmovies.lat^
@@ -100,7 +99,6 @@
 ||123files.club^
 ||123fox.net^
 ||123freemovies.net^
-||123freemovies.show^
 ||123hulu.com^
 ||123movie.blog^
 ||123movie.cc^
@@ -209,6 +207,7 @@
 ||1ddl.org^
 ||1desiremovies.foo^
 ||1fichier.com^
+||1filmyfly.top^
 ||1flix.to^
 ||1gabba.net^
 ||1gabba.pw^
@@ -808,8 +807,10 @@
 ||anidb.info^
 ||anidex.info^
 ||anidex.moe^
+||anidoor.me^
 ||anidub.pro^
 ||anify.to^
+||anigo.to^
 ||anilinkz.to^
 ||animatedchaos.com^
 ||animationdigitalnetwork.fr^
@@ -1573,6 +1574,7 @@
 ||bollyflix.faith^
 ||bollyflix.fish^
 ||bollyflix.fit^
+||bollyflix.frl^
 ||bollyflix.ist^
 ||bollyflix.miami^
 ||bollyflix.pub^
@@ -2831,6 +2833,7 @@
 ||diyar24.com^
 ||dizcompany.ru^
 ||dizi44.life^
+||dizi49.life^
 ||dizilla.to^
 ||dizimag.onl^
 ||dizipal.bar^
@@ -3703,6 +3706,7 @@
 ||film-francais-vf.com^
 ||film-pertutti.art^
 ||film-pertutti.autos^
+||film-pertutti.bond^
 ||film-pertutti.click^
 ||film-pertutti.cyou^
 ||film-pertutti.homes^
@@ -4548,6 +4552,7 @@
 ||gnutellaforums.com^
 ||go123.stream^
 ||go2load.com^
+||goal2.live^
 ||goalz.zip^
 ||goatd.me^
 ||god-games.com^
@@ -4867,6 +4872,7 @@
 ||hdfilme-tv.cc^
 ||hdfilmizle22.com^
 ||hdfreaks.cc^
+||hdfull.cam^
 ||hdfull.lv^
 ||hdhome.org^
 ||hdhub4u.family^
@@ -5725,6 +5731,7 @@
 ||keke.re^
 ||data.kenecolor.com^
 ||keohosting.net^
+||kerry410bks.com^
 ||kevinsport.top^
 ||kevinsports.top^
 ||kevinsporttv.top^
@@ -6935,7 +6942,6 @@
 ||moviesmod.forum^
 ||moviesmod.fyi^
 ||moviesmod.gift^
-||moviesmod.how^
 ||moviesmod.kim^
 ||moviesmod.mom^
 ||moviesmod.nl^
@@ -7083,6 +7089,7 @@
 ||multicanais.com^
 ||multicanais.fans^
 ||multicanais.live^
+||multimovies.autos^
 ||multimovies.center^
 ||multimovies.cheap^
 ||multimovies.click^
@@ -7564,6 +7571,7 @@
 ||nyaa.net^
 ||nyaa.si^
 ||tracker.nyaa.uk^
+||tracker.nyaa.vc^
 ||t.nyaatracker.com^
 ||tr.nyacat.pw^
 ||nyafilmer.lol^
@@ -9017,6 +9025,7 @@
 ||simpsonitos.com^
 ||simpsonsua.tv^
 ||sims4odezhda.ru^
+||sinema.lat^
 ||sinezy.biz^
 ||sinezy.cx^
 ||sisbdisp.com^
@@ -9855,6 +9864,7 @@
 ||sunonlinebd.com^
 ||sunplex.net^
 ||sunset-dragons.com^
+||sunsetline07.online^
 ||sunveil63.live^
 ||sunxdcc.com^
 ||super-torrent.pl^
@@ -10775,6 +10785,7 @@
 ||uakino-bay.net^
 ||uakino-lu.com^
 ||uakinogo.art^
+||uakinogo.best^
 ||uakinogo.co^
 ||uakinogo.com^
 ||uakinogo.day^
@@ -11755,6 +11766,7 @@
 ||wiflix.pw^
 ||wiflix.voto^
 ||wild-bytes.org^
+||tracker.wildkat.net^
 ||wilmaa.com^
 ||wilothepilo.xyz^
 ||win-pro.net^
@@ -11983,6 +11995,7 @@
 ||yabancidizi.now^
 ||yabse.com^
 ||yalla-shoot.fun^
+||yalla-shoot.mov^
 ||yalla-shoot-mobasher.com^
 ||yalla-shootv.live^
 ||yalla-shootx.org^
@@ -12099,6 +12112,7 @@
 ||yourserie.com^
 ||yoursports.stream^
 ||youserials.com^
+||youthincinema.com^
 ||youtorrent.com^
 ||youwatch.org^
 ||yowaapp.com^
