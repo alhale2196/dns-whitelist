@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Apr 2026 17:55 UTC
-! Version: 2026.0403.1755.09
+! Last modified: 11 Apr 2026 18:37 UTC
+! Version: 2026.0411.1837.39
 ! Syntax: AdBlock
-! Number of entries: 1222
+! Number of entries: 1202
 !
 ||000a.de^
 ||000space.com^
@@ -151,10 +151,9 @@
 ||ac6.de^
 ||admarketlocation.com^
 ||aeza.network^
-||africafull.top^
 ||ag.gp^
+||ag0rcgwjv5.com^
 ||ahlamountada.com^
-||airground.club^
 ||al6.de^
 ||all.lc^
 ||allemal.de^
@@ -170,7 +169,6 @@
 ||anschauen.in^
 ||anschiessen.de^
 ||ar.gp^
-||arabinn.club^
 ||arcadepages.com^
 ||arrangiert.de^
 ||artsold.top^
@@ -196,7 +194,6 @@
 ||bakoweb.com^
 ||ballern.de^
 ||bandungberita.com^
-||banksurvey.biz^
 ||bappy.com^
 ||batcave.net^
 ||bcz.com^
@@ -218,7 +215,6 @@
 ||blackapplehost.com^
 ||blackblogs.org^
 ||blinkweb.com^
-||blo.gg^
 ||blog.com^
 ||blog.hr^
 ||blog.lc^
@@ -236,6 +232,7 @@
 ||blogia.com^
 ||blogmaster.net^
 ||blogmonster.de^
+||blogrip.com^
 ||blogsky.com^
 ||blogspot.ae^
 ||blogspot.al^
@@ -297,6 +294,7 @@
 ||bravepages.com^
 ||bravesites.com^
 ||brizy.site^
+||bugs3.com^
 ||builderall.net^
 ||builtfree.org^
 ||business.site^
@@ -345,10 +343,8 @@
 ||chamberecommerce.com^
 ||chat.dj^
 ||chat3.de^
-||chatpc.club^
 ||chez.com^
 ||city.tl^
-||cityhotel.club^
 ||cixx6.com^
 ||ciy.de^
 ||cl.gp^
@@ -437,7 +433,6 @@
 ||da.ru^
 ||daftpage.com^
 ||datesize.top^
-||datingpm.club^
 ||dax.ru^
 ||ddl2.pl^
 ||de.cm^
@@ -456,7 +451,6 @@
 ||dimsolo.com^
 ||dinamikajambi.com^
 ||dnip.net^
-||doctorfew.top^
 ||domain.lc^
 ||members.domaindlx.com^
 ||doodlekit.com^
@@ -495,7 +489,6 @@
 ||elementfx.com^
 ||emyspot.com^
 ||english.lc^
-||englishset.club^
 ||entekpartners.com^
 ||enterprisedeliveries.com^
 ||envy.nu^
@@ -528,6 +521,7 @@
 ||ezblogz.com^
 ||ezyro.com^
 ||f11.us^
+||facepl.com^
 ||familylobby.com^
 ||fast-page.org^
 ||fat-fly.com^
@@ -604,7 +598,6 @@
 ||fw.hu^
 ||game.lc^
 ||gaming.lc^
-||gamingadd.club^
 ||gearhostpreview.com^
 ||gerentebr.com^
 ||getenjoyment.net^
@@ -616,7 +609,6 @@
 ||glitch.me^
 ||sp.gname.net^
 ||godaddysites.com^
-||godfrance.club^
 ||gofreeserve.com^
 ||googletagmanagers.com^
 ||gr.gp^
@@ -640,7 +632,6 @@
 ||hilfe24h.de^
 ||hinerava.com^
 ||hkearth.xyz^
-||hklevel.club^
 ||home.lc^
 ||homemarker.com^
 ||homepage.cx^
@@ -651,6 +642,7 @@
 ||hostfree.pw^
 ||hostingas.in^
 ||hostingsiteforfree.com^
+||hostkda.com^
 ||hostland.pro^
 ||hostseba.com^
 ||hot.lc^
@@ -753,8 +745,8 @@
 ||kz.gp^
 ||l.gp^
 ||l4n.org^
+||l8n5kafm6l.net^
 ||laden.biz^
-||laexchange.top^
 ||land.to^
 ||launchaco.com^
 ||leaguelineup.com^
@@ -769,7 +761,6 @@
 ||live2.de^
 ||liveblog365.com^
 ||livehost.fr^
-||liveplan.club^
 ||logdown.com^
 ||look.in^
 ||loveslife.biz^
@@ -801,7 +792,7 @@
 ||mobi.ps^
 ||mobinteg.com^
 ||mochahost.com^
-||moneylower.top^
+||moneyash.top^
 ||mp3.cr^
 ||mpeblog.com^
 ||muf.mobi^
@@ -889,14 +880,12 @@
 ||parknhost.com^
 ||party.lc^
 ||pc.lc^
-||pcbusiness.club^
 ||pcriot.com^
 ||pe.gp^
 ||pe.hu^
 ||perfektionieren.de^
 ||perl.sh^
 ||ph.gp^
-||phonecode.club^
 ||photos.lc^
 ||phpnet.org^
 ||phpnet.us^
@@ -914,7 +903,6 @@
 ||populr.me^
 ||portal.lc^
 ||postbit.com^
-||pressname.club^
 ||preview-domain.com^
 ||primetap.com^
 ||privat.lc^
@@ -935,11 +923,9 @@
 ||qu.am^
 ||quiztionnaire.uk^
 ||r.gp^
-||radiola.club^
 ||re2.de^
 ||reco.ws^
 ||regruhosting.ru^
-||rentvalues.biz^
 ||rf.gd^
 ||ro.gp^
 ||royal-host.com^
@@ -999,10 +985,8 @@
 ||solidwebhost.com^
 ||somee.com^
 ||sophiashantidaniel.com^
-||soundtrue.club^
 ||soup.io^
 ||space.lc^
-||spaceplay.top^
 ||sport-pro.de^
 ||sportsontheweb.net^
 ||spruz.com^
@@ -1045,7 +1029,6 @@
 ||timeforchangecounselling.com^
 ||tld.cc^
 ||tmweb.ru^
-||tokyoca.top^
 ||top.lc^
 ||top.tc^
 ||top8.com^
@@ -1094,7 +1077,6 @@
 ||usafreespace.com^
 ||usclargo.com^
 ||user.lc^
-||ussource.club^
 ||uz.gp^
 ||uzblog.net^
 ||v.gp^
@@ -1179,7 +1161,6 @@
 ||welt.tl^
 ||wiki.lc^
 ||will-dich.eu^
-||workplan.club^
 ||world.mu^
 ||world-blog.de^
 ||world-store.de^
@@ -1216,7 +1197,6 @@
 ||yola.com^
 ||yooco.org^
 ||you.lc^
-||yourbar.club^
 ||yourdomain.com^
 ||yourfreehosting.net^
 ||yourjavascript.com^
