@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Apr 2026 08:47 UTC
-! Version: 2026.0418.0847.32
+! Last modified: 11 Apr 2026 18:37 UTC
+! Version: 2026.0411.1837.39
 ! Syntax: AdBlock
 ! Number of entries: 1202
 !
@@ -228,7 +228,6 @@
 ||blogger.ba^
 ||blogger.hu^
 ||blogginger.com^
-||bloggplatsen.se^
 ||bloggt.de^
 ||blogia.com^
 ||blogmaster.net^
@@ -632,6 +631,7 @@
 ||hexe.in^
 ||hilfe24h.de^
 ||hinerava.com^
+||hkearth.xyz^
 ||home.lc^
 ||homemarker.com^
 ||homepage.cx^
