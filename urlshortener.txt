@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Apr 2026 16:56 UTC
-! Version: 2026.0424.1656.40
+! Last modified: 02 May 2026 16:57 UTC
+! Version: 2026.0502.1657.35
 ! Syntax: AdBlock
-! Number of entries: 9979
+! Number of entries: 9970
 !
 ||0.gp^
 ||00m.in^
@@ -82,7 +82,6 @@
 ||1cl.be^
 ||1cl.me^
 ||1clix.in^
-||1da.ir^
 ||1dietplans.com^
 ||1do.me^
 ||1drv.ms^
@@ -133,7 +132,6 @@
 ||1url.my^
 ||1url.re^
 ||1url.vn^
-||1vk.net^
 ||1west.io^
 ||1wn.bz^
 ||1xfn.tech^
@@ -363,7 +361,6 @@
 ||7ny.tv^
 ||7oi.de^
 ||7or.net^
-||7vd.cn^
 ||7z.si^
 ||8.ly^
 ||8591.tw^
@@ -414,7 +411,6 @@
 ||a360.co^
 ||a38.fr^
 ||a3st.in^
-||a4k.co^
 ||a4r.at^
 ||a4u.me^
 ||a8s.app^
@@ -589,7 +585,6 @@
 ||aighy.com^
 ||go.aim.edu^
 ||aim2.cc^
-||aimetath.com^
 ||aimqr.com^
 ||aintok.com^
 ||ainurl.pro^
@@ -629,7 +624,6 @@
 ||akunss.com^
 ||akunsu.com^
 ||akunvip.top^
-||akunvip.win^
 ||akunwso.gratis^
 ||al.st^
 ||al4.dev^
@@ -744,6 +738,7 @@
 ||anmeld.biz^
 ||annabelparr.com^
 ||annah.ar^
+||annoyingnightmareedit.com^
 ||anon.to^
 ||anonshort.com^
 ||anp.su^
@@ -779,7 +774,6 @@
 ||app.link^
 ||eventogo.app.br^
 ||redirect.app.br^
-||vstag.app.br^
 ||appbitly.com^
 ||appcurt.com^
 ||kutt.appinn.com^
@@ -908,7 +902,6 @@
 ||avydn.co^
 ||awactools.com^
 ||awc.li^
-||awenje.com^
 ||aws.tl^
 ||aws3.link^
 ||aws3-demo.link^
@@ -929,7 +922,6 @@
 ||ayuk.link^
 ||ayzyu.com^
 ||azc.cc^
-||azhfoom.com^
 ||azipurl.app^
 ||azipurl.com^
 ||azlink.me^
@@ -970,6 +962,7 @@
 ||r.babscon.com^
 ||bacn.me^
 ||go.badarinathgella.com^
+||baggyrepackingrocky.com^
 ||bagi.link^
 ||bagneed.com^
 ||baid.us^
@@ -1057,7 +1050,6 @@
 ||shortin.besquares.net^
 ||bestbet1000.xyz^
 ||us.bestbrains.com^
-||bestshortlink.com^
 ||go.betnacional.bet.br^
 ||betaloop.io^
 ||betaxfree.net^
@@ -1181,7 +1173,6 @@
 ||bitlyvi.com^
 ||bitlz.cc^
 ||bitq.link^
-||bitradex.net^
 ||bitri.link^
 ||bitshort.vip^
 ||bitshrt.com^
@@ -1276,7 +1267,6 @@
 ||boarfishesquandangsunderdried.com^
 ||boclinkvn.net^
 ||bofh.us^
-||bofo.ly^
 ||boi.re^
 ||boile.rs^
 ||bola.mx^
@@ -1337,7 +1327,6 @@
 ||bre.is^
 ||brendan.fyi^
 ||brev.ws^
-||breve.bio^
 ||brevelink.com^
 ||brever.link^
 ||brevi.space^
@@ -3030,6 +3019,7 @@
 ||getblue.me^
 ||getcode.pw^
 ||getf.ly^
+||getfinefile.com^
 ||geti.in^
 ||getlasso.co^
 ||getlickd.com^
@@ -5454,6 +5444,7 @@
 ||nanourl.org^
 ||nanuba.com^
 ||napmkt.com^
+||narilyhukelpfulin.com^
 ||narrowurl.com^
 ||go.nasa.gov^
 ||nashcapernaum.org^
