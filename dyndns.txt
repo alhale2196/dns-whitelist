@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Apr 2026 16:54 UTC
-! Version: 2026.0424.1654.23
+! Last modified: 09 May 2026 09:35 UTC
+! Version: 2026.0509.0935.24
 ! Syntax: AdBlock
-! Number of entries: 1480
+! Number of entries: 1479
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -102,6 +102,7 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||b0tnet.com^
 ||b33r.us^
@@ -526,7 +527,6 @@
 ||freeddns.us^
 ||freedynamicdns.net^
 ||freedynamicdns.org^
-||freehost000.xyz^
 ||freemyip.com^
 ||freesa.org^
 ||freetcp.com^
@@ -1384,7 +1384,6 @@
 ||twsuser.com^
 ||tzo.com^
 ||ucvradio.cl^
-||udp64.de^
 ||ufcfan.org^
 ||ufodns.com^
 ||ugo.si^

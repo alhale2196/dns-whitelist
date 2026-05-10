@@ -6,15 +6,20 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 May 2026 18:18 UTC
-! Version: 2026.0502.1818.54
+! Last modified: 09 May 2026 18:12 UTC
+! Version: 2026.0509.1812.03
 ! Syntax: AdBlock
-! Number of entries: 1316
+! Number of entries: 1328
 !
 ||000a.de^
+||000free.us^
+||000nethost.com^
 ||000space.com^
+||000webapp.com^
 ||000webhost.com^
+||000webhost.fr^
 ||000webhostapp.com^
+||000worldwide.com^
 ||00author.com^
 ||00freehost.com^
 ||00go.com^
@@ -251,7 +256,6 @@
 ||bloggactif.com^
 ||bloggazzo.com^
 ||blogger.ba^
-||blogger.com^
 ||blogger.hu^
 ||bloggerchest.com^
 ||bloggin-ads.com^
@@ -463,6 +467,7 @@
 ||comunidades.net^
 ||comxa.com^
 ||conohawing.com^
+||convertri.com^
 ||cool.hn^
 ||cool.lc^
 ||coolfreepages.com^
@@ -473,6 +478,7 @@
 ||3-89-181-9.cprapid.com^
 ||sitebeat.crazydomains.com^
 ||creacionblog.com^
+||created.app^
 ||creatorlink.net^
 ||cryptonight.net^
 ||cs-clan.org^
@@ -672,6 +678,7 @@
 ||getenjoyment.net^
 ||getresponsesite.com^
 ||gg123.vip^
+||ghost.io^
 ||gilde.in^
 ||gildenseite.de^
 ||girlsense.com^
@@ -712,6 +719,7 @@
 ||hostedforfree.com^
 ||hostfree.pw^
 ||hostingas.in^
+||hostingersite.com^
 ||hostingsiteforfree.com^
 ||hostkda.com^
 ||hostland.pro^
@@ -737,6 +745,7 @@
 ||i.gp^
 ||ibiz.cc^
 ||iblogger.org^
+||ic0.app^
 ||iceiy.com^
 ||id.gp^
 ||idiot24.de^
@@ -852,6 +861,7 @@
 ||lspmr.org^
 ||lu.kg^
 ||luzzati.com^
+||tripod.lycos.de^
 ||tripod.lycos.it^
 ||m.vu^
 ||ma.gp^
@@ -869,7 +879,6 @@
 ||mex.tl^
 ||mforos.com^
 ||miarroba.com^
-||mindnmagick.com^
 ||mit-wenig-geld.de^
 ||mixh.jp^
 ||mmm.page^
@@ -964,6 +973,7 @@
 ||p2blogs.com^
 ||page.tl^
 ||page4.me^
+||pagedemo.co^
 ||pages10.com^
 ||pancake.run^
 ||parknhost.com^
@@ -1019,12 +1029,12 @@
 ||re2.de^
 ||reco.ws^
 ||regruhosting.ru^
+||reodev.com^
 ||review-blogger.com^
 ||rf.gd^
 ||ro.gp^
 ||royal-host.com^
 ||rozblog.com^
-||rssing.com^
 ||ru.cm^
 ||ru.gp^
 ||ru.nu^
@@ -1057,7 +1067,6 @@
 ||share.lc^
 ||sharkserve.com^
 ||blog.shinobi.jp^
-||shivtr.com^
 ||shop.co^
 ||shop.fm^
 ||shop-pro.jp^
@@ -1089,6 +1098,7 @@
 ||spruz.com^
 ||srv1.org^
 ||start.lc^
+||start.page^
 ||startertjes.nl^
 ||sth.nz^
 ||stormloader.com^
@@ -1149,6 +1159,7 @@
 ||tusblogos.com^
 ||tw.gp^
 ||tw1.ru^
+||twc1.net^
 ||u.gp^
 ||ua.gp^
 ||ubpages.com^
@@ -1179,7 +1190,6 @@
 ||us.st^
 ||usa.gg^
 ||usafreespace.com^
-||usclargo.com^
 ||user.lc^
 ||uz.gp^
 ||uzblog.net^
@@ -1272,6 +1282,7 @@
 ||wiki.lc^
 ||will-dich.eu^
 ||wixapps.net^
+||example-website.work.gd^
 ||world.mu^
 ||world-blog.de^
 ||world-store.de^
@@ -1318,6 +1329,7 @@
 ||za.gp^
 ||awi.za.com^
 ||ishg.za.com^
+||zapier.app^
 ||zoekvinden.nl^
 ||zohosites.com^
 ||zoomshare.com^
