@@ -6,19 +6,19 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 May 2026 01:15 UTC
-! Version: 2026.0524.0115.57
+! Last modified: 30 May 2026 10:17 UTC
+! Version: 2026.0530.1017.45
 ! Syntax: AdBlock
-! Number of entries: 1017
+! Number of entries: 1027
 !
 ||one4u.0lx.net^
 ||free.bizhat.com^
 ||24.co.at^
 ||all.co.uk^
 ||atpcf.co.uk^
-||qrgen.co.uk^
 ||thamboli.co.za^
 ||biolink.com.do^
+||blogspot.com.br^
 ||blogspot.com.es^
 ||kl.com.ua^
 ||zzz.com.ua^
@@ -37,6 +37,7 @@
 ||000.pe^
 ||000a.de^
 ||000free.us^
+||000nethost.com^
 ||000webhost.com^
 ||000webhost.fr^
 ||000webhostapp.com^
@@ -322,6 +323,7 @@
 ||cs-clan.org^
 ||ct.ws^
 ||ct8.pl^
+||ctempurl.com^
 ||cul.ke^
 ||curryfielddistribution.com^
 ||cut.vin^
@@ -516,7 +518,6 @@
 ||hellokity.xyz^
 ||hexe.in^
 ||hilfe24h.de^
-||hiurls.com^
 ||hk6vdj4z.click^
 ||home.lc^
 ||homemarker.com^
@@ -557,6 +558,7 @@
 ||inbox24.net^
 ||inbox24.org^
 ||inddrive.com^
+||infinityfree.me^
 ||infinityfreeapp.com^
 ||info.cm^
 ||info.nu^
@@ -577,6 +579,7 @@
 ||ir.gp^
 ||is-alive.de^
 ||is-best.net^
+||is-great.org^
 ||ispot.cc^
 ||ist-ok.de^
 ||it.gp^
@@ -627,6 +630,7 @@
 ||liftmyresume.com^
 ||lined.cloud^
 ||linkat.me^
+||linkfast.me^
 ||linkk.ing^
 ||linkme.vn^
 ||links.lc^
@@ -677,14 +681,17 @@
 ||musik.lc^
 ||mx.gp^
 ||my.gp^
+||my-board.org^
 ||my-free.website^
 ||my-place.us^
+||my5353.com^
 ||myartsonline.com^
 ||myblogvoice.com^
 ||mybluehost.me^
 ||mybluehostin.me^
 ||myclickfunnels.com^
 ||mycpanel.rs^
+||mydiscussion.net^
 ||myeweb.net^
 ||myfoolmoon.com^
 ||myfreesites.net^
@@ -730,13 +737,13 @@
 ||on.gp^
 ||on.lc^
 ||on-air.de^
-||onbit.pro^
 ||online.cm^
 ||online.cr^
 ||online.gp^
 ||online.ly^
 ||online.tc^
 ||online-net.de^
+||onlineweb.shop^
 ||onlinewebshop.net^
 ||only4u.eu^
 ||onmbl.com^
@@ -797,6 +804,7 @@
 ||qu.am^
 ||r.gp^
 ||r-e.kr^
+||rapidshare.se^
 ||rbrandly.com^
 ||rdrclk.com^
 ||re2.de^
@@ -820,6 +828,7 @@
 ||search.gp^
 ||securebankinggroup.com^
 ||securebankinggroup.org^
+||secureonline.store^
 ||seite.com^
 ||seite.info^
 ||seite.ru^
@@ -832,7 +841,6 @@
 ||server3.eu^
 ||service.lc^
 ||share.lc^
-||shareease.link^
 ||sharkserve.com^
 ||shoort.ch^
 ||shop.fm^
@@ -849,6 +857,7 @@
 ||sitepalace.com^
 ||skul.de^
 ||sms.cr^
+||smsu.io^
 ||snapurl.to^
 ||snifferip.com^
 ||solidwebhost.com^
@@ -878,6 +887,7 @@
 ||team.cx^
 ||team.tl^
 ||teamzonesports.com^
+||tehno-politen.ru^
 ||tempisite.com^
 ||temporary.site^
 ||temporary-demo.site^
@@ -904,6 +914,7 @@
 ||trackfinanceworld.com^
 ||trend.in^
 ||tribalpages.com^
+||trim.ac^
 ||tripod.com^
 ||tryurl.io^
 ||turkish.lc^
@@ -929,7 +940,6 @@
 ||url-short.me^
 ||urlaub.lc^
 ||urllink.live^
-||urlto.me^
 ||urlz.gr^
 ||us.nf^
 ||us.st^
