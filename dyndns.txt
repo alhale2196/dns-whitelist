@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 May 2026 10:07 UTC
-! Version: 2026.0524.1007.58
+! Last modified: 12 Jun 2026 15:41 UTC
+! Version: 2026.0612.1541.05
 ! Syntax: AdBlock
-! Number of entries: 1490
+! Number of entries: 1506
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -28,7 +28,9 @@
 ||dynamicdns.org.uk^
 ||limit.org.uk^
 ||h4g3z1-dyndns.web.app^
+||dyndns.za.org^
 ||0000000000000000000000.com^
+||0rg.us^
 ||0x.no^
 ||100mountain.com^
 ||10dv.com^
@@ -114,11 +116,13 @@
 ||ath.cx^
 ||atlantatruckdrivingschool.us^
 ||auraria.org^
+||australia.ai^
 ||authorizeddns.net^
 ||authorizeddns.org^
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||b0tnet.com^
 ||b33r.us^
@@ -186,6 +190,7 @@
 ||changeip.biz^
 ||changeip.co^
 ||changeip.com^
+||changeip.me^
 ||changeip.name^
 ||changeip.net^
 ||changeip.org^
@@ -220,6 +225,7 @@
 ||cloudns.pro^
 ||cloudwatch.net^
 ||cloudxns.net^
+||cmirg.com^
 ||cnstefancelmare.ro^
 ||coalnet.ru^
 ||codns.com^
@@ -264,6 +270,7 @@
 ||ddns-dvr.com^
 ||ddns-ip.net^
 ||ddns5.com^
+||ddnsapp.com^
 ||ddnsfree.com^
 ||ddnsgeek.com^
 ||ddnsguru.com^
@@ -285,6 +292,7 @@
 ||dhs.org^
 ||digikabel.hu^
 ||digitalgroupe.com^
+||dip.jp^
 ||diskstation.eu^
 ||diskstation.me^
 ||diskstation.org^
@@ -347,6 +355,7 @@
 ||doomdns.com^
 ||doomdns.org^
 ||dougtreadwell.com^
+||doyleandprendergast.com^
 ||dp76.com^
 ||dpcube.com^
 ||dray-dns.de^
@@ -360,6 +369,7 @@
 ||dsmynas.net^
 ||dsmynas.org^
 ||dtdns.com^
+||dtdns.net^
 ||dtdns.org^
 ||dubya.info^
 ||dubya.net^
@@ -438,6 +448,7 @@
 ||dynnamn.ru^
 ||dynns.com^
 ||dyns.be^
+||dyns.cx^
 ||dyns.net^
 ||dynserv.org^
 ||dynssl.com^
@@ -494,6 +505,7 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
+||evils.in^
 ||expired-dns.com^
 ||ez-dns.com^
 ||ez-ip.net^
@@ -533,6 +545,7 @@
 ||fortiddns.com^
 ||forumz.info^
 ||fragmentary.info^
+||free-ddns.com^
 ||freeddns.com^
 ||freeddns.org^
 ||freeddns.uk^
@@ -608,6 +621,7 @@
 ||game-host.org^
 ||game-server.cc^
 ||garmanage.com^
+||garypatel.com^
 ||gastright.com^
 ||geekgalaxy.com^
 ||geobattery.com^
@@ -747,6 +761,7 @@
 ||ipnodns.ru^
 ||ipq.co^
 ||iprowave.com^
+||ipupdater.com^
 ||ipv64.de^
 ||ipv64.net^
 ||is-a-anarchist.com^
@@ -1271,6 +1286,7 @@
 ||sexxxy.biz^
 ||shacknet.biz^
 ||shacknet.us^
+||shadir.com^
 ||sharkltd.com^
 ||sheatfish.org^
 ||sheepindonesia.org^
