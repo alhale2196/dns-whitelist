@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jun 2026 15:41 UTC
-! Version: 2026.0612.1541.05
+! Last modified: 15 Jun 2026 22:34 UTC
+! Version: 2026.0615.2234.49
 ! Syntax: AdBlock
-! Number of entries: 1506
+! Number of entries: 1517
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -1148,6 +1148,7 @@
 ||peregrineair.com^
 ||pgafan.net^
 ||phenixs.org^
+||photo-cult.com^
 ||photo-frame.com^
 ||php-dev.net^
 ||pics.mu^
@@ -1167,6 +1168,7 @@
 ||port25.biz^
 ||portfwd.com^
 ||portmap.host^
+||portrelay.com^
 ||possessed.us^
 ||prettyweak.com^
 ||priamaakcia.sk^
@@ -1187,6 +1189,7 @@
 ||ptchat.net^
 ||publicvm.com^
 ||pudim.info^
+||punked.us^
 ||qc.to^
 ||qhigh.com^
 ||qlbv.vn^
@@ -1216,6 +1219,7 @@
 ||root64.de^
 ||roth.ca^
 ||route64.de^
+||routemehome.com^
 ||roxa.org^
 ||rpz.su^
 ||rtam.net^
@@ -1320,6 +1324,8 @@
 ||space-to-rent.com^
 ||spacetechnology.net^
 ||spdns.de^
+||spdns.eu^
+||spdns.org^
 ||spdyn.de^
 ||spectrumnet.bg^
 ||spelar.se^
@@ -1356,6 +1362,7 @@
 ||synology-diskstation.de^
 ||synology-ds.de^
 ||synoserver.com^
+||syntereo.com^
 ||sysadminetworks.com^
 ||system-ns.com^
 ||systes.net^
@@ -1387,6 +1394,7 @@
 ||thingsnewandused.com^
 ||thruhere.net^
 ||tinyrealm.com^
+||tobuy.us^
 ||toh.info^
 ||topdns.com^
 ||topsddns.net^
@@ -1436,6 +1444,7 @@
 ||venez.net^
 ||verymad.net^
 ||viamisoftware.com^
+||vicinanza.org^
 ||vicp.cc^
 ||vicp.net^
 ||vietnamddns.com^
@@ -1456,6 +1465,7 @@
 ||wakingmoon.com^
 ||wan64.de^
 ||wanip.ch^
+||warp9computers.com^
 ||webhop.biz^
 ||webhop.info^
 ||webhop.me^
@@ -1484,6 +1494,7 @@
 ||writesthisblog.com^
 ||www1.biz^
 ||wwwhost.biz^
+||wwwhost.us^
 ||x24hr.com^
 ||x443.pw^
 ||xddns.de^
