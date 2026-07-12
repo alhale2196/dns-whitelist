@@ -10,8 +10,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jul 2026 14:40 UTC
-! Version: 2026.0703.1440.31
+! Last modified: 10 Jul 2026 10:55 UTC
+! Version: 2026.0710.1055.59
 ! Syntax: AdGuard
 ! Number of latin TLDs: 294 - punycode TLDs: 151
 !
@@ -25,7 +25,7 @@
 ||*.autos^
 ||*.baby^
 ||*.band^$denyallow=flying-circus.band
-||*.bar^$denyallow=bolero.bar|brexx.bar|einhorn.bar|ethics.bar|fap.bar|hai.bar|herz.bar|mavie.bar|metro.bar|reit.bar|strem.bar|voi.bar
+||*.bar^$denyallow=bestell.bar|bolero.bar|brexx.bar|einhorn.bar|ethics.bar|fap.bar|hai.bar|herz.bar|mavie.bar|metro.bar|reit.bar|strem.bar|voi.bar
 ||*.beauty^
 ||*.beer^$denyallow=amphi.beer
 ||*.best^$denyallow=catboy.best|epg.best|xhamster.best
@@ -33,7 +33,7 @@
 ||*.bid^
 ||*.bike^$denyallow=dat.bike|lime.bike|onlinesizing.bike|rapido.bike
 ||*.bingo^
-||*.biz^$denyallow=anonymurl.biz|antiphishing.biz|asana.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|dailyinnovation.biz|engelliler.biz|epson.biz|ette.biz|figureit.biz|gamesindustry.biz|giftee.biz|gimmeporn.biz|hb.biz|ifext.biz|iimwf.biz|kioskcms.biz|knuddels.biz|line.biz|localise.biz|luckysbarbershop.biz|meetbot.biz|movabletype.biz|mysubwaytoolbox.biz|netcetera.biz|notebookcheck.biz|ooshahwa.biz|panasonic.biz|slussen.biz|surveycake.biz|turbify.biz|volvocars.biz|wiz.biz|wspay.biz|wyborcza.biz|yoox.biz
+||*.biz^$denyallow=anonymurl.biz|antiphishing.biz|asana.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|dailyinnovation.biz|engelliler.biz|epson.biz|ette.biz|figureit.biz|gamesindustry.biz|giftee.biz|gimmeporn.biz|hb.biz|ifext.biz|iimwf.biz|kioskcms.biz|knuddels.biz|line.biz|localise.biz|luckysbarbershop.biz|meetbot.biz|movabletype.biz|mysubwaytoolbox.biz|netcetera.biz|notebookcheck.biz|ooshahwa.biz|panasonic.biz|slussen.biz|surveycake.biz|turbify.biz|volvocars.biz|wiz.biz|wspay.biz|wyborcza.biz|yoox.biz|yougame.biz
 ||*.black^
 ||*.blue^$denyallow=niim.blue
 ||*.boats^
@@ -257,7 +257,7 @@
 ||*.sport^$denyallow=dyn.sport
 ||*.srl^
 ||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|cnckitchen.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|hom.store|immich.store|iqunix.store|myexpresscarwash.store|myshopline.store|pbshop.store|peugeot.store|pyrocynical.store|roble.store|rokomari.store|shoplazza.store|shopware.store|sofascore.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store|xqc.store
-||*.studio^$denyallow=affinity.studio|ai.studio|firebase.studio|flourish.studio|starapps.studio|woodsea.studio|zenn.studio
+||*.studio^$denyallow=affinity.studio|ai.studio|firebase.studio|flourish.studio|starapps.studio|tivio.studio|woodsea.studio|zenn.studio
 ||*.style^$denyallow=nebula.style|primer.style|shiki.style
 ||*.su^$denyallow=encode.su|jpg4.su|jpg6.su|promportal.su|saint2.su
 ||*.support^$denyallow=ada.support|jitsi.support|windrose.support
