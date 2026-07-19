@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jul 2026 14:48 UTC
-! Version: 2026.0706.1448.01
+! Last modified: 17 Jul 2026 22:49 UTC
+! Version: 2026.0717.2249.42
 ! Syntax: AdBlock
-! Number of entries: 1517
+! Number of entries: 1522
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -252,6 +252,7 @@
 ||cupddns.net^
 ||custom-gaming.net^
 ||cw03.ru^
+||cybertv.tv^
 ||d-n-s.name^
 ||d2g.biz^
 ||dagz.ru^
@@ -349,6 +350,7 @@
 ||doesntexist.com^
 ||doesntexist.org^
 ||donhoo.com^
+||donkeyhot.net^
 ||dontexist.com^
 ||dontexist.net^
 ||dontexist.org^
@@ -931,6 +933,7 @@
 ||logisoft-cy.com^
 ||logular.com^
 ||longmusic.com^
+||loophole.site^
 ||loseyourip.com^
 ||lospenitentes.com^
 ||lostgumball.com^
@@ -958,6 +961,7 @@
 ||midjava.com^
 ||migibts.net^
 ||mikata.ru^
+||mikecartwright.net^
 ||mil.nf^
 ||mindhackers.org^
 ||mine.bz^
@@ -1231,6 +1235,7 @@
 ||ryointernational.com^
 ||sandmeiers.ch^
 ||sannon-stamm.com^
+||sarah-lai.com^
 ||saves-the-whales.com^
 ||scay.net^
 ||scottlewisonline.com^
