@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Jul 2026 22:49 UTC
-! Version: 2026.0717.2249.42
+! Last modified: 23 Jul 2026 22:51 UTC
+! Version: 2026.0723.2251.42
 ! Syntax: AdBlock
-! Number of entries: 1522
+! Number of entries: 1524
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -247,6 +247,7 @@
 ||crabdance.com^
 ||crackedsidewalks.com^
 ||crafting.xyz^
+||crazedns.ru^
 ||csproject.org^
 ||cuesinc.com^
 ||cupddns.net^
@@ -1067,6 +1068,7 @@
 ||nerdpol.ovh^
 ||net-freaks.com^
 ||netcabo.pt^
+||netcraze.pro^
 ||netdorm.com^
 ||netlord.de^
 ||netmask.ca^

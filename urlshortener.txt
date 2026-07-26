@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Jul 2026 17:58 UTC
-! Version: 2026.0718.1758.03
+! Last modified: 24 Jul 2026 09:57 UTC
+! Version: 2026.0724.0957.05
 ! Syntax: AdBlock
-! Number of entries: 10020
+! Number of entries: 10031
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -1088,6 +1088,7 @@
 ||2no.co^
 ||2nu.gs^
 ||2one.in^
+||2osb.com^
 ||2pl.us^
 ||2pu.sh^
 ||2qr.bz^
@@ -2502,6 +2503,7 @@
 ||clickbase.pro^
 ||clickbio.co^
 ||clicke.me^
+||clickgenee.com^
 ||clickhub.cc^
 ||clicklink.dev^
 ||clicklinkearn.com^
@@ -3033,6 +3035,7 @@
 ||dropl.link^
 ||droplr.net^
 ||dropmylinks.com^
+||drrop.cc^
 ||drte.co^
 ||druuz.com^
 ||drw.sh^
@@ -3783,6 +3786,7 @@
 ||goo2.pro^
 ||goo2url.com^
 ||goodmoejo.art^
+||goodpics.net^
 ||goodwinlink.com^
 ||google-url.com^
 ||googleidmaps.live^
@@ -4374,6 +4378,7 @@
 ||jagoan-hosting.online^
 ||jalanku.me^
 ||jalanpintas4d.com^
+||jali.me^
 ||jalurvip.co^
 ||jalurwild.win^
 ||jame.sn^
@@ -4426,6 +4431,7 @@
 ||jkf.lv^
 ||jks.bio^
 ||jktc.pro^
+||jm-88.cc^
 ||jmal.top^
 ||jmeet.io^
 ||jmp.ad^
@@ -4874,6 +4880,7 @@
 ||link4.net^
 ||link4earn.com^
 ||link4u.uk^
+||link64xx.com^
 ||link888.me^
 ||linka.li^
 ||linkabc.net^
@@ -6167,6 +6174,7 @@
 ||onlybiolinks.com^
 ||onmeto.net^
 ||onn.to^
+||onne.link^
 ||onon.in^
 ||onschool.io^
 ||ontwig.com^
@@ -9495,6 +9503,7 @@
 ||webi.li^
 ||webinfos.info^
 ||weblink.biz^
+||webls.net^
 ||webmienphi.net^
 ||webn.in^
 ||webproject.pt^
@@ -9670,6 +9679,7 @@
 ||x89.us^
 ||xaddr.com^
 ||xailr.com^
+||xavo.wtf^
 ||xb5.com^
 ||xbig.info^
 ||xbitly.com^
@@ -10037,4 +10047,5 @@
 ||zz3.co^
 ||zzb.bz^
 ||zzlinks.com^
+||zzlocalsquared.com^
 ||zzu.info^

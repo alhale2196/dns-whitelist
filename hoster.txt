@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Jul 2026 07:38 UTC
-! Version: 2026.0718.0738.05
+! Last modified: 23 Jul 2026 18:56 UTC
+! Version: 2026.0723.1856.51
 ! Syntax: AdBlock
-! Number of entries: 1238
+! Number of entries: 1240
 !
 ||one4u.0lx.net^
 ||free.bizhat.com^
@@ -274,6 +274,7 @@
 ||blogspot.ca^
 ||blogspot.ch^
 ||blogspot.cl^
+||blogspot.com^
 ||blogspot.cz^
 ||blogspot.de^
 ||blogspot.dk^
@@ -299,10 +300,12 @@
 ||blogspot.pe^
 ||blogspot.pl^
 ||blogspot.pt^
+||blogspot.qa^
 ||blogspot.rs^
 ||blogspot.ru^
 ||blogspot.se^
 ||blogspot.sg^
+||blogspot.si^
 ||blogspot.sk^
 ||blogspot.sn^
 ||blogspot.tw^
@@ -316,7 +319,6 @@
 ||builderall.net^
 ||builtfree.org^
 ||bulkurlshortener.com^
-||business.site^
 ||business-minagne.com^
 ||bx5.de^
 ||byethost.com^
