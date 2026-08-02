@@ -185,6 +185,7 @@
 @@||aylink.co^
 @@||banners.livepartners.com^
 @@||banners.netbet.gr^
+@@||bapi*.moengage.com^
 @@||bcp.crwdcntrl.net^
 @@||bdash-tracking.com^
 @@||beacon.bcn.to^
@@ -211,6 +212,7 @@
 @@||c*.piano.io^
 @@||c.apple.com^
 @@||c.hubz.pl^
+@@||c.kakaku.com^
 @@||c.msn.com^
 @@||c.neqty.net^
 @@||c.nexinsight.com.ua^
@@ -232,13 +234,14 @@
 @@||cjads.com^
 @@||ck.hdm3.in^
 @@||cl.adosiz.net^
-@@||cl.exct.net^
+@@||cl*.exct.net^
 @@||clc.wargaming.net^
 @@||clck-*.clickpatrol.com^
 @@||clck.ru^
 @@||clck.wargaming.net^
 @@||clck.yandex.ru^
 @@||clckptrl.com^
+@@||clcktrck.com^
 @@||click*.redbrain.com^
 @@||click*.taobao.com^
 @@||click-tracking.klarna.net^
@@ -931,3 +934,4 @@
 @@||xg4ken.com^
 @@||xprrtupdate.com^
 @@||yellowbook.com^
+@@||callback.api.qgraph.io^
