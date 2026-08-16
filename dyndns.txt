@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Aug 2026 02:51 UTC
-! Version: 2026.0806.0251.22
+! Last modified: 15 Aug 2026 08:22 UTC
+! Version: 2026.0815.0822.33
 ! Syntax: AdBlock
-! Number of entries: 1524
+! Number of entries: 1519
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -64,17 +64,13 @@
 ||4twenty.us^
 ||64-b.it^
 ||688.org^
-||77qac.com^
 ||77uam.com^
-||77ynd.com^
-||79ama.com^
-||88uan.com^
 ||88zkt.com^
-||99tac.com^
 ||aa.am^
 ||abatek.com^
 ||abmetalmecanica.com^
 ||abrdns.com^
+||abuser.eu^
 ||access.ly^
 ||accesscam.org^
 ||acmetoy.com^
@@ -1178,7 +1174,6 @@
 ||prettyweak.com^
 ||priamaakcia.sk^
 ||pride.moe^
-||pride.ngo^
 ||privatedns.com^
 ||privatedns.org^
 ||privateimport.jp^
