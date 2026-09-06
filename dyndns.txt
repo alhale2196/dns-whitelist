@@ -1,15 +1,15 @@
 [Adblock Plus]
-! Title: HaGeZi's DynDNS Blocklist
-! Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
+! Title: HaGeZi's DynDNS - guards against dynamic DNS abuse!
+! Description: Blocks dynamic DNS services that get abused for phishing campaigns and other shady activity.
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-! Expires: 1 day
-! Last modified: 25 Aug 2026 23:31 UTC
-! Version: 2026.0825.2331.41
+! Expires: 8 hours
+! Last modified: 02 Sep 2026 08:39 UTC
+! Version: 2026.0902.0839.18
 ! Syntax: AdBlock
-! Number of entries: 1540
+! Number of entries: 1534
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -86,7 +86,6 @@
 ||allowed.org^
 ||almostmy.com^
 ||americanunfinished.com^
-||amsprich.com^
 ||anal-slavery.com^
 ||anastasion.com^
 ||aneisa.com^
@@ -168,7 +167,6 @@
 ||briansagar.com^
 ||broke-it.net^
 ||brweb.org^
-||bsn2bsn.com^
 ||bumbleshrimp.com^
 ||burlingtondrywall.com^
 ||buyshouses.net^
@@ -223,7 +221,6 @@
 ||cloudns.pro^
 ||cloudwatch.net^
 ||cloudxns.net^
-||cmirg.com^
 ||cnstefancelmare.ro^
 ||coalnet.ru^
 ||codns.com^
@@ -1243,12 +1240,10 @@
 ||run.place^
 ||rundis.com^
 ||ruok.org^
-||russkoeumea.com^
 ||rwbcode.com^
 ||ryointernational.com^
 ||sandmeiers.ch^
 ||sannon-stamm.com^
-||sarah-lai.com^
 ||saves-the-whales.com^
 ||scay.net^
 ||scottlewisonline.com^
@@ -1375,7 +1370,6 @@
 ||stuns.org^
 ||sumibi.org^
 ||sundby.com^
-||surak.kz^
 ||surfnet.ca^
 ||suroot.com^
 ||swoop2.me^
