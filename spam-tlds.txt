@@ -8,8 +8,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Sep 2026 21:25 UTC
-! Version: 2026.0911.2125.20
+! Last modified: 18 Sep 2026 21:27 UTC
+! Version: 2026.0918.2127.30
 ! Syntax: AdGuard
 ! Number of latin TLDs: 294 - punycode TLDs: 151
 !
@@ -31,7 +31,7 @@
 ||*.bid^
 ||*.bike^$denyallow=dat.bike|lime.bike|onlinesizing.bike|rapido.bike
 ||*.bingo^
-||*.biz^$denyallow=anonymurl.biz|antiphishing.biz|asana.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|dailyinnovation.biz|engelliler.biz|epson.biz|ette.biz|figureit.biz|gamesindustry.biz|giftee.biz|gimmeporn.biz|hb.biz|ifext.biz|iimwf.biz|kioskcms.biz|knuddels.biz|line.biz|localise.biz|luckysbarbershop.biz|meetbot.biz|movabletype.biz|mysubwaytoolbox.biz|netcetera.biz|notebookcheck.biz|oe24cdn.biz|ooshahwa.biz|panasonic.biz|slussen.biz|surveycake.biz|turbify.biz|volvocars.biz|wiz.biz|wspay.biz|wyborcza.biz|yoox.biz|yougame.biz
+||*.biz^$denyallow=anonymurl.biz|antiphishing.biz|asana.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|dailyinnovation.biz|engelliler.biz|epson.biz|ette.biz|figureit.biz|gamesindustry.biz|giftee.biz|gimmeporn.biz|hb.biz|ifext.biz|iimwf.biz|kioskcms.biz|knuddels.biz|line.biz|localise.biz|luckysbarbershop.biz|meetbot.biz|movabletype.biz|mysubwaytoolbox.biz|netcetera.biz|notebookcheck.biz|oe24cdn.biz|ooshahwa.biz|panasonic.biz|slussen.biz|surveycake.biz|swatchgroup.biz|turbify.biz|volvocars.biz|wiz.biz|wspay.biz|wyborcza.biz|yoox.biz|yougame.biz
 ||*.black^
 ||*.blue^$denyallow=niim.blue
 ||*.boats^
@@ -135,7 +135,7 @@
 ||*.gratis^
 ||*.green^$denyallow=mastodon.green|tilde.green|treebal.green
 ||*.gripe^
-||*.guide^$denyallow=bedandbreakfast.guide|cfw.guide|discordjs.guide|goodtravel.guide|hacks.guide|opensource.guide|ripped.guide|site.guide|slowfood.guide|thebook.guide|wii.guide|wisely.guide|zig.guide
+||*.guide^$denyallow=bedandbreakfast.guide|cfw.guide|discordjs.guide|goodtravel.guide|hacks.guide|homebrew.guide|opensource.guide|ripped.guide|site.guide|slowfood.guide|thebook.guide|wii.guide|wisely.guide|zig.guide
 ||*.guru^$denyallow=bahn.guru|base64.guru|crontab.guru|greenlight.guru|jav.guru|ludwig.guru|mags.guru|tilde.guru|watcher.guru|webcal.guru
 ||*.hair^
 ||*.haus^$denyallow=lunar.haus|tri.haus
@@ -192,7 +192,7 @@
 ||*.navy^
 ||*.new^$denyallow=bolt.new|doc.new|drawing.new|form.new|git.new|lecture.new|postgres.new|sheet.new|site.new|slide.new
 ||*.ng^$denyallow=coupa.ng|google.com.ng
-||*.ninja^$denyallow=clash.ninja|flashscore.ninja|giveaway.ninja|poe.ninja|protomedia.ninja|tgtg.ninja
+||*.ninja^$denyallow=cape.ninja|clash.ninja|flashscore.ninja|giveaway.ninja|poe.ninja|protomedia.ninja|tgtg.ninja
 ||*.observer^$denyallow=project2025.observer
 ||*.okinawa^
 ||*.ong^
@@ -214,7 +214,7 @@
 ||*.place^$denyallow=gamedev.place
 ||*.plus^$denyallow=mstdn.plus|pahe.plus|rcti.plus|saepay.plus
 ||*.poker^
-||*.post^$denyallow=cypruspost.post
+||*.post^$denyallow=cypruspost.post|postnl.post
 ||*.prof^$denyallow=casey.prof
 ||*.promo^
 ||*.pub^$denyallow=arc.pub|bierbaum.pub|infosec.pub|isu.pub|leaflet.pub|lunar.pub|outpost.pub|soapbox.pub|static.pub|wapo.pub
@@ -257,7 +257,7 @@
 ||*.store^$denyallow=adidashardware.store|benz.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|cnckitchen.store|ergomech.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|hom.store|immich.store|iqunix.store|myexpresscarwash.store|myshopline.store|pbshop.store|peugeot.store|pyrocynical.store|roble.store|rokomari.store|shoplazza.store|shopware.store|sofascore.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store|xqc.store
 ||*.studio^$denyallow=affinity.studio|ai.studio|firebase.studio|flourish.studio|starapps.studio|tivio.studio|woodsea.studio|zenn.studio
 ||*.style^$denyallow=nebula.style|primer.style|shiki.style
-||*.su^$denyallow=encode.su|jpg4.su|jpg6.su|promportal.su|saint2.su
+||*.su^$denyallow=encode.su|jpg4.su|jpg5.su|jpg6.su|promportal.su|saint2.su
 ||*.support^$denyallow=ada.support|jitsi.support|windrose.support
 ||*.surf^$denyallow=s-wings.surf
 ||*.sx^$denyallow=filemoon.sx|voe.sx
