@@ -535,6 +535,7 @@
 @@||links.email.crunchbase.com^
 @@||links.iterable.com^
 @@||links.mkt*.net^
+@@||linksaffiliate.com^
 @@||linksmail.geosolinc.com^
 @@||linkspasson.com^
 @@||linksredirect.com^
@@ -756,6 +757,7 @@
 @@||t.6sc.co^
 @@||t.adcell.com^
 @@||t.afi-b.com^
+@@||t.ajump.link^
 @@||t.cfjump.com^
 @@||t.clickwise.net^
 @@||t.co^

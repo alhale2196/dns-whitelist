@@ -8,10 +8,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 16 Oct 2026 14:42 UTC
-! Version: 2026.1016.1442.17
+! Last modified: 23 Oct 2026 22:40 UTC
+! Version: 2026.1023.2240.20
 ! Syntax: AdBlock
-! Number of entries: 1081
+! Number of entries: 1089
 !
 ||one4u.0lx.net^
 ||free.bizhat.com^
@@ -47,6 +47,7 @@
 ||zzz.com.ua^
 ||128-199-7-137.cprapid.com^
 ||3-89-181-9.cprapid.com^
+||sitebeat.crazydomains.com^
 ||members.domaindlx.com^
 ||blink.hirebiz.com^
 ||adlinkfly.mightyscripts.xyz^
@@ -376,7 +377,6 @@
 ||cs-clan.org^
 ||cstu.io^
 ||ct.ws^
-||ctempurl.com^
 ||cut.vin^
 ||cutedrive.com^
 ||cwqso.net^
@@ -555,6 +555,7 @@
 ||han.gl^
 ||hanefra7bikiemta.com^
 ||hase.in^
+||hashnode.dev^
 ||healthyemployee.me^
 ||hexe.in^
 ||hilfe24h.de^
@@ -642,6 +643,7 @@
 ||job.ec^
 ||jp.gp^
 ||ju.mp^
+||justns.ru^
 ||k.gp^
 ||k1.cx^
 ||kann-helfen.de^
@@ -669,6 +671,7 @@
 ||lernt.de^
 ||lhosting.info^
 ||liebe.lc^
+||liftmyresume.com^
 ||lihi1.com^
 ||lihi3.cc^
 ||link.ac^
@@ -695,6 +698,7 @@
 ||luzzati.com^
 ||lyli.fi^
 ||m.vu^
+||m-pages.com^
 ||ma.gp^
 ||macao.net^
 ||maddsites.com^
@@ -746,6 +750,7 @@
 ||myftpupload.com^
 ||myfunnelish.com^
 ||mylinkinb.io^
+||myportfolio.com^
 ||mypressonline.com^
 ||mystrikingly.com^
 ||mytempdir.com^
@@ -814,6 +819,7 @@
 ||pixelt.de^
 ||pizzakeep.shop^
 ||pk.gp^
+||pktriot.net^
 ||pl.de^
 ||pl.gp^
 ||planet.tl^
@@ -917,6 +923,7 @@
 ||start.page^
 ||staticrun.app^
 ||stormpages.com^
+||studio.site^
 ||suchtis.de^
 ||supload.com^
 ||surl.lt^
@@ -940,7 +947,6 @@
 ||temporary-demo.site^
 ||tentbuildingservices.eu^
 ||test.lc^
-||testingnow.me^
 ||th.gp^
 ||the-finance-world.com^
 ||tiiny.io^
@@ -999,6 +1005,7 @@
 ||usafreespace.com^
 ||usclargo.com^
 ||user.lc^
+||usrfiles.com^
 ||uz.gp^
 ||v.gp^
 ||v0r.org^
@@ -1077,6 +1084,7 @@
 ||y.gp^
 ||y55.eu^
 ||ygrrvlvvgf.top^
+||yi.org^
 ||yip.su^
 ||yj.ae^
 ||ykm.de^
