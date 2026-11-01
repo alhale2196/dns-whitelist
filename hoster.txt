@@ -8,10 +8,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 23 Oct 2026 22:40 UTC
-! Version: 2026.1023.2240.20
+! Last modified: 30 Oct 2026 09:23 UTC
+! Version: 2026.1030.0923.26
 ! Syntax: AdBlock
-! Number of entries: 1089
+! Number of entries: 1074
 !
 ||one4u.0lx.net^
 ||free.bizhat.com^
@@ -25,7 +25,6 @@
 ||blogspot.co.nz^
 ||blogspot.co.uk^
 ||blogspot.co.za^
-||dothome.co.kr^
 ||surfblocked.co.cc^
 ||thamboli.co.za^
 ||blogspot.com.ar^
@@ -499,7 +498,6 @@
 ||freakshare.net^
 ||free.cr^
 ||free.lc^
-||free.nf^
 ||freeasphost.net^
 ||freeblog.biz^
 ||freecities.com^
@@ -643,7 +641,6 @@
 ||job.ec^
 ||jp.gp^
 ||ju.mp^
-||justns.ru^
 ||k.gp^
 ||k1.cx^
 ||kann-helfen.de^
@@ -671,7 +668,6 @@
 ||lernt.de^
 ||lhosting.info^
 ||liebe.lc^
-||liftmyresume.com^
 ||lihi1.com^
 ||lihi3.cc^
 ||link.ac^
@@ -698,7 +694,6 @@
 ||luzzati.com^
 ||lyli.fi^
 ||m.vu^
-||m-pages.com^
 ||ma.gp^
 ||macao.net^
 ||maddsites.com^
@@ -737,11 +732,9 @@
 ||my-style.in^
 ||my3gb.com^
 ||my5353.com^
-||mybb.pw^
 ||myblogvoice.com^
 ||mybluehost.me^
 ||mybluehostin.me^
-||myclickfunnels.com^
 ||mycpanel.rs^
 ||mydiscussion.net^
 ||myeweb.net^
@@ -765,7 +758,6 @@
 ||netten.ru^
 ||netz.tl^
 ||newmail.ru^
-||nexmicrosystems.com^
 ||nicepage.io^
 ||nl.gp^
 ||nl.kg^
@@ -923,7 +915,6 @@
 ||start.page^
 ||staticrun.app^
 ||stormpages.com^
-||studio.site^
 ||suchtis.de^
 ||supload.com^
 ||surl.lt^
@@ -948,9 +939,7 @@
 ||tentbuildingservices.eu^
 ||test.lc^
 ||th.gp^
-||the-finance-world.com^
 ||tiiny.io^
-||tiiny.site^
 ||tinylink.in^
 ||tinyurl.ph^
 ||tld.cc^
@@ -1005,7 +994,6 @@
 ||usafreespace.com^
 ||usclargo.com^
 ||user.lc^
-||usrfiles.com^
 ||uz.gp^
 ||v.gp^
 ||v0r.org^
@@ -1026,6 +1014,7 @@
 ||voten.in^
 ||vuzelia.com^
 ||vz.lc^
+||w3spaces.com^
 ||wapka.club^
 ||wapka.site^
 ||wapka.store^
@@ -1040,7 +1029,6 @@
 ||webaccess-email.com^
 ||webblog24.de^
 ||webboss.site^
-||webcindario.com^
 ||webn.cc^
 ||webobo.com^
 ||webpages.one^
@@ -1060,7 +1048,6 @@
 ||world.mu^
 ||world-blog.de^
 ||world-store.de^
-||worldsoffinance.com^
 ||writes.de^
 ||wstd.io^
 ||wtcsites.com^
@@ -1073,7 +1060,6 @@
 ||xblog.in^
 ||xl.lc^
 ||xml.in^
-||xo.je^
 ||xsl.tel^
 ||xsph.ru^
 ||xtreemhost.com^
@@ -1084,7 +1070,6 @@
 ||y.gp^
 ||y55.eu^
 ||ygrrvlvvgf.top^
-||yi.org^
 ||yip.su^
 ||yj.ae^
 ||ykm.de^
