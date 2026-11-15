@@ -8,8 +8,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Nov 2026 22:11 UTC
-! Version: 2026.1106.2211.20
+! Last modified: 14 Nov 2026 23:50 UTC
+! Version: 2026.1114.2350.20
 ! Syntax: AdGuard
 ! Number of latin TLDs: 294 - punycode TLDs: 151
 !
@@ -80,7 +80,7 @@
 ||*.day^
 ||*.deals^$denyallow=gg.deals
 ||*.degree^$denyallow=opf.degree|three60.degree
-||*.delivery^$denyallow=meucarrinho.delivery|push.delivery|return-my.delivery|wedos.delivery|ze.delivery
+||*.delivery^$denyallow=logistix.delivery|meucarrinho.delivery|push.delivery|return-my.delivery|wedos.delivery|ze.delivery
 ||*.dental^$denyallow=clear.dental
 ||*.desi^$denyallow=xhamster45.desi|xhamster46.desi|xhamster.desi
 ||*.directory^$denyallow=2fa.directory|cursor.directory|fedi.directory|ooh.directory|passkeys.directory|reactnative.directory
@@ -89,9 +89,9 @@
 ||*.dog^$denyallow=chainsawman.dog|heika.dog|misskey.dog|telegram.dog
 ||*.download^$denyallow=caido.download|kali.download|mkvtoolnix.download|orangefox.download|up4ever.download|upfiles.download
 ||*.dpdns.org^
-||*.eco^$denyallow=auk.eco|elli.eco|mer.eco|play.eco
+||*.eco^$denyallow=auk.eco|elli.eco|mer.eco|nura.eco|play.eco
 ||*.edu.eu^
-||*.energy^$denyallow=bigdig.energy|eonnext-kraken.energy|homewizard.energy|octopus.energy|oegb-kraken.energy
+||*.energy^$denyallow=bigdig.energy|eonnext-kraken.energy|homewizard.energy|octopus.energy|oegb-kraken.energy|shoptopus.energy
 ||*.engineer^
 ||*.enterprises^
 ||*.equipment^$denyallow=biqu.equipment
@@ -101,7 +101,7 @@
 ||*.expert^$denyallow=bahn.expert|booking.expert|malware.expert
 ||*.exposed^
 ||*.faith^
-||*.family^$denyallow=hns.family
+||*.family^$denyallow=gensa.family|hns.family
 ||*.fan^$denyallow=ktr.fan|os.fan
 ||*.fans^
 ||*.fashion^$denyallow=haal.fashion
@@ -207,7 +207,7 @@
 ||*.phd^$denyallow=rafael.phd
 ||*.photo^$denyallow=faceapp.photo|glass.photo
 ||*.photos^$denyallow=picsum.photos
-||*.pics^$denyallow=am-cdn.pics|covet.pics|pixers.pics|sexhd.pics|slow.pics|twic.pics
+||*.pics^$denyallow=covet.pics|pixers.pics|sexhd.pics|slow.pics|twic.pics
 ||*.pictures^$denyallow=cleanup.pictures|comick.pictures|pornhoarder.pictures
 ||*.pink^
 ||*.pizza^$denyallow=tux.pizza
